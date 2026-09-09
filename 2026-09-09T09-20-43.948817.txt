@@ -1,0 +1,61 @@
+11:11
+
+← Q data science
+
+ll 14
+
+What You Bring
+
+• 5+ years in data engineering or analytics engineering with a data warehouse at the center
+
+•
+
+of your work
+
+Expert SQL: window functions, CTE-heavy transformations, query plan analysis, and performance tuning on an MPP warehouse (Redshift, Snowflake, or BigQuery)
+
+• Strong dimensional modeling fundamentals and demonstrable data intuition
+
+• Experience with dbt or a comparable
+
+transformation framework
+
+Experience maintaining or migrating a legacy warehouse in production
+
+• Working Python for pipeline tooling and
+
+automation
+
+• Excellent communication skills with both technical and non-technical stakeholders
+
+• Solid communication skills in English
+
+Bonus Points
+
+• A dbt migration you've driven - from stored procedures, hand-rolled ETL, or another
+
+framework
+
+• Data governance, metadata management, lineage, and data quality frameworks
+
+• Exposure to the lake side: S3, Glue Data Catalog, Iceberg, Spark
+
+Experience designing analytical layers or building a warehouse architecture from scratch
+
+What We Offer
+
+• Flexible working hours with home office opportunity
+
+• Medicover health insurance
+
+• Company lunch every day in the office
+
+• In-house gym in the office
+
+•
+
+Exciting programs and team-building events
+
+Jelentkezés
+
+Mentés

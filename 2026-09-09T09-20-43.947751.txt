@@ -1,0 +1,63 @@
+11:21
+
+← Q data science
+
+16
+
+Requirements
+
+• 2-5 years of professional experience in data engineering, business intelligence, analytics, or cloud-based data solutions.
+
+• Strong practical experience with Power BI and SQL, including data modeling, report and dashboard development, data transformation, and working with relational and analytical data.
+
+•
+
+Good hands-on knowledge of Microsoft Fabric, including data engineering, data integration, Lakehouse, Warehouse, and analytics concepts, as well as a good understanding of Microsoft Azure data services.
+
+• Experience working directly with customers or business stakeholders, with the ability to translate business requirements into practical technical solutions and communicate technical concepts clearly.
+
+• Ability to independently manage technical tasks and workstreams within a project, with a proactive, problem-solving, and delivery-oriented approach. • Native or near-native proficiency in Hungarian, with the ability to communicate confidently and professionally with customers in both technical and business contexts.
+
+•
+
+• Business-level proficiency in English, with the
+
+ability to participate in customer meetings, present technical solutions, and collaborate with
+
+international stakeholders.
+
+• Experience in discovery, consulting, presales, or customer-facing technology projects is an
+
+advantage.
+
+• Willingness to continuously develop expertise in Microsoft data and analytics technologies.
+
+NICE TO HAVE
+
+• Microsoft certifications related to Power BI, Microsoft Fabric, or Azure Data.
+
+• Experience with Azure Data Factory, Azure Synapse, or other Microsoft data services.
+
+• Experience delivering Proof of Concepts or Proof of Value solutions.
+
+• Familiarity with data visualization and BI best
+
+practices and experience working in Agile project environments.
+
+Location: Budapest - NQHUN, Budapest, Budapest, Hungary
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Solutions Engineer (Microsoft Fabric & Azure), Budapest, Budapest, Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Noventiq
+
+Hungary
+
+Jelentkezés
+
+Mentés

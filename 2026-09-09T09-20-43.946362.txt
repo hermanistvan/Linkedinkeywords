@@ -1,0 +1,85 @@
+11:55 O
+
+← Q data science
+
+33
+
+Required Skills
+
+Strong Data Engineering experience Databricks and PySpark expertise Advanced Python skills
+
+ETL/ELT design and implementation
+
+Azure Data Platform experience
+
+Data quality, governance and observability knowledge
+
+Experience building production-grade data pipelines
+
+Exposure to Machine Learning and Al workloads
+
+Nice to Have
+
+Azure Al Services
+
+MLflow
+
+MLOps and CI/CD implementation
+
+NLP/NLU project experience
+
+✰ Experience in enterprise-scale Al or data platforms
+
+Tech Stack
+
+• Azure
+
+•
+
+Databricks
+
+• PySpark
+
+• Python
+
+• Azure Blob Storage
+
+• Azure Al Services
+
+• MLflow
+
+• CI/CD
+
+• MLOps
+
+• ETL/ELT
+
+• Data Quality & Governance
+
+Working Model
+
+• Fully remote day-to-day
+
+• Occasional team workshops and planning
+
+sessions in Prague (typically once per quarter)
+
+• All business travel and accommodation expenses covered
+
+• Flexible working environment
+
+• International engineering and Al team
+
+Interested? Send me a message or apply directly to discuss the project, team structure and rate details.
+
+Az álláshirdető által megadott követelmények
+
+• 5+ év munkatapasztalat: Databricks Products
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

@@ -1,0 +1,61 @@
+12:11 O
+
+← Q data science
+
+38
+
+What You Bring
+
+•
+
+5+ years building data-intensive applications or backend systems
+
+• High proficiency in Python and strong software engineering fundamentals: testing strategy, CI/CD, debugging distributed systems in production Expertise in distributed data processing patterns and hands-on experience with big data
+
+•
+
+technologies (Spark, Flink, or similar)
+
+Strong SQL capabilities for complex queries • Working knowledge of AWS (S3, EC2, Lambda, EMR, or equivalents) and experience running your own code in production
+
+•
+
+Ability to operate independently, embrace new technologies, and make sound technical decisions Solid communication skills in English
+
+Bonus Points
+
+• Production experience with Kafka and stateful stream processing in Flink
+
+• Open table formats (Apache Iceberg, Delta Lake)
+
+•
+
+and lakehouse architectures
+
+ML serving experience: feature pipelines, inference APIs, A/B testing
+
+What We Offer
+
+• Flexible working hours with home office
+
+opportunity
+
+• Medicover health insurance
+
+•
+
+Company lunch every day in the office
+
+• In-house gym in the office
+
+• Exciting programs and team-building events
+
+• Recreation room with darts, ping pong, foosball, XBox, and other games
+
+• Modern and fancy office in Buda close to Széll Kálmán tér
+
+Az álláshirdetésben szereplő juttatások
+
+Jelentkezés
+
+Mentés

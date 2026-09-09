@@ -1,0 +1,67 @@
+11:18
+
+← Q data science
+
+ll (15
+
+Requirements
+
+•Extensive development experience (over 3 years) in end-to-end Data Analytics Solutions with classic and modern cloud data technologies
+
+• Production experience in Data Analytics, Data Visualization, Data Security, Data Modelling, and similar areas
+
+• Experience building data provisioning and transformation pipelines (ETL/ELT), Data
+
+Warehouse, and Database design for on-premises and cloud environments
+
+• Experience with data modeling and understanding of Data Architecture Layers including multi-source management and data cleansing
+
+• Advanced SQL knowledge, including analytical functions, MODEL, and PIVOT
+
+• Understanding of advanced data security principles such as audit, RLS, VPD, and attribute-level security
+
+• Practical experience developing Data Analytics/ Visualization Solutions in Cloud environments (AWS, Azure, GCP)
+
+• Solid understanding of core cloud technologies and awareness of niche cloud services
+
+• Proven experience in data solutions
+
+troubleshooting, monitoring, performance tuning, and bottleneck analysis
+
+• Good understanding of CI/CD principles and deployment models like Canary release and Blue-Green
+
+• Data-oriented mindset with strong compliance awareness (PI, GDPR, HIPAA)
+
+• Ability to work effectively in a fast-paced, startup-like agile development environment • Analytical problem-solving skills with excellent interpersonal and communication abilities • Experience in direct client communications • Experience across different business domains • English proficiency at B2 level or higher
+
+We offer
+
+• Dynamic, entrepreneurial corporate environment • Diverse multicultural, multi-functional, and
+
+multilingual work environment
+
+• Opportunities for personal and career growth in a progressive industry
+
+• Global scope, international projects
+
+•
+
+Widespread training and development
+
+opportunities
+
+• Access to LinkedIn Learning solutions
+
+• Competitive salary and various benefits
+
+• Advanced wellbeing and CSR programs, recreation
+
+area
+
+Do you know someone interested in starting a career in IT? Share our EPAM Campus programs with them, where they can enhance their knowledge in various fields online, free of charge.
+
+EPAM is a leading global provider of digital platform
+
+Jelentkezés
+
+Mentés

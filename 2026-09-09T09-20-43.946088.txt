@@ -1,0 +1,65 @@
+11:58 O
+
+← Q data science
+
+34
+
+What You Need To Be Successful
+
+•
+
+•
+
+Strong SQL and data transformation skills
+
+• Experience with data pipelines and ETL/ELT frameworks
+
+• Understanding of data modeling and layered architectures (e.g., Medallion)
+
+• Experience with large-scale data processing (e.g., Spark, Databricks) is a plus
+
+• Familiarity with cloud platforms (AWS, Azure) is a plus
+
+•
+
+• Experience with Git and modern development practices
+
+• Strong problem-solving and performance optimization skills
+
+• Understanding of APIs and data integration patterns
+
+• Working knowledge of Python for data processing, automation, and pipeline development
+
+Bonus Points if You Have
+
+• Experience with Databricks, Spark, or distributed data processing frameworks
+
+• Experience working with cloud platforms such as Azure or AWS
+
+•
+
+Experience building data pipelines using Python Familiarity with Delta Lake, Medallion Architecture, or modern Lakehouse concepts
+
+• Experience working with manufacturing, supply chain, procurement, or operational data
+
+• Exposure to BI and analytics tools such as Power
+
+BI, Qlik, Tableau, or similar platforms
+
+• Familiarity with REST APIs, JSON, and integrating external data sources
+
+•
+
+Experience using Al-assisted development tools
+
+such as GitHub Copilot, ChatGPT, or similar coding assistants
+
+• Understanding of data quality, validation, and testing concepts
+
+• Experience with Agile development methodologies and collaborative software development practices Bachelor's degree in Computer Science,
+
+•
+
+Information Systems, Engineering, Data Analytics,
+
+or a related field.

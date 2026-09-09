@@ -1,0 +1,41 @@
+11:22
+
+← Q data science
+
+Must-Haves
+
+17
+
+•
+
+3+ years of experience in data engineering or data analytics, focusing on the transformation component of the ELT process.
+
+• Experience building scalable transformation layers, preferably through formalized SQL models (e.g., dbt).
+
+• Experience in Python for transformations beyond SQL.
+
+•
+
+Experience with CI/CD and code version control. • Strong hands-on experience with relational databases (e.g., Postgres, Iceberg), including query optimization.
+
+• Ability to adapt quickly in a fast-paced environment and tailor solutions to evolving business needs.
+
+Experience with ETL technologies for ingestion (e.g., Airbyte) and orchestration (e.g., Airflow).
+
+• Experience working in a cloud environment (AWS or GCP).
+
+If you're passionate about analytics engineering and thrive in a dynamic startup environment, we'd love to hear from you!
+
+How We Take Care Of You
+
+• Competitive Salary & Stock Options
+
+• Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care. Internationally, this includes a stipend value to offset medical costs.
+
+• New Hire Home-Office Setup: One-time USD $500 • Monthly Stipend: USD $150 per month via a Brex Card
+
+• Work with awesome hard working people, suner
+
+Jelentkezés
+
+Mentés

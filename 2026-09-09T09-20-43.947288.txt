@@ -1,0 +1,79 @@
+11:25
+
+← Q data science
+
+17
+
+What You Bring
+
+•
+
+Strong proficiency in Python and SQL
+
+• Experienced in Spark or similar distributed processing technologies
+
+• Deep experience with AWS data services (Glue, S3, Step Functions, Athena, EMR, DynamoDB, SQS) • Experience working with data streaming
+
+•
+
+technologies (Kafka, Spark Streaming, etc.)
+
+Experienced in data modeling (preferably in finance or insurance)
+
+• Familiarity with MongoDB and document-oriented
+
+data sources
+
+• Experience with data lake patterns: medallion architecture (bronze/silver/gold), schema management, incremental processing
+
+• Comfort with laC (CloudFormation or Terraform) Ability to debug data quality issues across distributed systems
+
+• Experience implementing data quality frameworks (e.g., Great Expectations) to ensure pipeline reliability and data integrity
+
+Nice to Have
+
+• Experience in subrogation, claims processing, insurance or financial technology
+
+English level
+
+Upper-Intermediate
+
+Legal & Hiring Information
+
+• Exadel is proud to be an Equal Opportunity Employer committed to inclusion across minority, gender identity, sexual orientation, disability, age, and more.
+
+• Reasonable accommodations are available to enable individuals with disabilities to perform essential functions.
+
+• Please note: this job description is not exhaustive. Duties and responsibilities may evolve based on business needs.
+
+• Compensation details are shared with candidates at the early stage of the recruitment process.
+
+• The offer is not binding until a signed contract is
+
+in place.
+
+Your Benefits at Exadel
+
+Exadel benefits vary by location and contract type. Your recruiter will fill you in on the details.
+
+• International projects
+
+• In-office, hybrid, or remote flexibility
+
+• Medical healthcare
+
+• Recognition program
+
+•
+
+•
+
+Ongoing learning & reimbursement
+
+Well-being program
+
+• Team events & local benefits
+
+Jelentkezés
+
+Mentés

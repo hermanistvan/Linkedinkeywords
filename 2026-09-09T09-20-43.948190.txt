@@ -1,0 +1,103 @@
+11:17
+
+← Q data science
+
+ll (15
+
+:
+
+What does it take to fit the bill?
+
+• Consultant mindset & passion for customer experience - you prioritize your work with the customer in mind and you seek to advise (rather than purely execute) your customers on the best-in-class technical solutions;
+
+• Excellent communication & presentation skills - you can adjust your communication style, and articulate complex, technical concepts to all types of audiences;
+
+-
+
+• Solid software engineering foundations - you are a stack-agnostic senior software engineer, have significant experience working on Unix/Linux, and a strong understanding of how Distributed Systems work. Additionally, you are familiar with (and keen to follow) best-in-class software engineering principles;
+
+• Data & Cloud are part of your engineering journey - you played a role in teams that designed and implemented data-intensive applications and you have strong SQL & NoSQL hands-on experience. Exposure to Real-Time Data Processing Systems, Apache Spark, and/or the Big Data ecosystem is an advantage;
+
+-
+
+• Mentoring skills & strong predisposition to knowledge-sharing - are things that excite you. We consider ourselves a learning organization and believe that these are meaningful tools for one to compound his/her impact across the team and the organization. Thus technical mentoring and/or people management hands-on experience is a big plus;
+
+• You thrive when having to solve problems & take ownership - you solve problems on your own and advise (or coordinate) others on how to do the same. Moreover, you love stepping up as a technical lead or identifying organizational gaps and filling them in - being an organizational process or documentation gap, a customer communication miss-match, or a resource allocation deficiency;
+
+• You are fluent in English and willing to travel (mainly in the EU and normally within a short business trip setup) up to 15% of your time.
+
+What do we offer?
+
+• Educational benefits: There's no shortage of learning opportunities at DATAPAO, meaning that you'll get access to Databricks' public and internal courses to learn all the tricks of Distributed Data Processing, MLOps, Apache Spark, Databricks, and Cloud Migration from the best. Additionally, we'll
+
+•
+
+•
+
+pay
+
+for various data & cloud certifications. You'll also get dedicated time for learning during work hours and access to our internal library.
+
+Flexible PTO and Working Hours: We're flexible
+
+about your working routine and how many days
+
+you take off if it does not conflict with customer
+
+success, company goals, and the work you do. Flexible Office: It is up to you which days you
+
+spend in the office. However, as a strong
+
+community is one of DATAPAO's value
+
+propositions, we'd expect you to spend one day
+
+per week in the office on average.
+
+• 30 Calendar Days of Paternity Leave (if applicable): We think it's essential for both parents
+
+·
+
+to be there when it matters the most.
+
+Private Medical Insurance: We provide a private
+
+medical package via Generali.
+
+• Employee Assistance Program (EAP): Through EAP, we offer our employees access to psychological, financial, and legal consulting services via phone or in person.
+
+• Top-notch working equipment: Working comfortably means working well. Therefore, you
+
+will get a MacBook, a Herman Miller office chair, standing desks in the office, and whatever else is needed to give your best.
+
+• The chance to make an impact in a high-transparency culture: Open feedback and a no-politics environment are things we value a lot at DATAPAO. Additionally, you'll get the chance to shape the future of a rapidly growing tech company, to work with cutting-edge technologies, and to help some of the biggest and most innovative companies in the world sort out their data puzzles.
+
+• A cozy and modern office in the heart of Budapest: Located in a vibrant, central part of the city (Opera/Oktogon), it's designed to foster focus, creativity, and team connection. You'll find open spaces for group work, quiet corners for deep thinking, and plenty of natural light. It's well-stocked with snacks, drinks, coffee, and
+
+beverages. Optional Friday evening beers, movie, and wine-tasting nights with the team are also on
+
+us.
+
+-
+
+The gross salary for this position ranges from gr. 1.200.000 1.700.000 HUF/month for a Medior and from gr. 1.700.000 -2.300.000 HUF/month for a Senior role, depending on your assessed seniority
+
+level during the selection process.
+
+Want to know more about us?
+
+DATAPAO is a Databricks Gold Partner covering the full data and Al journey - architecture, delivery, and enablement - for global brands that refuse to
+
+settle for "good enough." We don't hand over a slide
+
+deck and walk away: our engineers embed directly with client teams, and our training arm has turned 20,000+ professionals into Databricks experts worldwide.
+
+We're backed by Databricks itself - the creators of
+
+Apache Spark - and act as their delivery and
+
+training partner across Europe. That partnership has earned us Databricks EMEA Emerging Partner
+
+Jelentkezés
+
+Mentés

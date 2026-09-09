@@ -1,0 +1,201 @@
+11:14
+
+← Q data science
+
+$ 14
+
+:
+
+Dein Profil
+
+Wir suchen einen vielseitigen Al Engineer, der solide Software-Engineering-Grundlagen mit Al/ ML-Expertise kombiniert, um produktionsreife, agentische Kl-Lösungen zu entwickeln, die automatisiert, skalierbar und anbieterunabhängig sind, mit End-to-End-Verantwortung vom Design über die Bereitstellung bis zum Betrieb.
+
+Muss-Kriterien
+
+• Mindestens 4 Jahre Erfahrung im Software-Engineering mit ausgeprägten
+
+Python-Kenntnissen
+
+• Mindestens 4 Jahre Erfahrung im Software-Engineering mit ausgeprägten
+
+Scripting-Kenntnissen
+
+• Mindestens 2 Jahre Erfahrung im Deployment und
+
+·
+
+Betrieb von Produktionssystemen
+
+⚫ Erfahrung mit CI/CD-Pipelines
+
+•
+
+Erfahrung mit Monitoring-Systemen
+
+⚫ Erfahrung mit Incident Response
+
+• Mindestens 2 Jahre Erfahrung mit Cloud-Plattformen (AWS bevorzugt, aber
+
+Multi-Cloud-Bewusstsein geschätzt)
+
+• 1-2+ Jahre Erfahrung mit LLMs (Large Language Models)
+
+• 1-2+ Jahre Erfahrung mit agentischer Kl • 1-2+ Jahre Erfahrung mit RAG
+
+•
+
+(Retrieval-Augmented Generation) Systemen
+
+1-2+ Jahre Erfahrung mit produktiven Al/ ML-Systemen
+
+• Nachgewiesene Erfolgsbilanz beim Ausliefern von Kl-Systemen in die Produktion mit vollständiger Automatisierung und Monitoring
+
+• Fähigkeit, sauberen, wartbaren Python-Code und Automatisierungsskripte (bash/shell) zu schreiben • Erfahrung im Aufbau von CI/CD-Pipelines und Deployment-Automatisierung für Kl-Systeme
+
+•
+
+•
+
+Erfahrung in der Erstellung von Infrastructure as
+
+Code und Configuration Management Lösungen
+
+(terraform)
+
+Erfahrung in der Entwicklung von APIs,
+
+Microservices und ereignisgesteuerten Architekturen
+
+• Fähigkeit, agentische KI-Systeme mit autonomem Reasoning und Tool-Nutzung zu entwerfen und zu implementieren
+
+⚫ Erfahrung im Aufbau von RAG
+
+(Retrieval-Augmented Generation) Systemen und Wissensbasen
+
+• Erfahrung in der Entwicklung von
+
+Multi-Agenten-Orchestrierung und
+
+Koordinationsmustern
+
+Erfahrung in der Integration von LLMs mit Geschäftslogik und externen Systemen • Fähigkeit, den kompletten
+
+Produktions-Deployment-Lebenszyklus zu
+
+verantworten
+
+⚫ Erfahrung in der Implementierung von Monitoring-, Logging-, Alerting- und Observability-Lösungen
+
+• Fähigkeit, Runbooks, Deployment-Guides und
+
+•
+
+operative Dokumentation zu erstellen
+
+Erfahrung in der Sicherstellung von Sicherheit, Skalierbarkeit und Zuverlässigkeit von
+
+Kl-Systemen
+
+• Fähigkeit, anbieterunabhängige, portable
+
+Kl-Architekturen zu entwerfen
+
+• Fähigkeit, pragmatische
+
+Build-vs-Buy-Entscheidungen für Komponenten zu
+
+treffen
+
+• Fähigkeit, Managed Services mit
+
+Open-Source-Alternativen abzuwägen
+
+• Fähigkeit, für Multi-Cloud-Kompatibilität zu
+
+konzipieren, wo angemessen
+
+•
+
+Ownership-Mentalität mit der Fähigkeit,
+
+Verantwortung für Features vom Design bis zum
+
+Produktionsbetrieb zu übernehmen
+
+• Pragmatische Problemlösungsfähigkeiten mit der Fähigkeit, Perfektion mit Lieferung
+
+auszubalancieren und fundierte Trade-offs zu
+
+treffen
+
+• Klare Kommunikationsfähigkeiten mit der Fähigkeit, technische Konzepte sowohl
+
+Ingenieuren als auch nicht-technischen
+
+Stakeholdern zu erklären
+
+• Automatisierungsbefürworter-Mentalität mit dem Standardansatz, zu automatisieren statt manuelle
+
+Schritte zu dokumentieren
+
+•
+
+Selbstständig mit der Fähigkeit, Projekte mit
+
+minimaler Aufsicht voranzutreiben
+
+• Kollaborativer Ansatz mit der Fähigkeit, Wissen zu teilen, Code zu reviewen und Teammitglieder zu
+
+unterstützen
+
+• Produktionsorientiertes Denken über Monitoring, Sicherheit und Skalierbarkeit von Anfang an
+
+•
+
+Anpassungsfähig und komfortabel mit
+
+Mehrdeutigkeit, sich ändernden Anforderungen
+
+und dem Erlernen neuer Technologien
+
+• Qualitätsfokussiert mit der Fähigkeit, sauberen Code, umfassende Tests und klare Dokumentation zu schreiben
+
+Von Vorteil
+
+•
+
+Erfahrung mit Agent-Frameworks (LangGraph,
+
+•
+
+CrewAl, AutoGen, Strands)
+
+Erfahrung mit Agent-Memory-Systemen (Kurzzeit-, Langzeit-, semantisches Gedächtnis)
+
+• Kenntnisse über Agent-Evaluierungs- und
+
+Benchmarking-Methoden
+
+• Erfahrung mit Human-in-the-Loop-Mustern für
+
+Agentensysteme
+
+• Kenntnisse über Agent-Sicherheit, Guardrails und verantwortungsvolle KI-Praktiken
+
+•
+
+•
+
+Erfahrung in der Telekommunikation oder
+
+Unternehmens-IT
+
+⚫ Erfahrung mit Log-Analyse und Operational
+
+Intelligence Systemen
+
+⚫ Erfahrung mit Dokumentenverarbeitung und Informationsextraktion
+
+•
+
+Erfahrung mit kundenorientierten Kl-Lösungen

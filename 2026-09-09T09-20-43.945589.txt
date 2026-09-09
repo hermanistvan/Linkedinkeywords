@@ -1,0 +1,81 @@
+12:15 O
+
+← Q data science
+
+39
+
+Dein Profil
+
+Wir suchen einen erfahrenen Expert Developer - Data Analytics & Data Engineering mit umfassender Expertise in moderner Datenplattform-Architektur, cloudbasiertem Data Engineering und nachgewiesener Erfahrung in der Migration traditioneller Data-Warehouse-Lösungen zu modernen Lakehouse-Architekturen auf Azure.
+
+Muss-Kriterien
+
+• Abschluss in (Wirtschafts-)Informatik, Betriebswirtschaft oder gleichwertige praktische
+
+Erfahrung
+
+• Mindestens 5 Jahre Erfahrung in Data-Engineering-Architektur
+
+• Mindestens 5 Jahre praktische Erfahrung mit Databricks & Delta Lake auf Azure-Services • Nachgewiesene Expertise in der Migration von traditionellen Data-Warehouse-Lösungen zu modernen Datenplattformen wie Lakehouse & Delta Lake
+
+• Ausgeprägte Erfahrung in modernen
+
+Datenplattform- und
+
+Data-Warehousing-Architekturen
+
+• Fundierte Kenntnisse in
+
+Data-Lake-Speicherorganisation und -Architektur • Solides Verständnis relationaler und
+
+multidimensionaler Datenbanksysteme
+
+• Kenntnisse in
+
+•
+
+Data-Warehouse-Modellierungsmethoden (Kimball, Inmon, Data Vault)
+
+Erfahrung mit Datenpipelines unter Verwendung von Spark Structured Streaming und Delta Lake • Ausgeprägte Programmierkenntnisse in SQL Ausgeprägte Programmierkenntnisse in Python • Ausgeprägte Programmierkenntnisse in Spark ⚫ Erfahrung mit Azure Data Factory
+
+⚫ Erfahrung mit Azure Data Lake Storage
+
+•
+
+Erfahrung mit Azure Event Hub
+
+• Kenntnisse im Datenschutz und in der Sicherheit beim Umgang mit geschäftskritischen und personenbezogenen Daten
+
+Von Vorteil
+
+• Vertrautheit mit Reporting, Analytics und Dashboarding
+
+• Praktische Erfahrung mit agilen
+
+Entwicklungsmethoden (SCRUM, KANBAN, etc.)
+
+• Kenntnisse in BI-Lösungen mit Azure Databricks
+
+• Kenntnisse in Azure Synapse
+
+• Kenntnisse in Azure Logic Apps
+
+• Kenntnisse in Power BI
+
+•
+
+⚫ Erfahrung mit Power Platform (Power Automate,
+
+Power Apps)
+
+• DP-900: Microsoft Azure Data Fundamentals
+
+Zertifizierung
+
+• DP-100: Designing and Implementing a Data Science Solution in Azure Zertifizierung
+
+• DP-203: Data Engineering on Microsoft Azure
+
+Jelentkezés
+
+Mentés

@@ -1,0 +1,71 @@
+12:14 O
+
+← Q data science
+
+39
+
+Requirements
+
+• 2+ years of experience in Data Software Engineering
+
+• Coding experience with one of the following programming languages: Python/Java/Scala/
+
+Kotlin
+
+• Understanding of cloud environments with leading providers (AWS, Azure, GCP), including Storage, Compute, Networking, Identity and Security, NoSQL, RDBMS and Cubes, Big Data Processing, Queues and Stream Processing, Serverless, Data Analysis and Visualization, Machine Learning as a Service (e.g., SageMaker, TensorFlow)
+
+•
+
+Familiarity with cloud-native technologies such as Databricks, Azure Data Factory, AWS Glue, AWS EMR, Athena, GCP Dataproc, or GCP Dataflow • Familiarity with Big Data technologies like Spark Core, Spark SQL, Spark ML, Kafka, Kafka Connect, Airflow, NiFi, or StreamSets
+
+• Experience with Linux OS, configuring services, and scripting with basic shell commands, as well as understanding network fundamentals
+
+• Competency in SQL and relational algebra
+
+•
+
+•
+
+Background in developing software solutions
+
+using Big Data technologies, including
+
+administration, monitoring, debugging, configuration management, and performance tuning
+
+Knowledge of data ingestion pipelines, Data Warehousing, and Data Lakes concepts
+
+• Expertise in data modeling and development experience using modern Big Data components • Knowledge of designing scalable, available, and fault-tolerant systems
+
+• Understanding of CI/CD principles and best practices
+
+• Analytical problem-solving abilities paired with excellent interpersonal and communication skills • Data-driven mindset that reflects motivation, independence, and efficiency, thriving under pressure while prioritizing effectively
+
+• Flexibility to adapt to fast-paced (startup-like) agile environments
+
+• Knowledge of container and resource management systems such as Docker and Kubernetes
+
+•
+
+Proficiency in infrastructure troubleshooting, performance tuning, and resolving bottlenecks
+
+• Broad exposure to diverse business domains • English language proficiency (B2 level or higher)
+
+Nice to have
+
+•
+
+Experience with the Snowflake platform
+
+We offer
+
+• Dynamic, entrepreneurial corporate environment
+
+• Diverse multicultural, multi-functional, and
+
+multilingual work environment
+
+• Opportunition for porconal and caroor growth in o
+
+Jelentkezés
+
+Mentés

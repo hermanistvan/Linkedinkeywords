@@ -1,0 +1,43 @@
+11:15
+
+← Q data science
+
+15
+
+•
+
+Required Qualifications
+
+Bachelor's or Master's degree in a health, science, IT, mathematics, or related field.
+
+• Minimum 6 years of industry experience in clinical data analysis, statistical programming, or pharmacometrics support.
+
+• Expert-level proficiency in R for data processing, dataset creation, and QC automation.
+
+• Hands-on experience creating NONMEM datasets, including complex data structures for PK/PD analyses.
+
+• Strong understanding of SDTM, ADaM, and controlled terminology.
+
+• Applied knowledge of PK/PD principles and clinical trial concepts.
+
+• High attention to detail with strong analytical, documentation, and communication skills.
+
+•
+
+Ability to work independently and collaboratively across global, cross-functional teams.
+
+Preferred Skills
+
+• Experience building or enhancing standardized workflows for NONMEM dataset creation,
+
+submission packages, and QC.
+
+Experience with R package testing, validation frameworks, or reproducible programming practices.
+
+• Familiarity with pharmacometrics workflows in clinical or real-world settings.
+
+IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical
+
+Jelentkezés
+
+Mentés

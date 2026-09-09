@@ -1,0 +1,49 @@
+11:59 O
+
+← Q data science
+
+34
+
+•
+
+How You'll Make An Impact
+
+As a Senior Data Engineer, you will contribute to the technical management and development of the team's cloud data platform and data models which are currently built on Azure Databricks. • Develop and maintain the Data-Driven Project Modelling (DPM) engine, following DevOps best practices to support strategic decision-making, risk assessments, business cases, and financial reporting.
+
+•
+
+Collaborate and bring positive energy to a multinational team of technical and business experts to translate business logic into data solution development.
+
+• Provide support and documentation for end-users to move towards a transparent self-service usage of DPM's developed applications and solutions. • Be proactive, take accountability and
+
+independently suggest and implement innovative solutions to create value for the team's key stakeholders.
+
+What You Bring
+
+•Extensive experience (minimum 3 - 5 years) as data engineer including hands-on knowledge in at least one high-level programming language (e.g. Python, or similar), SQL, as well as modern large-scale data processing tools such as Apache Spark, or similar. In a previous role, you should have gained deep understanding of ELT/ETL processes, data governance, modelling concepts like Star and Snowflake, modern lakehouse architectures, and interfaces to data visualization tools like Power BI.
+
+• Proven experience with at least one of the major cloud platforms (Azure, AWS, GCP), and knowledge of common DevOps best practices, such as agile frameworks, version control, CI/CD, unit testing, etc.
+
+• Collaborative mindset in an international environment, taking ownership of developed and inherited data solutions, as well as a high level of personal integrity, self-motivation, and
+
+independence.
+
+• Strong critical thinking and problem-solving skills with a customer centric approach, delivering high-quality results under pressure. Furthermore, a willingness to collaborate with non-technical
+
+finance stakeholders to build solutions that are both technically scalable and give immediate value
+
+to stakeholders.
+
+• Experience with state managed
+
+infrastructure-as-code tools, knowledge about
+
+financial processes, specifically warranty
+
+management within finance, or rolling out agentic Al solutions in production is a plus.
+
+About The Team
+
+Jelentkezés
+
+Mentés

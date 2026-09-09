@@ -1,0 +1,45 @@
+11:50 O
+
+← Q data science
+
+31
+
+We are excited if you have (Required Experience):
+
+•
+
+•
+
+5+ years of experience as a Data Engineer.
+
+Proven experience with Al-first approaches and "Vibe Coding," with a demonstrated ability to deliver production-ready data pipelines using Al orchestration rather than purely manual coding. • Deep proficiency with Al-assisted coding tools, including Cursor, GitHub Copilot, or Gemini, to modernize and accelerate engineering workflows. • Solid skills in System Design for diverse data architectures, including expert-level knowledge of batch processing and real-time/streaming processing.
+
+• Proficient in coding with Python (primary) and SQL, with experience in ETL and data processing. • Hands-on experience with Distributed Systems and Big Data technologies, including Spark and the Hadoop ecosystem (Hive, Impala, Kafka).
+
+•
+
+Proven proficiency in Data Modeling using industry best practices (e.g., Kimball, Inmon) to ensure
+
+data integrity.
+
+Ability to monitor critical data pipelines for quality and resolve any issues effectively.
+
+• Education: Bachelor's degree in Computer Science, Engineering, Information Systems, or a related field or equivalent experience.
+
+• Strong communication skills, both written and verbal.
+
+You may also have:
+
+• Experience supporting GenAl applications from the Data Engineering side, including managing vector databases, RAG (Retrieval-Augmented Generation) pipelines, or LLM data orchestration. Experience with Apache Airflow or Apache NiFi. • Expertise in optimizing data storage using HDFS/ Parquet/Avro, Kudu, or HBase.
+
+•
+
+What you can expect from us:
+
+• Generous PTO Policy
+
+• Support work life balance with Unplugged Days • Flexible WFH Policy
+
+• Mental & Physical Wellness programs
+
+• Phone and Internet Reimbursement program • Access to Continued Career Development

@@ -1,0 +1,169 @@
+11:19
+
+16
+
+X
+
+Al Engineer
+
+Aliz⚫ Budapest, Hungary (Hybrid)
+
+Why we are looking for you
+
+We are looking for an Al Engineer preferably with a Cloud or ML engineer background who has
+
+:
+
+experience in building agentic systems and treats modern Al tools as a "third hand": not as a shortcut, but as a force multiplier for designing, building, testing, and shipping reliable solutions.
+
+The ideal candidate is curious, hands-on, and continuously up to date with agentic tools (such as Claude Code, Codex, and similar harnesses), solutions and Al in general. They understand how to build agent harnesses, workflows, and guardrails around them, while also keeping up to date with new harness technologies. They can combine coding, low-code, and no-code approaches without sacrificing quality, using structured context, validation, automated testing, monitoring, and human-in-the-loop controls to enforce reliability. We are looking for someone who can effectively drive agents via clear and well architected specifications and decomposed tasks. This role is for someone who can translate business problems into practical Al-assisted solutions and help the wider team adopt Al responsibly and effectively.
+
+This role will suit you if you
+
+• you already have experience building agentic solutions/workflows in production.
+
+• see Al tools as a serious engineering partner, not just a productivity shortcut.
+
+• enjoy experimenting with what Al agents, coding
+
+assistants, and no-code tools can do in real
+
+business workflows.
+
+care about quality, testing, maintainability, and responsible Al use.
+
+⚫ are comfortable learning fast and staying up to date with Al tools and news.
+
+• enjoy tackling complex challenges across different domains and have the agentic mindset and problem-solving skills to overcome them.
+
+You will be responsible for
+
+• setting up agentic workflows on various projects for various problems.
+
+• using Al coding agents and no-code or low-code platforms to accelerate delivery without
+
+•
+
+compromising reliability. The projects would range from building genmedia applications to
+
+automating complete data warehouse migrations. ⚫ creating agent harnesses, prompts, workflows, evaluations, and guardrails to make Al outputs safer and more predictable.
+
+•
+
+⚫ testing, validating, and monitoring Al-generated or Al-assisted solutions.
+
+•
+
+⚫ helping teams understand where Al can create value and where human control, review, or
+
+•
+
+traditional engineering is still needed.
+
+documenting best practices and reusable patterns
+
+for responsible Al adoption.
+
+We are looking for you if you
+
+⚫ have overall 5+ years of professional experience in
+
+software development, with deep knowledge of common methodologies (SOLID, TDD/BDD, Clean Code, CI/CD, refactoring, design patterns, containerization, observability, security, QA).
+
+• have at least 2 years experience working with generative Al and coding assistants, possessing practical proficiency with toolsets like Codex, Claude, Copilot or similar.
+
+⚫ have experience with using agentic tools and setting up agentic workflows, including long running agents, to take on a greater variety of technical challenges than before, working in
+
+domains you used to be unfamiliar with.
+
+•
+
+hands-on experience with public cloud
+
+environments (preferably GCP).
+
+⚫ have experience with enterprise environments and
+
+customers.
+
+• curiosity and a passion to learn new methodologies and technologies.
+
+• fluent communication skills in English.
+
+It would be nice if you also have
+
+• experience with using machine learning tools to
+
+solve problems for business stakeholders.
+
+• an understanding of the inner workings of LLMs,
+
+•
+
+coding assistants and ML technologies.
+
+have some previous experience with data
+
+engineering.
+
+⚫ team lead or influence without authority
+
+•
+
+experience.
+
+client-facing skills and consulting experience.
+
+Why people stay
+
+• strong engineering culture
+
+• real autonomy
+
+⚫ international exposure
+
+•
+
+high technical bar
+
+•
+
+• flexible working model
+
+You will enjoy
+
+•
+
+⚫ using cutting-edge technologies and learning from A+ Google Cloud experts.
+
+• maintaining a healthy work-life balance with financial initiatives to support physical and mental
+
+health and green commuting.
+
+• a hybrid and collaborative working environment, with no compulsory office days.
+
+• flexible working time to adapt to when you feel
+
+most productive.
+
+employee counseling opportunity with coaches and contracted psychologists.
+
+• continuous training and learning opportunities with yearly allocated learning hours from working time, regular feedback, and dedicated mentorship by experienced colleagues.
+
+⚫ last but not least, a great community. :)
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Al Engineer, Budapest, Hungary
+
+Ki
+
+즈
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Aliz ▲ 19% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés

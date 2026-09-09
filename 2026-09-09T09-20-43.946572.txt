@@ -1,0 +1,91 @@
+11:52 O
+
+← Q data science
+
+Il 32
+
+What you bring:
+
+• 2+ years as a GenAl Engineer; ideally some NLP background for RAG and Talk2Document work.
+
+•
+
+Python-first engineer who can build production APIs/services (FastAPI or similar).
+
+• You've built agentic systems with LangGraph / LangChain / PydanticAl / CrewAl (or similar). •You're comfortable integrating tools/data safely (timeouts, retries, idempotency, rate limiting). • You've worked with RAG/vector search (Azure Al Search, Pinecone, Redis Vector, Milvus/Chroma). You've shipped Talk2Data and/or
+
+Talk2Document-style solutions (or very similar
+
+patterns).
+
+• You care about quality: eval harnesses + regression suites, and you can use LangSmith/ Langfuse/Datadog to debug what's happening.
+
+• Familiar with MCP and secure model-to-tool/data connectivity.
+
+•
+
+Bonus: A2A patterns/agent-to-agent
+
+coordination.
+
+• Bonus: agent builder frameworks (Azure Al Foundry, AWS Bedrock Agents, Vertex Al Agent Builder, or similar).
+
+• Cloud experience: Azure preferred, AWS/GCP fine.
+
+• EU work permit
+
+Your future role
+
+What you will build:
+
+• Agent workflows with LangGraph / LangChain / PydanticAl / CrewAI (routing, retries, fallbacks, timeouts, human-in-the-loop).
+
+• Tool calling that doesn't break: APIs, databases, and internal services with clean contracts, predictable behavior, and safe error handling (retries/timeouts, idempotency, rate limiting). • Hybrid systems: pre-built agents plus a thin custom orchestration layer (interfaces, policies, guardrails, reuse).
+
+• MCP integrations: implement MCP servers/clients so models can safely access tools/data (DBs/ APIs/files) using least-privilege patterns and audit-friendly logging.
+
+• RAG + knowledge systems: chunking, embeddings, indexing, retrieval strategies, grounding patterns; vector stacks like Azure Al Search, Pinecone, Redis Vector, Milvus/Chroma; doc ingestion with Azure Document Intelligence.
+
+•
+
+Real use cases:
+
+• Talk2Data (safe querying + interpretation of
+
+enterprise data)
+
+• Talk2Document (Q&A/summarize/extract/reason over docs with citations/grounding)
+
+•
+
+• Evaluation + observability: automated evals (task success, groundedness/relevance, safety, latency, cost), regression suites, and run tracing for debugging using LangSmith / Langfuse / Datadog. Cloud GenAl: Azure OpenAI / Azure Al Foundry + Azure Al Search / Document Intelligence / Content Safety. AWS/GCP equivalents welcome (Bedrock/Vertex Al + search/document pipelines). What we offer
+
+• A global network + a strong regional Al&D community (~160 people).
+
+• A dedicated technical team that's actively growing and open to experimenting with new tech (when it
+
+actually helps).
+
+• Consultancy work, but on real problems with real
+
+impact - solutions people use.
+
+• Specialize in specific areas where we are committed to support the learning process and obtaining internationally recognized certificates
+
+• Hybrid way of work
+
+•
+
+International environment where personal
+
+development and growth are supported and highly
+
+encouraged
+
+• Unique opportunity for a career and promotions
+
+Riasztás beállítása hasonló
+
+Jelentkezés
+
+Mentés

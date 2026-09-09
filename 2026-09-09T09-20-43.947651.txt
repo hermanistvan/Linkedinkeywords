@@ -1,0 +1,123 @@
+11:21
+
+← Q data science
+
+ill (16
+
+The knowledge I own:
+
+• Strong Python development skills and experience building backend services (e.g. FastAPI)
+
+• Hands-on experience with GenAl frameworks such as LangChain, LangGraph or similar agent
+
+•
+
+frameworks
+
+Experience designing RAG pipelines, working with embeddings and vector databases
+
+• Understanding of prompt engineering, context management and LLM application design patterns • Experience building production applications with modern software engineering practices
+
+• Comfort working with JavaScript and React for building simple interfaces or integrations
+
+•
+
+Experience building automation workflows (e.g. n8n or similar automation platforms)
+
+• Experience working with cloud platforms such as Azure and integrating enterprise systems (e.g.
+
+•
+
+SAP)
+
+• Understanding of evaluation strategies,
+
+observability and monitoring for Al systems
+
+• Comfortable using modern Al tools and copilots
+
+•
+
+as part of your daily development workflow
+
+Experience with testing, code reviews and collaborative development practices
+
+• Fluent and effective communication in English
+
+•
+
+within an international team
+
+⚫ Growth-oriented mindset with willingness to learn
+
+new platforms and technologies
+
+• Comfortable working in an environment that includes operational responsibility; on-call participation may be required later
+
+What makes a great candidate:
+
+• You have a strong technical background in Computer Science, Artificial Intelligence or a comparable field
+
+• You have built and delivered at least 2-3 real Al-powered applications, features, or automations that solved practical problems
+
+•
+
+You can independently implement GenAl solutions end-to-end, from idea to working prototype or MVP
+
+• You have hands-on experience building at least one RAG system, Al agent, or production LLM integration
+
+• You demonstrate ownership by taking responsibility for delivering working solutions rather than just experiments or demos
+
+• You understand the practical challenges of
+
+working with LLMs such as hallucinations, context
+
+limits and prompt reliability
+
+• You are curious about business problems and enjoy translating them into practical Al or
+
+automation solutions
+
+• You actively use Al tools to improve your productivity and development workflow
+
+• You continuously learn and explore new tools, frameworks and approaches in the rapidly evolving Al ecosystem
+
+For bonus points:
+
+•
+
+Experience with agent architectures and
+
+multi-agent systems
+
+• Experience with production LLM deployments or
+
+Al platform engineering
+
+• Experience with CI/CD, containerization (Docker) and modern cloud-native workflows
+
+• Experience building internal developer tools or
+
+productivity platforms
+
+• Experience working with enterprise knowledge bases and document processing systems
+
+Don't feel like you fit all of the above points? Apply anyway! You may be exactly what we are looking for!
+
+The offer that would convince me:
+
+In our international team you can work with colleagues from all over the world
+
+• We develop our own internal products and focus on high-quality, stable solutions that create real
+
+business impact
+
+• At ALDI our engineering culture emphasizes clean architecture, code quality and practical problem
+
+solving
+
+• Flexible working hours with home office possibility • Regular salary increases - we follow inflation and
+
+Jelentkezés
+
+Mentés

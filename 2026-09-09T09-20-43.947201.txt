@@ -1,0 +1,67 @@
+11:26 C
+
+← Q data science
+
+18
+
+• Üzleti igények technikai specifikációvá alakítása Tranzakciós és analitikai adatokra épülő, összetett Power BI riportok és vizualizációk fejlesztése • Adatmodellek tervezése és optimalizálása Power Bl-ban
+
+• Csapattagok támogatása Power BI használatában, bevált gyakorlatok megosztása
+
+• T-SQL lekérdezések írása, adatforrások kezelés
+
+•
+
+Magabiztos Power BI ismeret, különös tekintettel az eszköz képességeire és vizualizációs
+
+lehetőségeire
+
+• Tapasztalat Power BI adatmodellezésben és teljesítményoptimalizálásban
+
+• Erős T-SQL tudás
+
+• Proaktív hozzáállás és csapattámogatási készség
+
+•
+
+Power BI fókuszú kérdésekben
+
+Tárgyalóképes angol nyelvtudás
+
+• Nagyvállalati BI/Riporting környezetben szerzett
+
+•
+
+tapasztalat
+
+PowerBI riportok és hozzájuk kapcsolódó
+
+fejlesztések tesztelésében szerzett gyakorlati tapasztalat
+
+Olyan tapasztalt BI fejlesztőt keresünk, aki mély ismeretekkel rendelkezik a Power BI eszköz használatában, és képes összetett riportok tervezésére és fejlesztésére, mind tranzakciós, mind analitikai adatok felhasználásával.
+
+A leendő kolléga aktívan hozzájárul a csapat BI képességeinek erősítéséhez, támogatást nyújt a Power BI használatával kapcsolatos kérdésekben, és javaslatokat tesz a vizualizációk, modellezés és teljesítményoptimalizálás terén.
+
+• Csapatunk eredményeit saját belső képzési rendszerünkkel biztosítjuk, informatikai és gyakorlati tanfolyamokkal, mentorprogrammal segítünk Téged, hogy a személyre szabott karrierutad következő állomását mihamarabb elérd.
+
+•
+
+Biztosítjuk angol nyelvtudásod fejlesztését.
+
+• A szakmai fejlődés mellett nagyon fontosnak tartjuk, hogy ne csak egy munkahelyet kapj tőlünk, hanem egy tudásmegosztó környezetet, ahol szakmai kérdésekben mindig támogatásra lelsz, egy közösséget, ahol a kölcsönös rugalmasság és bizalom mellett a jókedv és a kikapcsolódás is garantált.
+
+• Vegyél részt a közös túraprogramjainkon, társasjátékestjeinken, gyere el a családi napra, síelésre, ültess fát velünk, legyél részese a TestIT társadalmi felelősségvállalásának, legyen szó akár hátrányos helyzetűek támogatásáról, akár Mikulás csomag kézbesítéséről.
+
+• Készültünk Neked juttatási csomaggal is. A fizetéseden kívül havi rendszerességű SZÉP kártya utalást, egészségbiztosítási csomagot kínálunk.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+BI Developer, Budapest, Budapest,
+
+Jelentkezés
+
+Mentés
+
+Ki

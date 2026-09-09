@@ -1,0 +1,41 @@
+11:59 O
+
+← Q data science
+
+34
+
+Job Requirements
+
+• Strong experience designing and delivering cloud-based data engineering solutions.
+
+• Hands-on experience with Microsoft Fabric and Azure data technologies.
+
+• Strong SQL skills and practical experience with Python and/or PySpark.
+
+•
+
+Knowledge of lakehouse, data warehouse, and modern data architecture concepts.
+
+• Experience building data integration, ETL, or ELT solutions across multiple data sources.
+
+• Strong communication skills and the ability to work effectively with customers and internal teams.
+
+What we offer:
+
+• Global Company Culture: We defined our 6 core values through our company culture (https://www.softwareone.com/en/our-story/our
+
+-values)
+
+• The opportunity to work on complex enterprise Data & Al transformation projects.
+
+• Access to Microsoft, Databricks, and cloud training and certification programs.
+
+• Collaboration with experienced architects, engineers, security specialists, and Al experts.
+
+Jelentkezés
+
+Mentés
+
+|||
+
+Г

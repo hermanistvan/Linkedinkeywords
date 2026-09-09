@@ -1,0 +1,53 @@
+12:17 O
+
+← Q data science
+
+ill 40
+
+What You Bring
+
+•
+
+3+ years building automation workflows, integrations, or agentic systems - using Al orchestration platforms, workflow automation tools, or equivalent technologies
+
+―
+
+Strong understanding of API integrations — REST, webhooks, authentication patterns, and error handling at scale
+
+• Experience working with LLM APIs - prompt engineering, structured outputs, tool use, and agent chaining
+
+• Comfort working from a spec - you can take a workflow design and build it accurately without the architect in the room
+
+• Growth or marketing context - you understand what you're building toward, not just how to build it Speed and quality in balance - you ship fast and you care what you ship
+
+•
+
+Nice to haves
+
+—
+
+•
+
+•
+
+•
+
+•
+
+Experience with paid media platforms, marketing automation, CRM, or lifecycle messaging systems Familiarity with data warehouse query patterns and event tracking infrastructure
+
+Background in a high-growth fintech, consumer
+
+tech, or multi-product technology environment
+
+Experience designing multi-agent architectures or complex agent-to-agent workflows
+
+Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.
+
+Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.
+
+We consider qualified applicants with criminal histories for employment on our team, assessing
+
+candidates in a manner consistent with the
+
+requirements of the San Francisco Fair Chance Ordinance.

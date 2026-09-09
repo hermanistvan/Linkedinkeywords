@@ -1,0 +1,109 @@
+12:15 O
+
+← Q data science
+
+39
+
+Qualifications
+
+Your Experience & Qualifications
+
+•
+
+Degree in (Business) Informatics, Business
+
+Administration, or equivalent practical experience. • At least 5 years of experience in data engineering architecture, with:
+
+• Minimum 5 years of hands-on experience with Databricks & Delta Lake on Azure services.
+
+• Proven expertise in migrating from traditional data warehouse solutions to modern data platforms like Lakehouse & Delta Lake.
+
+• Expected Skills & Knowledge
+
+Technical Expertise:
+
+•
+
+Strong experience in modern data platform and data warehousing architectures.
+
+• Deep knowledge of data lake storage organization and architecture.
+
+•
+
+•
+
+Solid understanding of relational and
+
+multidimensional database systems.
+
+Proficiency in data warehouse modeling methods (Kimball, Inmon, Data Vault).
+
+• Experience with data pipelines using Spark
+
+Structured Streaming and Delta Lake.
+
+• Strong programming skills in SQL, Python, and Spark.
+
+• Preferred Additional Experience:
+
+• Familiarity with reporting, analytics, and
+
+dashboarding.
+
+• Hands-on experience with Agile development methodologies (SCRUM, KANBAN, etc.).
+
+• Knowledge of BI solutions using: Azure Databricks /Azure Data Factory /Azure Storage / Azure Synapse /Azure Logic Apps / Power BI
+
+Additional Information
+
+• Experience with Power Platform (Power Automate, Power Apps) is a plus.
+
+• Certifications (Preferred but Not Mandatory) • DP-900: Microsoft Azure Data Fundamentals
+
+• DP-100: Designing and Implementing a Data Science Solution in Azure
+
+• DP-203: Data Engineering on Microsoft Azure
+
+•
+
+DP-300: Managing Relational Databases on Microsoft Azure
+
+• Al-900: Microsoft Azure Al Fundamentals
+
+• AZ-900: Microsoft Azure Fundamentals
+
+• DP-420: Designing and Implementing Cloud-Native Applications with Microsoft Azure Cosmos DB
+
+• Please be informed that our remote working possibility is only available within Hungary due to
+
+European taxation regulation.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Expert Developer - Data Analytics & Data
+
+Engineering - REF50861, Budapest,
+
+Budapest, Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés
+
+zárolásának feloldása itt: Deutsche
+
+Telekom IT Solutions HU
+
+0% alkalmazotti létszám növekedése
+
+szept. 2024
+
+szept. 2025
+
+szept. 2026
+
+Pályázói iskolázottság szintje
+
+50°/7zel rendelkezik: Moîtrice

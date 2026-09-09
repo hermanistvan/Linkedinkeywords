@@ -1,0 +1,85 @@
+11:13
+
+← Q data science
+
+$ 14
+
+What We're Looking For:
+
+• Proven commercial experience in Data
+
+•
+
+Engineering, large-scale data transformation, and production pipeline deployment.
+
+Strong Data Science and ML lifecycle awareness with the ability to bridge data engineering
+
+workflows with model experimentation and production deployment.
+
+• Consultant mindset: proactive problem-solving, architectural ownership, and clear communication with cross-functional technical teams.
+
+•
+
+Experience with pipeline observability, schema design, data quality validation, and lineage tracking.
+
+Must-Haves:
+
+• Strong programming and data processing skills in Python and PySpark.
+
+• Hands-on expertise with Databricks for distributed data engineering and scalable workflow
+
+•
+
+•
+
+orchestration.
+
+Practical experience with the Azure ecosystem
+
+(Azure Blob Storage, Azure SQL/Databases,
+
+compute resources, MLflow, Azure AI/ML services).
+
+Solid track record supporting NLP/NLU workflows
+
+and preparing structured datasets for machine
+
+learning applications.
+
+Strong English communication skills for daily
+
+international collaboration.
+
+Location & Working Setup:
+
+• 100% Remote working model (Candidates must be living and working within the EU).
+
+• US Hours overlap needed: Standard work hours by 6:00 PM CET (Typically 10:00 AM - 6:00 PM or 11:00 AM - 7:00/8:00 PM CET).
+
+•
+
+Availability for occasional in-person team
+
+workshops/gatherings (approx. 1x per quarter in
+
+Prague).
+
+Ready to build the data foundation for
+
+next-generation Al platforms? Apply today or send
+
+your CV directly to discuss the details!
+
+Riasztás beállítása hasonló állásokhoz
+
+Data Engineer, Hungary
+
+Ki
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés
