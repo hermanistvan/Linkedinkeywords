@@ -1,0 +1,57 @@
+12:34 O
+
+← Q data science
+
+$45
+
+What We're Looking For
+
+Tools matter less to us than how you think about problems. That said, here's the shape of the person we have in mind.
+
+Engineering Craft
+
+• 8+ years of building production data systems that other people rely on.
+
+•
+
+Strong proficiency in Python and SQL: not just
+
+being able to write a query, but being able to
+
+reason about what the engine is doing with it. • Code that's easy for someone else to read, test, and delete later.
+
+• Strong understanding of data modelling for both streaming and analytical workloads.
+
+•
+
+Efficiency, quality, idempotency, and observability are taken seriously by default.
+
+Systems Design
+
+• You've designed and operated streaming systems on Kafka, Redpanda, MSK, or Kinesis, and you have opinions about partitioning, consumer groups, offsets, and schema registries.
+
+• You've used a time-series store in production (ClickHouse ideally; TimescaleDB, QuestDB, or similar are fine too) and can talk about table design as a function of query patterns.
+
+• You've worked with a lakehouse architecture and reason about table layout, partitioning, and compaction as design choices that shape query performance and storage cost.
+
+•
+
+You build for self-healing and idempotency.
+
+Reprocessing is safe, retries don't double-write, and the system recovers without a human in the loop.
+
+Operational Readiness
+
+• Docker, Terraform, and CI/CD are how you work,
+
+not a separate "DevOps" thing.
+
+• You think about cost and performance early.
+
+•
+
+• You instrument as you build: logs, metrics, and traces are part of the system from day one. • You design for data quality and governance up front covering contracts, validation, lineage, and ownership
+
+Jelentkezés
+
+Mentés

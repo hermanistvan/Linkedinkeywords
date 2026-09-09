@@ -1,0 +1,61 @@
+12:40 O
+
+← Q data science
+
+ll47
+
+YOUR PROFILE
+
+• AWS expertise and architectural mindset: You have several years of hands-on experience with AWS, understand the capabilities and limitations of core AWS services (e.g., Lambda, ECS/EKS, EventBridge, SQS/SNS, DynamoDB, OpenSearch, S3, IAM, and VPC), and design secure, scalable cloud architectures.
+
+• Amazon Bedrock and LLM agents: You have practical experience with Amazon Bedrock- ideally including AgentCore (Agents, Action Groups, Memory, Knowledge Bases, and
+
+Guardrails)—and understand what it takes to build and operate production-grade LLM and Al agent solutions. Experience with frameworks such as LangChain, LlamaIndex, AutoGen, or CrewAl is a plus.
+
+• Contact center and Amazon Connect experience: You have hands-on experience designing contact flows, working with Amazon Lex, real-time analytics, and integrating external systems into Amazon Connect environments. You understand the requirements of modern customer service operations.
+
+• DevOps, Infrastructure as Code, and
+
+containerization: You have project experience with Infrastructure as Code (Terraform or CDK), CI/CD pipelines, and container platforms (ECS or EKS). You integrate testing, observability, and security guardrails into your delivery processes. Familiarity with compliance standards (e.g., GDPR, BSI, ISO 27001) and AWS certifications is an advantage. • Consulting and communication skills: You can explain complex technical concepts to both technical and non-technical audiences and communicate confidently in workshops,
+
+architecture reviews, and executive presentations. • Al expertise: You possess in-depth expertise in artificial intelligence, actively promote its responsible use within your area of responsibility, and act as an Al enabler for both customers and
+
+•
+
+colleagues at adesso.
+
+Education & Language skills: University degree in IT field & Fluent, confident English skills (spoken and written).
+
+Unser Versprechen: Du wirst dich bei uns
+
+wohlfühlen! Kollegial, familiär und auf Augenhöhe wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+
+—
+
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend - auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK"!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Al Engineer (AWS) (all genders), Budapest,
+
+Budapest, Hungary
+
+Ki
+
+Hozza a legjobb formáját a
+
+jelentkezéssel
+
+Önéletrajzíró bérlése
+
+Önéletrajz-értékelés kérése
+
+Toborzással kapcsolatos betekintés
+
+zárolásának feloldása itt: adesso
+
+Jelentkezés
+
+Mentés

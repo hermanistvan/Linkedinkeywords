@@ -1,0 +1,71 @@
+12:43 O
+
+← Q data science
+
+48
+
+•
+
+•
+
+Qualifications
+
+Required Skills & Experience
+
+Essential
+
+5+ years of experience in data architecture, data engineering, or a closely related role
+
+Strong proficiency in data modelling techniques: relational, dimensional (Kimball/Inmon), and Data Vault
+
+• Hands-on experience with data integration tools and frameworks (e.g. Apache Kafka, dbt, Spark, Talend, or similar)
+
+•
+
+•
+
+Solid understanding of cloud data platforms (AWS, GCP, or Azure) and modern data stack
+
+components
+
+Advanced SQL skills and familiarity with Python or Scala for data engineering tasks
+
+• Proven ability to translate business requirements into scalable data architecture solutions Preferred
+
+• Prior exposure to event-driven architectures or real-time data platforms
+
+• Experience working in agile, value-stream-aligned product organisations
+
+• Familiarity with data mesh principles and
+
+decentralised data ownership models
+
+• Knowledge of data governance frameworks and metadata management tools (e.g. Collibra, Alation, DataHub)
+
+• Experience with analytical tools such as Looker, Tableau, Power BI, or Metabase
+
+What We're Looking For
+
+The ideal candidate brings both technical depth and cross-functional communication skills. You are comfortable moving between high-level
+
+architectural design and hands-on implementation. You thrive in collaborative, fast-paced environments and enjoy working across teams to solve complex data challenges. You bring a product mindset to data - treating data as an asset that must be reliable, discoverable, and useful.
+
+Additional Information
+
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Architect (REF57500), Budapest,
+
+Budapest, Hungary
+
+in
+
+Egyszerű jelentkezés
+
+Mentés
+
+Ki

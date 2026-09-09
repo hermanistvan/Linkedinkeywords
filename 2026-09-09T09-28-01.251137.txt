@@ -1,0 +1,53 @@
+12:24 •
+
+← Q data science
+
+42
+
+Experience & Background
+
+Essential:
+
+• 2+ years of experience as a software engineer, with experience delivering production systems. • Experience owning a non-trivial feature or service end-to-end in production (design, ship, monitor, and fix), not just delivered tickets.
+
+•
+
+Strong Python for data-heavy work (e.g. pandas/ polars, SQLAlchemy or equivalent ORM, a relational database with real schema evolution). • Comfortable debugging and operating production data pipelines, and has carried on-call or first-responder duty for systems they built.
+
+• Has taken a half-defined problem and shaped it into a delivered solution without waiting to be told the route.
+
+Desirable
+
+• Experience with workflow orchestration (Airflow / Astronomer or similar) and batch/ETL data pipelines.
+
+• TypeScript/Node API experience (NestJS, Express, tsoa, TypeORM) for the distribution-API surface.
+
+•
+
+Exposure to commodities, energy, or any domain with messy, multi-provider data that must be
+
+reconciled.
+
+• Has mentored a junior engineer or onboarded a new joiner.
+
+•
+
+Familiarity with anomaly detection / forecasting (Prophet, scikit-learn) or data-quality tooling.
+
+Behavioural Competencies
+
+• You take responsibility for delivering outcomes, not just completing individual tasks. You follow through on your work and actively look for ways to improve the systems you contribute to.
+
+• You understand that delivering software includes testing, monitoring, supporting production
+
+systems, and learning from incidents.
+
+• You are comfortable working through complex problems, breaking down ambiguity, and collaborating with others to find practical solutions.
+
+• You work effectively with engineers, Product,
+
+Research, and Data teams, sharing context and building solutions together.
+
+Jelentkezés
+
+Mentés

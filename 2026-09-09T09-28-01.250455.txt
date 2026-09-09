@@ -1,0 +1,109 @@
+12:41 O
+
+← Q data science
+
+48
+
+Requirements
+
+Core Software Engineering
+
+• 4+ years of professional experience in Modern C+ + (C++17/20)
+
+•
+
+•
+
+Strong knowledge of memory management, multithreading, profiling and performance optimization
+
+Experience debugging low-level issues (memory leaks, fragmentation, OOM, concurrency)
+
+• Experience working with Linux development environments
+
+Al Inference / ML Systems
+
+• Experience integrating machine learning models into production applications
+
+• Experience deploying and optimizing Al inference pipelines
+
+• Hands-on experience with Al inference
+
+frameworks such as: llama.cpp (strong plus), ggml (strong plus), ONNX Runtime, TensorRT /
+
+TensorRT-LLM, OpenVINO, MLC LLM, ExecuTorch,
+
+TVM
+
+• Experience profiling inference performance and optimizing memory usage and latency
+
+Deep Learning Knowledge
+
+Strong understanding of modern Al model architectures, including:
+
+• Transformer architecture
+
+• Large Language Models (LLMs)
+
+• Diffusion Models
+
+• Tokenization
+
+• Attention mechanisms
+
+• KV Cache
+
+• Quantization techniques
+
+• Model conversion and deployment
+
+Practical Al Experience
+
+•
+
+Experience working with one or more of the
+
+following: LLM deployment, Computer Vision
+
+models, OCR models, Multimodal models, Speech
+
+models, Image generation models
+
+• Experience evaluating new models and integrating them into existing products is highly desirable
+
+Nice to Have
+
+• CUDA
+
+•
+
+• Vulkan Compute
+
+• Metal
+
+• OpenCL
+
+• Typescript
+
+• Python
+
+• Experience contributing to open-source Al
+
+infrastructure projects
+
+Benefits
+
+Why people stay
+
+First, the foundation:
+
+• Remote flexibility: Work where and how you work
+
+best - we trust you to deliver
+
+• Fair compensation: Competitive salary + benefits that matter (medical, learning)
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

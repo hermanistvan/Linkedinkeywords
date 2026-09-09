@@ -1,0 +1,35 @@
+12:48 O
+
+•
+
+← Q data science
+
+50
+
+Who You Are - Required & Preferred Qualifications
+
+•
+
+5+ years of experience as a data engineer (or similar), with significant exposure to cloud-based data platforms and modern data architectures. • Strong understanding and practical experience with data modeling, data warehousing / lakehouse architecture (e.g. dimensional modeling, star/ snowflake schemas, Delta Lake / Lakehouse). Proven track record in data governance, metadata management, and ensuring data quality at scale. • Solid experience in performance optimization and troubleshooting of data processing jobs / pipelines (Spark/Databricks).
+
+—
+
+• Excellent programming and query skills - strong SQL, Python (or another relevant language); ability to write clean, efficient, maintainable code.
+
+Strong analytical and problem-solving skills; ability to think at both micro (pipeline/job level) and macro (architecture/strategy) levels.
+
+• Excellent communication skills: able to explain complex technical issues to non-technical stakeholders, collaborate across teams, and influence architectural decisions.
+
+• Self-motivated, responsible, and capable of working independently and as a technical leader in a structured data platform environment.
+
+What We Offer For You
+
+• Participation in full-cycle and diverse international projects
+
+• Opportunity to work as a specialist or manager/ team lead
+
+• Constant career development with internal
+
+Jelentkezés
+
+Mentés

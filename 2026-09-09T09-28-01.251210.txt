@@ -1,0 +1,41 @@
+12:22 •
+
+← Q data science
+
+41
+
+Your Profile
+
+• 2-5 years of hands-on experience using Tableau Creator in a production environment (LOD, Parameters, Set, Filter, Tooltip, etc).
+
+• Solid and practical SQL skills, including complex joins, aggregations, and working with cloud-based datasets.
+
+• Strong communication skills, with the ability to explain insights to both technical and non-technical audiences.
+
+•
+
+Nice-to-Have Skills
+
+Practical understanding of Databricks or other cloud-based data platforms.
+
+• Familiarity with how data pipelines,
+
+transformations, and analytical data models are built and maintained.
+
+Exposure to Python for analytics or automation (pyspark, dbt, dagster, etc).
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Tableau Frontend BI Professional,
+
+Jelentkezés
+
+|||
+
+Mentés
+
+Г
+
+Ki

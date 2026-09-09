@@ -1,0 +1,73 @@
+12:47 O
+
+•
+
+← Q data science
+
+50
+
+What You Will Bring:
+
+• 5+ years of experience in data engineering • Experience with cloud data warehouse
+
+•
+
+environments
+
+Experience with AWS Redshift
+
+• Hands-on experience with PySpark and Apache Airflow
+
+• Strong SQL skills and deep understanding of query performance tuning in Redshift
+
+• Solid understanding of data modeling principles, including dimensional modeling (Kimball),
+
+•
+
+normalized models, and hybrid strategies
+
+Experience with monitoring tools (CloudWatch, Redshift Console)
+
+• Familiarity with data versioning, CI/CD, and collaborative development practices in dbt
+
+... and we appreciate if you have: • Experience in Airflow, AWS Glue
+
+About Your Contract:
+
+• 40 hours/week
+
+• Full-time, indefinite contract
+
+• Location: Budapest, Hungary
+
+• Hybrid working model with 1-2 office days per week
+
+• Occasional travel to customer locations across Europe
+
+•
+
+Onboarding and acclimatization period provided
+
+• You must be currently eligible to work in Hungary
+
+Join our collaborative team and help shape Microsoft-based digital transformation solutions for leading organizations across Europe.
+
+About Your Application:
+
+Please include only information in your CV that is directly relevant to the role. Our recruitment team will review all applications and contact candidates whose experience best matches the requirements. Our data protection policy is available on our site.
+
+Az álláshirdető által megadott
+
+követelmények
+
+•
+
+5+ év munkatapasztalat: Data Engineering • Munkavégzési engedély itt: Hungary
+
+Riasztás beállítása hasonló állásokhoz
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

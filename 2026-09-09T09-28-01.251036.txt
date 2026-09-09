@@ -1,0 +1,55 @@
+12:29 •
+
+← Q data science
+
+44
+
+What you bring:
+
+• 2-4 years of experience developing backend applications with Python or Node.js/Next.js.
+
+• Practical experience with React and/or Angular. • Hands-on experience with Azure or AWS.
+
+• Experience working with Generative Al
+
+technologies, including: LLM APIs (OpenAI, Azure OpenAl, Anthropic)
+
+• Frameworks such as LangChain or Llamalndex • Ability to explain technical solutions to
+
+non-technical stakeholders.
+
+• Strong problem-solving skills and a consulting mindset.
+
+•
+
+Fluent English and native Hungarian are a must!
+
+Your future role
+
+•
+
+•
+
+Develop and deploy Al-powered applications using modern software engineering practices. Integrate Large Language Models (OpenAl, Azure OpenAl, Anthropic) into business solutions.
+
+Build scalable backend services using Python or Node.js.
+
+• Develop intuitive user interfaces with React or Angular.
+
+• Design and implement cloud-based solutions on Azure or AWS.
+
+•
+
+Collaborate closely with clients to understand
+
+business needs and translate them into technical solutions.
+
+• Take ownership of technical deliverables and contribute to architecture discussions.
+
+• Work alongside Al, Data, and Cloud experts on cutting-edge transformation programs
+
+What we offer
+
+Jelentkezés
+
+Mentés

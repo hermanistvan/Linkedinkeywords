@@ -1,0 +1,153 @@
+12:43 O
+
+← Q data science
+
+48
+
+Must have skills
+
+•
+
+•
+
+Hands-on experience building solutions with Microsoft Copilot Studio, Power Platform (Power Automate, Power Apps), or similar low-code/ no-code Al tooling methods. You should be able to take a business problem and turn it into a working agent or automation
+
+―
+
+Demonstrable experience with multiple Al/GenAl tools and platforms - you are not locked into one ecosystem and can evaluate, learn, and deploy new tools as they emerge
+
+• Strong business analysis capability - you can map complex business processes, identify where Al adds genuine value, and distinguish between problems that need Al and problems that need better processes.
+
+• Excellent communication and stakeholder management across all levels - equally
+
+comfortable presenting ROI cases to senior leaders as you are coaching a team member
+
+through their first prompt
+
+• Practical experience with change management or technology adoption - you understand that
+
+·
+
+building a solution is half the job; getting people to use it is the other half
+
+Working knowledge of prompt engineering and GenAl application design — not just using Al tools, but designing multi-step workflows, agent architecture, and conversational experiences • Self-directed and comfortable operating with ambiguity - you will be embedded in business teams without a detailed playbook, expected to support identification of what matters most and act on it
+
+•
+
+Strong documentation instincts - you create
+
+clear, reusable guides, solution templates, and training materials that outlast your direct involvement
+
+Nice to have skills
+
+• Direct experience in financial services or asset management - understanding of investment processes, client service, middle and back-office
+
+•
+
+•
+
+•
+
+•
+
+workflows is very beneficial to the applicant
+
+Experience designing practical technology
+
+solutions in environments where security, data
+
+sensitivity, and responsible delivery matter
+
+Deep familiarity with the Microsoft 365
+
+ecosystem - SharePoint, Teams, Dataverse, Azure
+
+―
+
+Al services - and how they interconnect
+
+Background in engineering, consulting, internal
+
+advisory, or embedded specialist roles where you had to earn credibility and deliver results without
+
+direct authority
+
+Experience with ROI measurement and value
+
+tracking for technology implementations
+
+building the case, defining the metrics, and
+
+following through on outcomes
+
+• Understanding of data governance, responsible Al principles, and the emerging regulatory landscape
+
+for Al
+
+•
+
+Experience training, mentoring, or coaching
+
+others in technology adoption - particularly
+
+non-technical users
+
+• Product management sensibility - ability to think
+
+•
+
+in terms of MVPs, iteration, user feedback, and
+
+feature prioritization
+
+Microsoft certifications in Al, Power Platform, or
+
+Copilot Studio
+
+Supervisory responsibilities
+
+• No - but you will be expected to support Fighter
+
+Pilots within your assigned business units as part of the Al Academy approach
+
+Potential for growth
+
+• Mentoring
+
+•
+
+Leadership development programs
+
+•
+
+Regular training
+
+• Career development services
+
+·
+
+•
+
+Continuing education courses
+
+Microsoft Al and Power Platform certification
+
+pathways
+
+•
+
+Exposure to a firm-wide Al transformation
+
+Opportunity to shape a new function - the Al
+
+programme with direct executive visibility
+
+Business Partner model is being established for the first time at Janus Henderson, with scope to define how the role scales across the organisation
+
+You will be expected to understand the regulatory obligations of the firm, and abide by the regulated entity requirements and JHI policies applicable for your role.
+
+At Janus Henderson Investors we're committed to an inclusive and supportive environment. We believe diversity improves results and we welcome applications from candidates from all backgrounds. Don't worry if you don't think you tick every box, we still want to hear from you! We understand everyone has different commitments and while we can't accommodate every flexible working request, we're happy to be asked about work flexibility and
+
+Jelentkezés
+
+Mentés

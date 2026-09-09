@@ -1,0 +1,69 @@
+12:40.
+
+X
+
+•
+
+Data Engineer (REF5482T)
+
+Deutsche Telekom IT Solutions HU⚫ Budapest, ...
+
+Qualifications
+
+Background and required skills:
+
+Bachelor or Master's degree in the following
+
+47
+
+areas: Computer science, Engineering, Information
+
+Technology, natural science, mathematics, business or equivalent work experience in IT • Strong expertise in modern data engineering tools and technologies, including DeltaLake, SQL,
+
+•
+
+Python, Tableau, QuickSight, Kafka, Apache Flink, Apache Doris, Superset, and Schema Registry for data processing, analytics, and visualization.
+
+Experience designing and building scalable ETL/ ELT data pipelines that extract, transform, and load data from multiple systems into centralized data warehouses or data lakes while ensuring reliability and performance.
+
+• Hands-on knowledge of integrating data from diverse sources such as databases, APIs, streaming platforms, and NoSQL systems using tools like MongoDB Atlas, Debezium, and Kafka Connect for CDC and real-time data streaming. • Ability to automate and optimize data workflows, monitor pipeline health, and troubleshoot
+
+infrastructure or processing issues to ensure continuous, efficient, and high-performing data operations.
+
+• Strong data modeling and data architecture skills, including designing schemas, maintaining data consistency, and implementing scalable storage solutions for large-scale analytics environments. • Expertise in data quality management, including validation, cleansing, harmonization, and governance practices to ensure accurate, compliant, and trustworthy datasets across systems.
+
+• Solid understanding of cloud and infrastructure engineering, especially AWS-based compute and storage environments, with experience optimizing scalability, reliability, security, and cost efficiency. • Practical experience with containerization and Infrastructure as Code technologies such as Docker, Kubernetes, and Terraform to deploy, manage, and automate scalable infrastructure environments.
+
+• Knowledge of security, compliance, and access management practices, including RBAC, IAM, encryption, anonymization, and adherence to regulations such as GDPR and CCPA.
+
+• Strong collaboration and operational skills, including working closely with analysts, data scientists, and stakeholders, while managing multiple priorities and staying updated on emerging trends and best practices in data engineering.
+
+• Excellent written and verbal communication competences in English language.
+
+• Proficiency in Jira & Confluence.
+
+Advantage:
+
+• Experience working in SAFe environment. German language knowledge
+
+Additional Information
+
+• Please be informed that our remote working
+
+possibility is only available within Hungary due to
+
+European taxation regulation.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Engineer (REF5482T), Budapest,
+
+Budapest, Hungary
+
+Ki
+
+Jelentkezés
+
+Mentés

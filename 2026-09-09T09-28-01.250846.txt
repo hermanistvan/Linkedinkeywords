@@ -1,0 +1,39 @@
+12:34 O
+
+← Q data science
+
+45
+
+YOUR PROFILE
+
+• Strong experience in data engineering, with at least 1 year of hands-on Databricks expertise. • Strong experience in Python for automation and data transformation.
+
+• Experience working with at least one major cloud platform (AWS, Azure, or GCP).
+
+•
+
+Strong communication skills and strong English language skills.
+
+Nice to have:
+
+• Solid understanding of SQL with experience in query optimization and data modeling.
+
+• Familiarity with DevOps methodologies, CI/CD pipelines, and Infrastructure as Code (Terraform, Bicep).
+
+• Experience with real-time data streaming technologies such as Kafka or Spark Streaming. • Knowledge of cloud storage solutions like Data Lake, Snowflake, or Synapse.
+
+• Hands-on experience with PySpark for distributed data processing.
+
+• Relevant certifications such as Databricks
+
+Certified Data Engineer Associate or cloud-based data certifications.
+
+What You Will Love About Working Here
+
+• Access our education library with 250,000+ courses, certifications, and learning resources; • Well-being Hub: The global Well-Being Hub connects employees across various facets of well-being: work-life balance, working hours and network growth;
+
+• We value flexibility - hybrid work and flexible hours help you maintain a healthy work-life
+
+Jelentkezés
+
+Mentés

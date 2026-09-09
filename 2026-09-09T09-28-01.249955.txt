@@ -1,0 +1,111 @@
+12:51 O
+
+← Q data science
+
+51
+
+About Your Experience And Skills
+
+• Education
+
+• University or college degree with specialization in Computer Science or Information Systems or equivalent practical experience
+
+•
+
+Experience
+
+• 3+ years of experience in Data Engineeringor similar role
+
+• Experience with distributed data processing (Apache Spark)
+
+• Experience working with cloud-based data platforms (preferably Databricks)
+
+•
+
+Exposure to running and supporting production data pipelines
+
+• Experience troubleshooting data issues in live environments
+
+• Ability to work in a geo-distributed team with limited supervision
+
+• Professional and Technical Competencies
+
+• Hand-on Experience with Azure Databricks and/or Apache Spark
+
+• Understanding of Lakehouse architecture and Delta Lake
+
+• Knowledge of orchestration tools (ADF, Airflow, Databricks Workflows) and CI/CD tools
+
+• Understanding of monitoring and logging in data platforms (Datadog, Azure Monitor)
+
+• Strong programming skills (Python preferred, Java optional)
+
+• Professional usage of Microsoft Office Suite.
+
+Experience with Atlassian JIRA, Confluence.
+
+•
+
+Basic understanding of data security and
+
+scalability principles
+
+• Experience collaborating with cross-functional teams
+
+• Soft Skills
+
+• Strong problem-solving and analytical skills. • Self-driven, detail-oriented, capable of multi-tasking, highly organized, with excellent time management skills.
+
+• Demonstrated ability to meet deadlines, handle and prioritize simultaneous requests, and manage laterally and upwards
+
+• Strong written and verbal communication skills in English for cross-functional collaboration.
+
+• Ability to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, and distinguish user requests from the underlying true needs.
+
+• Strong attention to detail and commitment to delivering high-quality work.
+
+•
+
+Proactive mindset with a positive attitude and a strong sense of ownership, and team mentality.
+
+•
+
+Growth mindset with a passion for continuous
+
+learning, adapting, and staying updated on industry
+
+trends and best practices.
+
+• Openness to work with different cultures across
+
+CEE.
+
+What We Offer
+
+•
+
+•
+
+Work with an advanced and innovative tech stack.
+
+Collaborate with multinational teams and projects
+
+across the CEE region.
+
+• Enjoy tremendous opportunities for continuous learning and growth in a fast-paced, agile
+
+environment.
+
+• Explore versatile career paths in a dynamically growing international organization at Local and
+
+•
+
+Group level.
+
+Gain cross-industry experience through our expanding portfolio of businesses (both within and beyond MOL Group).
+
+• Be part of a supportive and inclusive workplace
+
+that values innovation and creativity.
+
+• Enjoy a hybrid work model- two days of home

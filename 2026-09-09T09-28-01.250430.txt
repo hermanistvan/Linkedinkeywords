@@ -1,0 +1,21 @@
+All About You
+
+A track record of delivering complex systems through personal depth and attention to detail, with the ability to design an architecture, write and review code, and hold high standards for quality at every level of the stack.
+
+Deep experience designing and operating large-scale data processing pipelines, with the ability to reason about tradeoffs in pipeline architecture, cost, performance, and reliability.
+
+Experienced with distributed systems, cloud infrastructure (AWS), security, and reliability engineering.
+
+Extensive hands-on experience with Spark and Databricks; proficiency in Scala or Java, with Python experience a plus.
+
+Able to assess technical proposals with data: prototyping to validate feasibility and defining measurable success criteria to support clear recommendations.
+
+Familiar with machine learning workflows, including feature engineering, model training, and the data infrastructure requirements that support them.
+
+Able to review requirements critically and collaboratively, asking whether something is truly needed, proposing alternatives, and surfacing concerns early, while keeping the team moving forward.
+
+Clear communicator who can explain technical decisions to engineers, product owners, and business stakeholders at the right level of detail.
+
+Committed to mentoring the engineers you work with, patient in explaining complex topics and generous with your time and knowledge.
+
+Aware of how the team's work fits into the broader organization, proactive in communicating across teams, and alert to opportunities to share platforms and avoid duplicated effort.

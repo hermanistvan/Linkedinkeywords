@@ -1,0 +1,47 @@
+12:23 O
+
+← Q data science
+
+42
+
+What You'll Need
+
+• Six or more years of experience building and operating production backend, data, or distributed systems
+
+• Strong production Python and SQL, including experience building APIs, designing schemas, optimizing queries, and working with large or complex datasets
+
+• Deep experience with relational data systems and strong judgment about when graph or other specialized databases are the right choice
+
+• Experience building reliable ingestion and update pipelines, including incremental processing, data-quality checks, schema changes, and safe backfills
+
+• Experience designing production services with clear API contracts, versioning, error handling, and performance considerations
+
+• Hands-on experience deploying and operating services in AWS using containers, CI/CD, monitoring, and production debugging tools
+
+•
+
+Strong engineering practices around testing, code review, observability, documentation, and maintaining systems that other teams depend on
+
+It Would Be a Bonus If You Had
+
+• Deep experience operating a graph database in production, including traversal performance and query tuning at scale
+
+• Experience with versioned, bitemporal, or event-sourced data systems
+
+• Experience with vector search or semantic retrieval components (pgvector, OpenSearch, Pinecone, or similar)
+
+• Experience with multi-tenant data design and per-tenant isolation
+
+Onsite Collaboration Requirement: This role requires working onsite on Tuesday and
+
+Wednesday, with Thursday strongly encouraged as part of our company's in-person collaboration model.
+
+Why Join Us
+
+Join us and help shape the future of education by turning cutting-edge Al into reliable product
+
+capabilities.
+
+Jelentkezés
+
+Mentés

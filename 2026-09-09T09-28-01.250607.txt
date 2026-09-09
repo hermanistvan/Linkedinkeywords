@@ -1,0 +1,83 @@
+12:39 •
+
+←
+
+Q data science
+
+47
+
+X
+
+Advanced Data Engineer
+
+INNIO Group. Budapest, Hungary (Hybrid)
+
+Your Profile
+
+• Completed university studies with a focus in the
+
+•
+
+area of IT or STEM (preferable but not required)
+
+Fluency in English (written and spoken); German is not required, but useful
+
+• 2-5 years of experience in data engineering / architecture or related fields
+
+• Hands on experience in building data ingestion/ transformation pipelines and tests, preferably in a software development environment (Git, JIRA, CI/ CD)
+
+•
+
+•
+
+Solid knowledge of SQL and Python
+
+Some mileage with working in an agile enironment (preferable)
+
+• Experience with cloud platforms / providers
+
+• Openness to new technologies and methodolgies, willingness to learn and adapt
+
+•
+
+Preferable Tech Stack
+
+Expereince with Databricks (SQL, PySpark, Data Load Tool, Lakeflow Declarative Pipelines, Asset Bundles etc.)
+
+• Experience with dbt (pipelines, tests, etc.)
+
+For Senior Engineers
+
+• Azure and AWS data architecture experience (CI/ CD, Security, Kubernetes)
+
+• Orchestration with Dagster (or any similar tool,
+
+such as Airflow etc.)
+
+• Experience with Terraform
+
+Experience with different tools (but clear
+
+knowledge of the core concepts) combined with a
+
+willingness to learn and adapt is sufficient.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Advanced Data Engineer, Budapest,
+
+Ki
+
+Hungary
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: INNIO
+
+Group
+
+▲ 34% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés

@@ -1,0 +1,39 @@
+12:24 •
+
+← Q data science
+
+42
+
+Required Qualifications
+
+• 4+ years of experience in ML Ops, Platform Engineering, SRE, or similar infrastructure roles focused on ML systems
+
+• Hands-on experience with model serving frameworks such as vLLM, TGI, Triton, or equivalent
+
+• Strong background in container orchestration and operating GPU-based workloads in production • Experience with MLOps tooling including model registries, experiment tracking, and automated deployment pipelines
+
+• Proficiency in Python and infrastructure-as-code tools (e.g., Terraform, Helm, or similar)
+
+•
+
+Strong understanding of distributed systems, performance tuning, and production reliability engineering
+
+Ability to effectively use Al coding assistants to accelerate development and debugging workflows • Ownership mindset with the ability to operate independently in a remote-first environment
+
+Preferred Qualifications
+
+• Experience with ML platforms such as Kubeflow, MLflow, or KubeAl
+
+• Knowledge of GPU scheduling, CUDA/ROCm optimization, or multi-tenant inference systems • Experience with cost optimization across different GPU types and inference workloads
+
+•
+
+Background in early-stage startups or greenfield infrastructure projects
+
+• Proven experience building production systems from scratch rather than maintaining legacy platforms
+
+Why Join Us
+
+Jelentkezés
+
+Mentés

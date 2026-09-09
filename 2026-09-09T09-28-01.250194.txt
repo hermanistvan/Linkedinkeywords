@@ -1,0 +1,11 @@
+Qdata science
+
+Skills/experience:
+
+• AWS Redshift and AWS Glue
+
+• Monitoring tools (CloudWatch, Redshift Console) • Data versioning, CI/CD, and collaborative development practices in dbt.
+
+• Pyspark
+
+• Data pipelines • Apache Airflow

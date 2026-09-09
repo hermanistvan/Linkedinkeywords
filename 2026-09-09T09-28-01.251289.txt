@@ -1,0 +1,51 @@
+12:21 O
+
+← Q data science
+
+41
+
+•
+
+Requirements
+
+Minimum Qualifications:
+
+3 years of experience as a software engineer, working on backend and ETL for webapplications • Experience collecting, cleaning, and analyzing large data sets
+
+• Proficiency in Python
+
+• Proficiency in SQL
+
+• Strong oral and written communication skills • Project management skills and ability to handle multiple priorities at different timescales
+
+•
+
+Proven problem-solving skills using deductive reasoning, understanding hierarchical relationships, and identifying gaps in logic
+
+• Self-starter and ability to work independently
+
+• Located in Eastern Europe
+
+Preferred Qualifications:
+
+•
+
+Proficiency in at least one of the following tools: Power Bi, Tableau, Google DataStudio
+
+• Excellent analytical and customer-facing skills with attention-to-detail
+
+• Experience working with AWS, GCP or Azure
+
+Recruitment Process:
+
+Our application process consists of a few stages, each of which is asynchronous. We respect your time, so we designed the process with efficiency in mind, including only the essential steps. The goal is to ensure it's a good fit for both you & Spate. Here's what the process entails:
+
+•
+
+Application
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

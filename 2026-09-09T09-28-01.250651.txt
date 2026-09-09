@@ -1,0 +1,77 @@
+12:38 •
+
+X
+
+•
+
+Product Engineer, BigQuery (Europe) Rabbit Budapest, Hungary (Hybrid)
+
+Must-have:
+
+·
+
+5+ years of software or data engineering
+
+—
+
+experience - you've shipped real features to real
+
+users
+
+―
+
+46
+
+• Deep BigQuery expertise - slots, reservations, pricing models, INFORMATION_SCHEMA, query optimization. Hard requirement; we'll test for it. (Equivalent depth in another data warehouse plus willingness to ramp on BigQuery fast also works.) • Strong SQL
+
+•
+
+Comfortable in backend code (any language) you're not afraid to jump in when needed
+
+• Fluent with agentic coding tools (Claude Code, Cursor, Copilot, etc.) on real production work not just demos
+
+―
+
+―
+
+• Customer-facing instinct - you can run a technical conversation with an enterprise team without an Account Executive holding your hand Comfort with ambiguity — you'll often define the problem before solving it
+
+•
+
+―
+
+• Autonomy - small team, no middle management, you own outcomes
+
+Strong plus:
+
+•
+
+•
+
+GCP cost management, FinOps, or query
+
+execution planning background
+
+Experience taking a feature from blank page to GA, not just maintaining
+
+• Prior Solutions Architect, TAM, or Forward
+
+Deployed Engineer experience in the data space
+
+Why This Role
+
+• Your ideas ship. No PoC graveyard. The optimization algorithm you prototype on Tuesday can be saving a Fortune 500 customer millions on Friday.
+
+• Direct customer exposure. You see the impact of what you build, in dollars, on real workloads.
+
+• Hard problems. BigQuery optimization at petabyte scale, real-time anomaly detection, cost prediction - unsolved at most companies. Not CRUD.
+
+•
+
+End-to-end product ownership. You take features from idea to GA — shaping the problem.
+
+―
+
+Jelentkezés
+
+Mentés

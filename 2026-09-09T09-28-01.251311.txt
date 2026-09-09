@@ -1,0 +1,27 @@
+About The Role
+
+We are looking for a Data Engineer who can own and deliver across data engineering tasks, integrations, and marketing systems. This is not a junior learning role: we need someone who can quickly understand production systems, solve problems independently, and ship reliable work.
+
+The core technical base is Python, SQL, and Bash. Experience with Google Tag Manager, pixel/ conversion setup, and JavaScript is required. Airbyte and Airflow are nice to have, but not mandatory.
+
+Requirements
+
+• Strong Python, SQL, and Bash skills
+
+• Experience with Google Tag Manager, pixels, conversion setup, and JavaScript
+
+•
+
+Experience with Google Ads, Meta Ads, Bing Ads • Engineering mindset and ability to work with
+
+production data systems
+
+• Basic understanding of BigQuery, ClickHouse, dbt, and documentation practices
+
+• Airbyte or similar ingestion tool experience is nice to have
+
+•
+
+Basic Airflow familiarity is nice to have
+
+Strong problem-solving skills and attention to detail

@@ -1,0 +1,115 @@
+12:45 O
+
+← Q data science
+
+ill 49
+
+Job Summary
+
+Senior Robotics Engineer will bring business value to our clients through the
+
+development, optimization, and implementation of robotics solution with a focus on the
+
+advanced computer vision parts of it. Senior Robotics Engineer will use the latest
+
+technologies and frameworks to create efficient and reliable robotic systems.
+
+Key Responsibilities
+
+• Integrate with Reality Capture solutions to read information from various
+
+PointCloud formats (e.g., xyz, .rcp, .e57, .PTS) and video streams and convert
+
+them into other formats as needed.
+
+·
+
+Potentially implement integration with reality capture solutions
+
+• Develop object detection algorithms on Point Clouds and video stream in realtime typically with Nvidia Jetson or in the cloud with GPU-accelerated local/cloud clusters.
+
+• Develop other advanced computer vision algorithms and enterprise integrations
+
+•
+
+working various corresponding recordings
+
+Contribute to robot control algorithms development to enhance robotic
+
+functionality.
+
+• Work in, implement simulation scenarios to test and validate above algorithms.
+
+• Integrate simulation environments with ROS/ ROS2 for seamless operation.
+
+• Conduct performance tests and troubleshoot software issues.
+
+• Collaborate with hardware engineers to ensure software-hardware compatibility.
+
+Skill Requirements
+
+Solid knowledge of Python programming, and with
+
+leading computer vision
+
+solutions, openness to learn and work with LVMs
+
+(Large Vision Models).
+
+• Experience with computer vision and Point Cloud processing.
+
+•
+
+Optionally experience with simulation frameworks
+
+and ROS/ROS2.Professional
+
+level of English (written and oral).
+
+•
+
+Excellent problem-solving, analytical, and
+
+communication skills.
+
+• Intelligent, communicative team-player
+
+personality, interested in and willing to
+
+learn new skills and technologies.
+
+Team mentoring would be an added advantage.
+
+Az álláshirdető által megadott
+
+követelmények
+
+• 2+ év munkatapasztalat: Computer Vision
+
+·
+
+3+ év munkatapasztalat: Python (Programming
+
+Language)
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Robotics Software Engineer, 13th
+
+district of Budapest, Budapest, Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: HCLTech -
+
+Hungary
+
+▲ 12% alkalmazotti létszám növekedése
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

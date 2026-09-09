@@ -1,0 +1,55 @@
+12:33
+
+← Q data science
+
+45
+
+•
+
+Minimum Qualifications
+
+Database Mastery: Expert-level knowledge of SQL and high-performance columnar DBMS. You must have hands-on experience with tools like ClickHouse, BigQuery, or DuckDB.
+
+• Storage Formats: Deep understanding of optimized file formats, specifically Parquet, Avro, or ORC, and how to leverage them for analytical performance.
+
+• Programming Excellence: Strong software engineering fundamentals are a must. Proficiency in Python, Go, Java, or Scala for building data tools and pipelines.
+
+•
+
+Distributed Systems: Experience managing data across distributed environments and
+
+understanding the complexities of data consistency and network latency.
+
+• Data Engineering Ecosystem: Proficiency with tools like Spark, Flink, or Kafka for stream and batch processing.
+
+Preferred Qualifications
+
+• Capital Markets Expertise: Previous experience in High-Frequency Trading (HFT) or a deep understanding of market data structures (Level 2/3 feeds).
+
+• kdb+/Q Experience: Experience with kdb+ and the q programming language for time-series data is a massive advantage.
+
+• Cloud Infrastructure: Experience with Hybrid Cloud environments, specifically optimizing data egress/ ingress costs and performance.
+
+• HPC Knowledge: Familiarity with
+
+high-performance computing clusters and hardware-accelerated data processing.
+
+Benefits
+
+• Competitive Salary: A top-tier compensation package tailored to your experience and the global market.
+
+•
+
+Ownership Stake: Employee Share Options (ESOP),
+
+allowing you to directly benefit from the
+
+company's long-term growth and success.
+
+• Professional Growth: Access to International Conferences (US, Europe, and beyond) to stay at the forefront of your field.
+
+• Career Development: Structured Career Building
+
+Jelentkezés
+
+Mentés

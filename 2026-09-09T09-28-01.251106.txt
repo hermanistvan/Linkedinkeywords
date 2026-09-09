@@ -1,0 +1,67 @@
+12:27 O
+
+← Q data science
+
+43
+
+Stack
+
+• Cloud: AWS
+
+• Data Stores: Relational and non-relational e.g. CockroachDB, DynamoDB, Elasticsearch
+
+• Data Warehouse: Snowflake
+
+•
+
+Processing: Batch & streaming including CDC pipelines
+
+• Languages: Python
+
+• Infrastructure: Kubernetes + Helm, Terraform (laC) • Orchestration & Transformations: dbt
+
+•
+
+Observability: OpenTelemetry, Datadog
+
+• Dev Practices: CI/CD, automated testing, containerisation
+
+Core Skills
+
+• Strong software engineering fundamentals: testing, code reviews, clean abstractions
+
+• Proficient in Python and SQL
+
+• Comfortable working across infrastructure and data systems
+
+•
+
+Experience building and maintaining batch and/or streaming data pipelines
+
+• Familiarity with modern data warehouses (e.g., Snowflake) and transformation tools like dbt
+
+• Comfortable navigating cloud-native ecosystems (AWS, K8s, Terraform)
+
+Mindset & Collaboration
+
+• Clear and thoughtful communicator (written and verbal)
+
+• Detail-oriented
+
+• Team player ("our code," not "my code")
+
+• Eager to learn and share
+
+•
+
+Adaptable - comfortable with ambiguity and shifting priorities
+
+You May Not Like It Here If
+
+•
+
+You enjoy working in an office-setting, we are
+
+Jelentkezés
+
+Mentés

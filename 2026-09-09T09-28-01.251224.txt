@@ -1,0 +1,97 @@
+12:22 •
+
+← Q data science
+
+41
+
+Qualifications
+
+Requirements:
+
+• Minimum six years' experience in data engineering, with substantial exposure to Azure cloud services
+
+• Demonstrable hands-on experience delivering production workloads on Microsoft Fabric,
+
+including Lakehouse, Warehouse, OneLake and Fabric Data Factory
+
+• Proven experience migrating Azure Synapse and Azure Data Factory workloads onto Microsoft Fabric within a live environment
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Strong programming capability in Python and
+
+SQL, applied to production systems
+
+Practical experience with Apache Spark and PySpark at scale
+
+Working knowledge of Azure Synapse Analytics, including dedicated and serverless SQL pools and Spark pools
+
+Experience of dimensional modelling and lakehouse architecture
+
+Experience applying source control and CI/CD practices to data engineering deliverables
+
+• Experience mentoring or line-managing engineers
+
+•
+
+Ability to communicate technical concepts clearly to non-technical stakeholders across operational and commercial functions
+
+• Professional working proficiency in English
+
+•
+
+Desirable
+
+Experience with Model Context Protocol, agent tooling, retrieval-augmented generation pipelines or vector stores
+
+Experience with dbt or comparable
+
+transformation-as-code tooling
+
+•
+
+Experience with Terraform or Bicep
+
+•
+
+Experience with Microsoft Purview or comparable
+
+data governance tooling
+
+Experience of manufacturing, engineering or
+
+industrial data sources, including loT, MES and
+
+ERP systems
+
+• Relevant Microsoft certification (DP-203, DP-600
+
+•
+
+•
+
+or Fabric equivalents)
+
+Scala
+
+Degree in computer science, information
+
+technology, engineering or a related discipline, or
+
+equivalent professional experience
+
+Morgan Advanced Materials is an EEO/AA/M/W/D/ V Employer Ind-1
+
+Morgan Advanced Materials is a business rich in history and innovation. Founded in the UK in 1856, we have grown into a global organisation with 70 sites in 18 countries. Our model to serve our customers where they need us has led to a diversified product range using our unparalleled expertise in ceramic and carbon materials, which we exploit to solve difficult problems for our
+
+Jelentkezés
+
+Mentés

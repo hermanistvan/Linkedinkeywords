@@ -1,0 +1,111 @@
+12:35 •
+
+← Q data science
+
+45
+
+What We're Looking For
+
+Tools matter less to us than how you think about problems. That said, here's the shape of the person we have in mind.
+
+Engineering Craft
+
+• 8+ years of building production data systems that other people rely on.
+
+•
+
+Strong proficiency in Python and SQL: not just
+
+being able to write a query, but being able to
+
+reason about what the engine is doing with it. • Code that's easy for someone else to read, test, and delete later.
+
+• Strong understanding of data modelling for both streaming and analytical workloads.
+
+•
+
+Efficiency, quality, idempotency, and observability are taken seriously by default.
+
+Systems Design
+
+• You've designed and operated streaming systems on Kafka, Redpanda, MSK, or Kinesis, and you have opinions about partitioning, consumer groups, offsets, and schema registries.
+
+• You've used a time-series store in production (ClickHouse ideally; TimescaleDB, QuestDB, or similar are fine too) and can talk about table design as a function of query patterns.
+
+• You've worked with a lakehouse architecture and reason about table layout, partitioning, and compaction as design choices that shape query performance and storage cost.
+
+•
+
+You build for self-healing and idempotency.
+
+Reprocessing is safe, retries don't double-write, and the system recovers without a human in the loop.
+
+Operational Readiness
+
+• Docker, Terraform, and CI/CD are how you work,
+
+not a separate "DevOps" thing.
+
+• You think about cost and performance early.
+
+•
+
+• You instrument as you build: logs, metrics, and traces are part of the system from day one.
+
+• You design for data quality and governance up front covering contracts, validation, lineage, and ownership
+
+How You Think and Work
+
+• You reason from first principles when a problem is new, stay pragmatic when it isn't, and update your view when you learn more.
+
+• You treat the trading desks, wealth and asset management, product, risk, finance, compliance, and research as customers of what you build, and communicate with them that way.
+
+• You optimise for outcomes over output. A smaller, simpler thing that ships and works beats a bigger thing that doesn't.
+
+• You take ownership end-to-end: design, ship,
+
+operate, improve.
+
+• You say what you think including when it's an unpopular take. You change your mind when the argument is better.
+
+• You make the people around you better. Reviews
+
+are real, juniors grow from working with you, and peers want to work with you again.
+
+• You're curious about how markets work. Data engineering on its own won't keep you interested
+
+here.
+
+•You're honest about what you know and what you
+
+don't, and quick to close the gap.
+
+• You understand financial market data: order
+
+books, trades, reference data, portfolios, exposures. Crypto, TradFi, or both are a strong
+
+plus.
+
+Nice to Have
+
+• Lakehouse experience with Apache Iceberg or
+
+Delta Lake.
+
+• Familiarity with DataHub or similar metadata/
+
+lineage platforms.
+
+• Rust. Some of our performance-critical services are written in it. Interest is welcome; fluency isn't
+
+required.
+
+What You'll Get
+
+• A from-scratch mandate. You'll be among the first
+
+hires in CDT, and the platform, the standards, and the team culture are yours to shape with us. • Strong partners. Close working relationships with Architecture. Infrastructure. Platform, and the
+
+Jelentkezés
+
+Mentés

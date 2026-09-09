@@ -1,0 +1,85 @@
+12:19 O
+
+← Q data science
+
+ill 40
+
+Skills
+
+• Executive stakeholder management and workshop
+
+facilitation
+
+can hold a room of C-level people
+
+and leave with something written down
+
+• Process analysis and mapping: current-state documentation, process-as-is vs.
+
+•
+
+process-as-written, workflow redesign
+
+Requirements engineering for Al systems: user stories, acceptance criteria, eval design rather than vague wish-lists
+
+• ROI / business-case modelling and prioritisation under constraints
+
+•
+
+―
+
+OKR/ goal-management fluency enough to
+
+coach, not just record
+
+• Hands-on with LLM tooling: prompting, no-code/ low-code prototyping, agent builders, evaluating output quality critically
+
+• Comfortable reading process-mining / usage data and reasoning about it quantitatively (SQL or spreadsheet-level analysis is enough)
+
+• Exceptional written English - most of your output is prose someone else acts on
+
+•
+
+Knowledge
+
+Financial services / private equity operating context: investment policy, portfolio reporting, board and committee process, family-office structures a strong plus
+
+―
+
+• Al governance basics in regulated environments: what to document, what needs a human, what needs an audit trail
+
+• GDPR fundamentals as they apply to employee-generated data (mail, chat, meeting recordings) — including the politics of capture-by-default
+
+Awareness of ontologies / knowledge graphs you don't build them, but you must be able to argue about definitions with the architect
+
+Traits
+
+•
+
+Strategic thinker who can also do the
+
+•
+
+unglamorous documentation work
+
+Comfortable telling an executive their stated
+
+process isn't the one the data shows
+
+Technically curious and genuinely hands-on with
+
+Al tools, without pretending to be an engineer
+
+• Bias to writing things down; allergic to unresolved ambiguity
+
+Experience
+
+• 4+ years in business analysis, management consulting, process improvement or Al/product analysis
+
+• Demonstrated experience eliciting requirements from senior stakeholders and shipping against them
+
+• Hands-on LLM/ generative-Al implementation
+
+Jelentkezés
+
+Mentés
