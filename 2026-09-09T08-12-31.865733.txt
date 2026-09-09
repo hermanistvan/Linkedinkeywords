@@ -1,0 +1,31 @@
+Requirements
+
+• Experience: 5+ years of hands-on experience in data science and machine learning, with a proven portfolio of impactful projects.
+
+• Modelling Expertise: Experience in training tabular and time-series models using classical machine learning and deep learning approaches. • Technical Skills: Proficiency in building data pipelines, training models, and conducting experiments using industry-standard tools.
+
+• Database Knowledge: Advanced SQL skills, including the ability to debug complex queries and a solid understanding of OLTP vs. OLAP systems (experience with OLAP systems is a plus).
+
+• Problem-Solving: Exceptional analytical skills with a detail-oriented and innovative approach to challenges.
+
+• Communication: Strong verbal and written communication skills to collaborate effectively
+
+within a team.
+
+Bonus points
+
+• Cloud & Containers: Experience with cloud platforms (AWS, GCP, Azure) and container tools like Kubernetes.
+
+•
+
+•
+
+ML Pipelines: Expertise in ML pipeline
+
+development, including data preprocessing, model training, deployment, and monitoring.
+
+MLOps Tools: Familiarity with MLOps tools like MLflow or Feast.
+
+• OLAP Expertise: Hands-on experience with large-scale OLAP systems such as Clickhouse, BigQuery, or Snowflake.
+
+• Advanced Modeling: Knowledge of advanced techniques for handling imbalanced datasets and other complex modeling challenges.

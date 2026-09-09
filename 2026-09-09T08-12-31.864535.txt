@@ -1,0 +1,25 @@
+What We Are Looking For
+
+• 3+ years applied ML experience across at least two of: text/content classification, computer vision, similarity search/embedding models, security or threat detection
+
+• Evidence of end-to-end delivery: models you personally took from data to production, running in systems used by other teams or customers • Experience building data pipelines for model training: data collection, labeling and ground truth management, feature extraction, dataset
+
+•
+
+versioning
+
+Strong Python; PyTorch or TensorFlow; experience
+
+with model evaluation frameworks
+
+• Solid grounding in statistics and experiment design, including evaluation under distribution shift
+
+•
+
+Comfort working across the integration boundary (for example, ONNX consumption from JVM
+
+services) rather than stopping at the model artifact
+
+• Fluency with Al coding and agent tooling, and a track record of automating your own workflow with it
+
+• Excellent communication and collaboration abilities; fluent in English

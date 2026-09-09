@@ -1,0 +1,125 @@
+8:19
+
+龍
+
+15
+
+X
+
+Principal NLP Scientist
+
+Sourceability. Budapest, Budapest, Hungary (R...
+
+Your Qualifications, Your Influence
+
+To be successful in this role, you should have:
+
+PhD in Computer Science, Machine Learning, Artificial Intelligence, Computational Linguistics, Applied Mathematics, Data Science, or a closely related technical field
+
+• 8+ years of professional experience in machine learning, artificial intelligence, or NLP
+
+•
+
+• 5+ years of hands-on experience building NLP models for production or near-production systems Deep understanding of modern neural network architectures, including RNN, CNN, Transformer-based architectures, attention mechanisms, embeddings, fine-tuning strategies, layers, modules, and loss functions
+
+• Strong practical experience with NLP tasks such as NER, classification, text generation, semantic similarity, information extraction, and document understanding
+
+•
+
+Strong experience with Large Language Models, including model evaluation, prompt design, fine-tuning, retrieval-augmented generation, and safe production usage
+
+• Practical understanding of RAG, GraphRAG, knowledge graphs, embeddings, and hybrid retrieval approaches for production LLM applications
+
+•
+
+Strong hands-on experience with Python
+
+• Strong experience with PyTorch and Hugging Face
+
+Transformers
+
+• Experience with ONNX or other model
+
+optimization / model serving formats
+
+• Strong understanding of data preparation, data quality, labeling workflows, annotation guidelines, and model evaluation metrics
+
+•
+
+Practical experience with main data analysis and machine learning libraries, including Pandas, NumPy, SciPy, scikit-learn, and Matplotlib • Experience working with SQL databases and structured business data
+
+• Experience with cloud platforms such as
+
+•
+
+Microsoft Azure or AWS
+
+Ability to design experiments, define success
+
+metrics, compare model approaches, and explain trade-offs clearly
+
+• Strong written and verbal English communication skills
+
+• Experience working in Agile engineering
+
+•
+
+environments
+
+Ability to provide technical leadership without requiring formal people management authority
+
+Preferred Skills and Technical Familiarity
+
+The following experience will be helpful:
+
+• Experience leading NLP or Al research initiatives in
+
+a commercial production environment
+
+• Experience with multilingual NLP systems
+
+• Experience with vector databases, embeddings, semantic search, and RAG architectures
+
+• Experience with knowledge graph concepts, including entity and relationship modeling, graph schema design, traversal queries, and LLM integration with graph databases such as Neo4j,
+
+FalkorDB, or similar technologies
+
+• Experience with model serving, monitoring, drift
+
+•
+
+detection, and production ML observability
+
+Experience with Docker and containerized ML
+
+workloads
+
+• Experience with MLOps practices and CI/CD for
+
+machine learning systems
+
+Experience working with data annotation teams and creating annotation instructions
+
+• Experience with .NET / C#, ASP.NET Core, or integration of ML services into enterprise software
+
+platforms
+
+• Experience building prototypes, demos, and proof-of-concept applications for new Al
+
+capabilities
+
+• Publications, patents, or recognized technical contributions in NLP, machine learning, or applied Al are a plus
+
+Success in the First 90 Days
+
+During the first 90 days, the Principal NLP Scientist
+
+is expected to:
+
+• Understand the current NLP and Al automation
+
+landscape inside the company
+
+Jelentkezés
+
+Mentés

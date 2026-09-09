@@ -1,0 +1,51 @@
+8:16
+
+← Q data science
+
+14
+
+Requirements
+
+• 4+ years of experience in AI/ML research or applied machine learning
+
+• Strong background in mathematics and computer science, including statistics, optimization, linear algebra, and algorithms
+
+• Solid understanding of machine learning and deep learning methods
+
+•
+
+Experience working with real-world datasets, including data exploration, cleaning, feature
+
+extraction, and experimental validation
+
+• Proficiency in Python and common scientific/ML libraries (NumPy, SciPy, Pandas, etc.)
+
+• Experience with deep learning frameworks such as TensorFlow or PyTorch
+
+•
+
+Familiarity with computer vision or multimodal Al (images, video, 3D data such as point clouds and meshes)
+
+• Ability to independently formulate research hypotheses, design experiments, and evaluate results
+
+•
+
+Strong analytical thinking and ability to solve complex problems with limited prior solutions
+
+Nice to have
+
+• Experience with 3D data processing (point clouds, meshes, spatial data)
+
+• Experience building or experimenting with Al
+
+agents or LLM-based systems
+
+• Experience training and fine-tuning neural networks
+
+• Interest in geometry, graph theory, or computational geometry
+
+What we offer:
+
+Jelentkezés
+
+Mentés

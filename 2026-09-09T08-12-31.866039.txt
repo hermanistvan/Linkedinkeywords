@@ -1,0 +1,61 @@
+8:08
+
+← Q data science
+
+11
+
+Requirements
+
+We are looking for smart people with good communication skills who are hungry to tackle interesting challenges. If the responsibilities are attractive to you and you are passionate about developing novel models and improving on the state of the art, we would love to hear about you.
+
+We are impressed if you...
+
+• Have a Master's or Ph.D. in Computer Science, Computer Engineering, Computer Vision, or a related field
+
+• Have experience in state-of-the-art Generative Al technologies
+
+• Have experience designing and implementing Al solutions using Python
+
+• Are proficient in ML and CV toolkits, e.g., PyTorch, openCV
+
+• Experience using cloud computing services
+
+• Have experience transferring technology from research into a shipping product
+
+• Are able to present your results to both technical and non-technical audiences
+
+The soft skills that we think are important
+
+• Clearly explain problems, present solutions, and debate strategies in English to both technical and non-technical audiences
+
+• Understand a business problem, then propose and weigh multiple solutions
+
+• Collaborate effectively with Data Scientists, Engineers, and Product Team members
+
+• Estimate and plan machine learning projects and coordinate with engineering team members
+
+Bonus points
+
+• Experience with A/B testing as a form of model evaluation
+
+• Hands-on experience with PySpark and/or Databricks
+
+• Experience handling unstructured text and/or NLP methodology
+
+• Experience building tooling, scripts (e.g. bash, python, etc), or systems to support ML investigations, deployments, etc.
+
+• Monitoring production model performance using automated dashboards or data visualization
+
+• You are active on GitHub and have contributed to
+
+open-source projects
+
+If the role sounds interesting, apply now and get to know us during the interviews. You can read more about our hiring process on Glassdoor.
+
+First name*
+
+Last name*
+
+Jelentkezés
+
+Mentés

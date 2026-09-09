@@ -1,0 +1,45 @@
+YOUR PROFILE
+
+• Education level / Academic background • MSc student or recent graduate in Artificial Intelligence, Computer Science, Data Science, Informatics, Engineering, or a related quantitative/
+
+technical field.
+
+Hard Skills
+
+• Strong English proficiency
+
+• Python for Al & prototyping (pandas, scikitlearn, basic model evaluation)
+
+• SQL & data wrangling (exploring, cleaning, shaping structured/unstructured data)
+
+• GenAl prototyping & LLM
+
+fundamentals (prompting, RAG basics,
+
+understanding hallucination risks)
+
+• Rapid prototyping mindset (combining Python, APIs, Copilot Studio, simple Uls)
+
+• Power BI & visualization basics (exploratory dashboards, clear insight presentation)
+
+• Securebydesign & responsible Al awareness (data protection, privacy, ethical Al practices)
+
+• Documentation & reproducibility discipline (clear assumptions, data flows, prompts, validation
+
+steps)
+
+Soft Skills
+
+• Collaboration & teamwork
+
+• Problem-solving
+
+• Initiative & proactivity
+
+• Learning agility
+
+• Resilience & ability to deal with feedback
+
+• Time management & prioritization
+
+If you're a recent graduate ready to commit to a meaningful 2-year journey, this opportunity is exactly what you're looking for. The 1-year international assignment gives the chance to build a long-term career with us - with the ambition to consider successful participants for future opportunities within Ceva.

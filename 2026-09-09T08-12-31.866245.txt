@@ -1,0 +1,25 @@
+Your skills will include (must have)
+
+• 5+ years of professional experience in data science, quantitative research, or statistical modelling
+
+• Deep, intuitive understanding of probability, statistics, and machine learning theory
+
+• Expert-level skills in the Python data stack. You write clean, production-grade code
+
+• Proven experience designing complex backtesting environments and defining custom evaluation metrics for unique business problems
+
+Nice to have
+
+• Strong understanding of betting concepts, odds, overround, market-making, or quantitative trading. You understand what it means to build models where calibrated probabilities directly drive
+
+•
+
+revenue
+
+Experience modelling off streaming data or data that updates continuously over time
+
+• Deep knowledge of competitive esports (CS2, Dota 2, LoL), the underlying game mechanics, and the competitive meta
+
+• Understanding of modern MLOps principles and
+
+experience with tools like MLFlow, Airflow, etc.

@@ -1,0 +1,61 @@
+Ezek a feladatok várnak nálunk:
+
+Analitikai és adattudományi feladatok
+
+• Prediktív modellek és előrejelzések készítése • Ügyféljövedelmezőségi és értékteremtési
+
+modellek
+
+• Statisztikai elemzések és üzleti hipotézisek validálása
+
+• Szcenárióelemzések készítése a stratégiai
+
+döntések támogatására
+
+• Machine Learning megoldások bevezetése.
+
+Adatkezelési és riporting feladatok
+
+• Nagy mennyiségű adat feldolgozása és elemzése • Adatminőségi ellenőrzések és validációk, ezekhez automatizált megoldások készítése
+
+• Power BI riportok fejlesztése és karbantartása
+
+Döntéstámogatási feladatok
+
+• Vezetői elemzőanyagok készítése (Prezentációk és döntéselőkészítő anyagok)
+
+• Üzleti területekkel és leánybankokkal való együttműködés
+
+• KPI-rendszerek kialakítása és fejlesztése (Új mutatók, benchmarkok és teljesítménymérési megoldások kidolgozása
+
+Téged várunk, ha van
+
+• Felsőfokú végzettséged gazdasági, matematikai, statisztikai, pénzügyi, mérnöki vagy informatikai területen
+
+• Legalább 2-3 év hasonló munkakörben szerzett gyakorlatod
+
+• SQL magas szintű ismereted
+
+• Python vagy R programozási ismereted
+
+• Adatmodellezési tapasztalatod
+
+• Magabiztos angol nyelvtudásod
+
+• Kiváló kommunikációs és prezentációs készséged
+
+Előnnyel indulsz nálunk, ha van
+
+Ügyféljövedelmezőségi vagy értékteremtési
+
+modellek fejlesztésében tapasztalatod
+
+• Banki, pénzügyi vagy controlling területen szerzett tapasztalatod
+
+• Power BI fejlesztési tapasztalatod
+
+• Machine Learning projektekben szerzett
+
+ismereteid
+
+• Databricks vagy felhős adatplatformok ismereted Predictive Analytics vagy Al megoldások gyakorlati alkalmazásában gyakorlatod

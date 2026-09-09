@@ -1,0 +1,39 @@
+We are looking for you if have:
+
+•
+
+a completed Master's degree (ideally in Statistics, Mathematics or Computer Science) or up to 3 years of relevant work experience,
+
+• proven experience using Python and basic knowledge of shell scripting,
+
+• familiarity with software development methods
+
+•
+
+and version control tools such as Git,
+
+ability to work independently and reliably in a small team,
+
+• proactivity and eagerness to learn,
+
+•
+
+⚫ willingness to experiment with various generative and descriptive Al use cases,
+
+• at least intermediate proficiency in English (oral and written); Hungarian knowledge is an advantage.
+
+We consider it an advantage if you have:
+
+•
+
+experience with database technologies (MS SQL, PostgreSQL, MongoDB),
+
+• experience with deep learning models and related Python packages such as Transformers or
+
+PyTorch,
+
+• experience in developing NLP models,
+
+•
+
+⚫ experience with Azure.

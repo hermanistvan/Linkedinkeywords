@@ -1,0 +1,17 @@
+What we are looking for
+
+• Bachelor's in computer science, Machine Learning, Artificial Intelligence, or a related field. Master's or Ph.D. in Al would be considered a plus. • At least 5 years of experience in the ML Field, have developed ML solutions and products, with significant experience in developing cutting edge platforms using Cloud (preferably AWS Sagemaker) to enable seamless evolution and standardized utilization of the Machine Learning by organization.
+
+• Demonstrated expertise in managing complex Data/AI/ML projects and delivering results in a fast-paced environment.
+
+• Proficiency in Al technologies, event driven and real time data analytics environments,
+
+•
+
+development and utilization of machine learning algorithms, MLOps and online feature stores for real time low latency applications.
+
+Stay abreast of emerging trends and technologies in the Al and ML space to proactively implement improvements, suggest innovative ways and ensuring Betsson remains at the forefront of innovation in this dynamic field.
+
+• Excellent communication and leadership skills, capable of inspiring teams and translating complex Al concepts into clear business
+
+strategies to be communicated to different stakeholders at different levels of seniority and skills.

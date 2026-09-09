@@ -1,0 +1,9 @@
+What We Are Looking For
+
+• 2+ years ML engineering or applied data science experience
+
+• Strong Python; hands-on experience with modern training and fine-tuning workflows
+
+• Experience with structured model evaluation (not just accuracy, precision/recall tradeoffs, drift, edge-case analysis)
+
+• Comfortable working against defined acceptance criteria and production constraints

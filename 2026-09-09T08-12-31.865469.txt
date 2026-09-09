@@ -1,0 +1,47 @@
+How you'll have an impact:
+
+• Research emerging fraud patterns in real-time with our Risk Intelligence team
+
+Improve the important components of the Signifyd Commerce Protection Platform
+
+• Communicate complex ideas to a variety of audiences, including executives
+
+• Build production machine learning models that identify fraud
+
+• Write production and offline code in python, PySpark
+
+• Work with distributed data pipelines
+
+•
+
+Collaborate with engineering teams to strengthen our machine-learning pipeline
+
+Past experience you'll need:
+
+• A degree in computer science or a comparable analytical field
+
+•
+
+3+ years of post-undergrad work experience required
+
+Strong verbal and written communication skills • Strong machine learning and statistical
+
+background, and a track record of being able to deliver under pressure.
+
+• Write code and review others' in a shared codebase in Python
+
+• Practical SQL knowledge
+
+• Design experiments and collect data • Familiarity with the Linux command line • Candidates must be based in Hungary
+
+Bonus points if you have:
+
+• Previous work in fraud, payments, or e-commerce
+
+•
+
+Data analysis in a distributed environment
+
+Passion for writing well-tested production-grade code
+
+• A Master's Degree or PhD

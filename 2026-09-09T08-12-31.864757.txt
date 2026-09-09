@@ -1,0 +1,31 @@
+8:21
+
+← Q data science
+
+What You Bring
+
+• Core ML: feature engineering, model selection, training, hyperparameter tuning, and evaluation, across classical ML (regression, classification, forecasting, ranking) and LLM-based systems • Python ML stack: pandas/NumPy, scikit-learn, PyTorch or TensorFlow, plus LLM / RAG frameworks
+
+• Rigorous model evaluation: offline metrics, online outcomes, regression suites, faithfulness checks •MLOps: CI/CD for ML, model and data versioning, monitoring, drift detection, retraining
+
+• Strong SQL and data wrangling on large, messy operational datasets
+
+Observability tooling: Jenkins, GitHub Actions, Elasticsearch, Kibana
+
+• Cloud-native deployment and REST/OData integration; SAP BTP a plus
+
+• Domain exposure to CPQ, quoting, pricing, or sales/revenue processes a plus
+
+Where you belong
+
+V_JII:_: 1L + L:L:... 2. 16
+
+Jelentkezés
+
+|||
+
+Mentés
+
+く
+
+16

@@ -1,0 +1,59 @@
+8:11
+
+X
+
+Data Scientist / GenAI Developer - IFM Morgan Stanley Budapest, Budapest, Hungary ....
+
+You Have
+
+·
+
+13
+
+• Degree in a quantitative field such as Computer Science, Mathematics, Statistics, Physics, or related discipline.
+
+•
+
+Solid problem solving and mathematical
+
+foundations, and an interest in the financial industry.
+
+• Strong communication skills (ability to present complex ideas clearly).
+
+• Strong Python skills and experience building applications and backend services.
+
+• Experience with data analysis and databases (SQL / time-series).
+
+•
+
+Familiarity with LLM / GenAI patterns (RAG, tool use, Al-assisted coding).
+
+• Analytical mindset, high attention to detail, and ability to handle multiple projects.
+
+Nice To Have
+
+• Experience tuning prompts and interactions to improve LLM behaviour and UX.
+
+•
+
+Hands-on GenAl work with LangChain, LangGraph or similar frameworks.
+
+• Understanding of neural networks and modern NLP/LLM concepts.
+
+• Experience designing tests and evaluations for GenAl systems.
+
+Experience taking projects from prototype to production.
+
+• Experience with RAG, structured generation (JSON/SQL/ function calling), and agent/ tool-calling setups.
+
+• Experience working in an agile team.
+
+#BPMM
+
+What You Can Expect From Morgan Stanley
+
+At Morgan Stanley, we raise, manage and allocate
+
+Jelentkezés
+
+Mentés

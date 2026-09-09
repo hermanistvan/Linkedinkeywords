@@ -1,0 +1,91 @@
+8:19
+
+Q data science
+
+ל יוון
+
+15
+
+Your Qualifications, Your Influence
+
+To be successful in this role, you should have:
+
+•
+
+PhD in Computer Science, Computer Vision, Machine Learning, Artificial Intelligence, Applied Mathematics, Electrical Engineering, Robotics, or closely related technical field.
+
+• 7+ years of hands-on experience in Machine Learning / Deep Learning, with strong focus on Computer Vision.
+
+Strong practical experience with PyTorch and / or TensorFlow.
+
+• Strong Python development skills.
+
+• Experience with OpenCV, NumPy, Pandas, scikit-learn, and modern Python ML ecosystem. • Deep understanding of classical Computer Vision algorithms and modern deep learning approaches. • Strong experience with object detection, semantic segmentation, image classification, feature matching, image retrieval, and model evaluation. • Experience with modern Computer Vision architectures and techniques, including CNNs, Transformers, Vision Transformers, YOLO, Mask R-CNN, CLIP-like models, SAM-like models, or similar.
+
+• Experience bringing ML models into production environments.
+
+•
+
+Experience with model optimization for inference speed, latency, memory usage, scalability, and
+
+reliability.
+
+• Experience with REST APIs, Docker, CI / CD, model versioning, experiment tracking, and MLOps
+
+practices.
+
+• Strong understanding of datasets, data quality, annotation processes, labeling requirements, and model error analysis.
+
+• Ability to read, understand, and evaluate technical documentation and research papers in English. • Ability to explain complex technical topics to engineering, product, and business stakeholders. • Experience working in Agile software development environment.
+
+Strong ownership mindset, good judgment, and ability to make practical technical decisions under uncertainty.
+
+• Comfortable working in distributed teams across multiple locations and time zones.
+
+Preferred Skills and Technical Familiarity
+
+The following experience will be helpful:
+
+• Post-PhD research or industry experience in applied Computer Vision.
+
+• Publications, patents, or strong applied research record in Computer Vision, Machine Learning, or
+
+AI.
+
+• Experience leading technical direction for AI / ML
+
+projects.
+
+• Experience mentoring ML engineers, software engineers, or data annotation teams.
+
+• Experience with edge or mobile inference technologies, including ONNX, TensorRT, OpenVINO, TFLite, CoreML, or similar.
+
+• Experience with large-scale image processing
+
+pipelines.
+
+• Experience with synthetic data generation, active learning, weak supervision, or dataset quality
+
+improvement.
+
+• Experience with multimodal models,
+
+vision-language models, prompt engineering,
+
+OpenAl, or similar Al platforms.
+
+• Experience with cloud ML platforms and production monitoring of ML models.
+
+• Familiarity with mobile applications, warehouse workflows, field operations systems, or image capture workflows.
+
+• Familiarity with Azure DevOps, Git, CI/CD tooling, documentation systems, and practical software
+
+delivery processes.
+
+• Experience in electronic components, technology distribution, supply chain, logistics, manufacturing, e-commerce, or similar B2B environments.
+
+Success in the First 90 Days
+
+Jelentkezés
+
+Mentés

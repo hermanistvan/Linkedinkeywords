@@ -1,0 +1,53 @@
+8:17
+
+Senior Applied Al Researcher, Vice Presi... BlackRock Budapest, Budapest, Hungary (Hyb...
+
+•
+
+Required Qualifications
+
+15
+
+• 6+ years of experience in data science, applied machine learning, or a closely related role. • Strong mathematical, statistical, and machine learning foundations, including probability, statistics, optimization, and model evaluation. • Proven ability to select, apply, and critically evaluate ML models and algorithms for real-world problems.
+
+• Strong Python skills for analysis, modelling, experimentation, and prototyping.
+
+• Strong SQL skills for data exploration, transformation, and analytical workflows. • Excellent analytical thinking and problem-structuring abilities; comfort operating independently with loosely defined goals.
+
+• Experience using Git for version control and collaborative development.
+
+• Strong English communication skills, both written and verbal.
+
+•
+
+Preferred Qualifications (Strong Plus)
+
+Hands-on experience with LLMs, including prompt/system design and building real-world applications.
+
+• Experience with RAG systems, including retrieval strategies, chunking, evaluation, and performance tuning.
+
+• Experience designing or contributing to
+
+agent-style Al systems and familiarity with
+
+concepts such as agent evaluation, guardrails, and reliability testing.
+
+• ML modeling experience (e.g. supervised learning, ranking, classification) beyond exploratory
+
+analysis.
+
+• Understanding of software engineering best practices, including testing strategies and CI/CD concepts.
+
+•
+
+Experience working in Azure or similar cloud environments.
+
+• Familiarity with Snowflake (and optionally Snowflake Al) as part of a modern data stack. • Experience collaborating closely with domain experts; financial domain exposure is a plus but not required for strong technical candidates.
+
+What Success Looks Like In This Role
+
+• You independently deliver high-quality Al prototypes and evaluation frameworks for a defined subdomain or application module. • You proactively define scope success metrics.
+
+Jelentkezés ♫
+
+Mentés

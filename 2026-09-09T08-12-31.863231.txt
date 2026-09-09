@@ -1,0 +1,31 @@
+We're seeking candidates with:
+
+• 5+ years of experience in ML/AI, with a strong focus on production-grade computer vision and deep learning models
+
+• Expert-level Python and PyTorch skills
+
+• Deep knowledge of scalable ML systems, data lifecycle management, and MLOps practices • Proven technical leadership experience, including mentoring engineers, leading projects, or guiding ML teams
+
+Strong architectural thinking and the ability to make pragmatic technical decisions
+
+• Strategic thinking and excellent communication skills
+
+• A passion for sustainability and real-world applications of ML
+
+• Experience with complex algorithms and large-scale data processing
+
+We value if you have experience in:
+
+• Managing, mentoring, or helping build small ML teams
+
+• Remote sensing, GIS, LIDAR, or point cloud data
+
+• Workflow orchestration tools such as Airflow
+
+• DevOps practices and tools, including Docker and Kubernetes
+
+•
+
+Cloud ML environments, especially Azure
+
+Technical hiring, interviewing, and team scaling

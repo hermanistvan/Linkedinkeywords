@@ -1,0 +1,27 @@
+Requirements
+
+• 3+ years of experience in Python software engineering, along with practical exposure to Life Sciences, Healthcare, Bioinformatics,
+
+Computational Biology or related domains Proficiency in Python and modern web/API frameworks (Django, Flask, FastAPI)
+
+• Experience with scientific and analytical Python libraries (NumPy, Pandas, SciPy, scikit-learn) and/ or a relevant M.Sc. or Ph.D. in Bioinformatics,
+
+Computational Biology or a related quantitative
+
+field
+
+• Exposure to biological, biomedical or clinical data, including NGS, transcriptomics, proteomics, multi-omics or genomic data formats (FASTQ, BAM, VCF)
+
+• Familiarity with integration of AI / ML models into production systems in data-intensive or regulated contexts
+
+• Strong understanding of software design
+
+principles, data structures and algorithms
+
+• Hands-on experience with cloud platforms (AWS, Azure or GCP)
+
+• Strong analytical and problem-solving skills, with the ability to contribute to technical discussions and solution design
+
+• Excellent communication skills and experience in cross-functional, international teams
+
+• Fluency in English (both written and spoken) at a B2 level

@@ -1,0 +1,69 @@
+General qualifications:
+
+• Fluent English speaker with excellent
+
+communication skills, comfortable in client-facing
+
+roles.
+
+• 5 years of experience in data science or a related field.
+
+• Hands-on experience with LLM projects, machine learning, deep learning.
+
+• Affinity to building product/product-oriented vision
+
+•
+
+Domain expertise in any of the following fields is highly preferred: international finance, healthcare, pharma or meteorology.
+
+Technical requirements:
+
+• Strong Python and SQL skills
+
+Leverage cloud-based data science tools on AWS (SageMaker, Bedrock), Azure, or GCP for scalable model training and deployment
+
+• IDE (e.g.: Jupyter, VSCode)
+
+• Version control Git/ BitBucket / AZ DevOps
+
+•
+
+•
+
+•
+
+Core machine learning libraries (sklearn,
+
+LightGBM, torch)
+
+Traditional ML projects (supervised and unsupervised)
+
+• NLP experience / affinity: Understand concepts of
+
+text classification, information extraction
+
+• Generative Al & LLM frameworks - HuggingFace/ transformers, OpenAl; proprietary API &
+
+open-source models
+
+• Understand concepts of RAG, build & maintain pipeline, understand concepts of pretraining, fine-tuning
+
+Nice to have:
+
+• Databricks / distributed computing / scalable ML • Familiarity with database systems (SQL, NOSQL) • ML Lifecycle management (e.g.: MLFlow / wandb) • Web frameworks (e.g.: Streamlit / FastAPI / Flask) Automatization pipelines on cloud (e.g.: Azure Functions, AWS Lambda, Databricks notebook jobs)
+
+• API integration
+
+• Experience with deploying ML models in production environments
+
+• Experience with LangChain / Llamalndex
+
+• Understanding of LLM Agents, agentic behavior,
+
+•
+
+prompt engineering
+
+Being able to differentiate what 'needs' LLMs and what can be solved with traditional ML / NLP
+
+Additional Information

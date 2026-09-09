@@ -1,0 +1,65 @@
+8:22
+
+←
+
+Q data science
+
+16
+
+Qualifications
+
+Apply, If You Have
+
+• 3+ years of experience in Data Science / Al • Hands-on experience in Python and data preparation techniques (additional R/SQL knowledge is an advantage)
+
+•
+
+Understand Large Language Models (LLMs), Retrieval Augmented Generation (RAG) and the transformer architecture (graph RAG is a plus) • Understand MCPS, comfortably handle model usage monitoring and token utilization concepts in LLM applications
+
+• Demonstrated knowledge of a version control tool (preferably git)
+
+·
+
+Deep understanding of data science and machine learning frameworks
+
+• Ability to understand business requirements and translate them into technical requirements
+
+• Experience working with cloud-based technologies
+
+• Experience with Generative Al technology platform offerings (open-source Lang chain/Llama
+
+·
+
+Index, or other 3rd party platforms) and tools
+
+Hands-on NLP technology experience is a plus • Team player attitude
+
+•
+
+Well-developed written and oral communication
+
+skills both in English and in Hungarian
+
+Az álláshirdető által megadott
+
+•
+
+követelmények
+
+3+ év munkatapasztalat: Artificial Intelligence (AI)
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Al Engineer, Budapest, Hungary
+
+Ki
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

@@ -1,0 +1,55 @@
+8:42
+
+← Q data science
+
+ל יוון
+
+21
+
+What You'll Bring:
+
+• Bachelor's Degree in Computer Science or a related field, with 3 years working experience OR a Master's Degree in Computer Science or a related field, with 1 years working experience.
+
+•
+
+Programming Language: Proficiency in Python. • Solid understanding of data structures and algorithms.
+
+• Proficient in Machine Learning, with a solid understanding of neural networks and the Transformer architecture.
+
+• Familiar with foundational NLP tasks such as tokenization, Named Entity Recognition, and sentiment analysis.
+
+•
+
+Experience with modern approaches built on pretrained language models - fine-tuning and transfer learning, text and token classification. • Working knowledge of large language models, including prompting and retrieval-augmented generation (RAG).
+
+• Experience or coursework in Deep Learning frameworks like PyTorch or TensorFlow.
+
+•
+
+Strong problem-solving skills and a curiosity for learning new technologies.
+
+• Good verbal and written communication skills. • Familiarity with cloud platforms (e.g., Azure (preferable), AWS, or Google Cloud).
+
+• Basic knowledge of containerization tools like Docker and orchestration platforms like
+
+Kubernetes.
+
+• Interest in infrastructure-as-code tools like Terraform.
+
+• Passion for exploring the intersection of NLP and emerging fields such as generative Al or
+
+multimodal systems.
+
+Office Location: Budapest, Szép u. 2, 1053 Hungary
+
+Our Story
+
+At Meltwater, we believe that when you have the right people in the right environment, great things happen.
+
+Our best-in-class technology empowers our 27,000 customers around the world to make better
+
+business decisions through data. But we can't do that without our global team of developers, innovators, problem-solvers, and high-performers
+
+Jelentkezés
+
+Mentés

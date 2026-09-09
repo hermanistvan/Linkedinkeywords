@@ -1,0 +1,49 @@
+You will need
+
+• Education in mathematics, computer science, data science, logistics or similar
+
+• Min. 1 year of relevant working experience
+
+•
+
+Intermediate level of English language knowledge
+
+Mathematical and logical thinking
+
+• Good presentation and communication skills to interpret conclusions
+
+• Willing to learn about new approaches in the data science field
+
+• Attention to the details
+
+• Must have experince with:
+
+•
+
+SQL
+
+• MS Access
+
+• MS Excel
+
+•
+
+MS Powerpoint
+
+• Good to have:
+
+•
+
+•
+
+•
+
+•
+
+Knowledge about any of the following languages Python, Matlab, R or Scala
+
+Understanding version control (Git, GitHub)
+
+Understanding Hadoop ecosystem (HDFS, Hive, Spark)
+
+Understanding the basic principles of Machine Learning (train/test, data validation, basic models)

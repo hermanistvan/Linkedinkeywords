@@ -1,0 +1,19 @@
+What You'll Need
+
+• Six or more years in applied machine learning, machine learning engineering, or applied research, with ownership of models shipped into real products
+
+• Depth in at least one of: sequence modeling, latent-variable or probabilistic modeling, temporal modeling, Bayesian methods, or calibration of model outputs, applied to data that changes over time
+
+• Strong Python and production engineering skills: you write the pipelines that train and score your models, and you've shipped models that run on a schedule and serve predictions to real users • Strong evaluation instincts around calibration, uncertainty, stability, fairness, interpretability, and validation strategy
+
+It Would Be a Bonus If You Had
+
+Experience with recommender systems, user-state modeling, or personalization at scale
+
+• Experience with knowledge tracing, psychometrics, educational measurement, or adaptive learning systems
+
+• Experience combining structured knowledge representations, such as skills, standards, or concept graphs, with learner models
+
+Experience designing experiments or
+
+observational validation strategies to test whether a model reflects reality

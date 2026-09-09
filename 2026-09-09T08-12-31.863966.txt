@@ -1,0 +1,79 @@
+8:34
+
+19
+
+Machine Learning Engineer IcruitmenT⚫ Budapest Metropolitan Area (Hybri...
+
+Ezeket a feladatokat tervezzük Neked:
+
+• Gépi tanulási modellek és algoritmusok
+
+•
+
+fejlesztése, finomhangolása és bevezetése éles környezetbe
+
+Adatok előkészítése és feldolgozása, biztosítva az adatok minőségét és integritását
+
+• Modellek teljesítményének értékelése,
+
+optimalizálása és monitorozása éles környezetben • Mesterséges intelligencia és gépi tanulási
+
+•
+
+rendszerek skálázása és integrálása meglévő infrastruktúrába
+
+Automatizált machine learning pipeline-ok és MLOps folyamatok kialakítása és karbantartása • OpenSource könyvtárak megfelelő ismerete • API-k és egyéb interfészek fejlesztése a gépi tanulási modellekhez
+
+• Részvétel a modellek verziókezelésében, deployálásában és CI/CD folyamatok fejlesztésében
+
+•
+
+Szoros együttműködés data scientist-ekkel, szoftverfejlesztőkkel és üzleti elemzőkkel
+
+• A legújabb ML és Al trendek, eszközök és módszertanok folyamatos követése és alkalmazása
+
+Ezeket várjuk el Tőled:
+
+BSc/MSc diploma (informatika, mérnökinformatikus, villamosmérnök,
+
+matematikus vagy kapcsolódó területen)
+
+• Minimum 5 év releváns tapasztalat gépi tanulási modellek fejlesztésében és éles környezetbe helyezésében
+
+• Mély ismeretek Pythonban, beleértve az ML és Al fejlesztéshez szükséges könyvtárakat (pl. TensorFlow, PyTorch, Scikit-learn)
+
+•
+
+•
+
+Tapasztalat ML modellek deployálásában és skálázásában (pl. Docker, Kubernetes, MLflow, Kubeflow)
+
+Jó adatbázis-kezelési ismeretek (pl. SQL, NOSQL) • Tapasztalat felhőalapú ML megoldásokkal (AWS, Azure, GCP)
+
+• Erős analitikai gondolkodás és problémamegoldó készség
+
+•
+
+Képesség nagy mennyiségű adat kezelésére és modellezésére
+
+• Kiváló kommunikációs készség, különösen az ML modellek működésének és eredményeinek világos bemutatásában
+
+•
+
+• Középszintű angol nyelvtudás
+
+Az álláshirdető által megadott
+
+követelmények
+
+•
+
+5+ év munkatanasztalat: Machine Learning
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

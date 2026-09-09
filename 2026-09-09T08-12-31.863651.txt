@@ -1,0 +1,93 @@
+8:37
+
+X
+
+Junior Visiting Researcher
+
+Central European University⚫ Budapest, Hungar...
+
+Qualifications
+
+Required
+
+• Strong foundation in machine learning: understanding of supervised/unsupervised methods, model evaluation, feature engineering, and common pitfalls
+
+• Artificial Intelligence related experience
+
+• Solid proficiency in Python for data science and ML
+
+20
+
+• Experience training and fine-tuning ML models (in academic or professional projects)
+
+•
+
+Experience with cloud platforms (Azure, AWS,
+
+Google Cloud) and basic data engineering (ETL pipelines, databases)
+
+• Experience with containerization (Docker) or workflow orchestration
+
+• Experience with heterogeneous real-world datasets, ability to assess data quality, handle
+
+missing values, and work iteratively with imperfect information
+
+• Strong written and spoken communication skills in English
+
+• Masters degree (or equivalent) in a quantitative field (data science, computer science,
+
+•
+
+•
+
+environmental science, physics, engineering, or
+
+related). Demonstrated ability to work
+
+independently and manage tasks with
+
+self-direction; willingness to learn new tools and methodologies
+
+Nice to have
+
+Proficiency with Git/GitHub for version control and collaborative development
+
+Modeling experience
+
+• Familiarity with climate and earth system data (NetCDF, GeoTIFF)
+
+• Experience working with geospatial data and/or geospatial modelling (e.g., GeoPandas, rasterio, xarray, or similar tools)
+
+• Understanding of active inference approaches • Prior contribution to peer-reviewed publications or research projects
+
+• Background in architecture, building engineering, climate science, energy systems, or environmental engineering Skills and Competencies
+
+• Analytical and experimental mindset: ability to design and test hypotheses, interpret results critically, and iterate on methods
+
+• Problem-solving orientation: comfort tackling ambiguous research questions with incomplete information
+
+• Collaborative mindset: strong communication, openness to feedback, and ability to work across institutions and disciplines
+
+• Self-directed learning: willingness to master new tools, read literature, and adapt to evolving project needs
+
+• Research-oriented: interest in contributing to scientific understanding, solving environmental problems, not just implementing existing methods
+
+What CEU offers
+
+• Opportunity to work on cutting-edge research at the intersection of AI/ML, architecture, energy systems, and climate solutions
+
+•
+
+• Exposure to real-world geospatial data, energy datasets, and global-scale modeling challenges • Work in a world-class international research consortium with global institutional leaders in the
+
+topic
+
+• Dynamic, international academic environment at CEU with strong institutional support Opportunity to contribute to peer-reviewed
+
+publications
+
+• Hands-on experience with state-of-the-art tools and methods in ML and geospatial science
+
+Jelentkezés
+
+Mentés

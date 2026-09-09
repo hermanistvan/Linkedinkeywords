@@ -1,0 +1,31 @@
+Skills And Competencies
+
+• 5+ years of experience in data analysis to understand complex linkages of safety data from various sources, preferably in a pharmaceutical, biotech, or healthcare setting. Experience working with safety databases required, experience with large healthcare datasets (e.g., EHR, claims, registry data) is a plus
+
+•
+
+• Proficiency in data extraction from the safety database (e.g. Argus Safety) and generating data insights using adequate digital tools.
+
+• Ability to identify gaps and translate them into actionable plans, especially cross-functionally, through technological tools (e.g. GenAI, Copilot, automation tools, etc.) without compromising clinical integrity.
+
+Education, Experience And Qualifications
+
+Degree in Data Science, Epidemiology,
+
+Biostatistics, Public Health, Computer Science, or
+
+a related field.
+
+• Familiarity with data visualization tools such as Tableau or Power BI, safety signal tools such as E • Empirica, or cloud-based data platforms. Proficiency in statistical programming languages (e.g., R, SAS, Python) is a plus.
+
+Minimum of 5 years working in pharmaceutical/ biotech industry.
+
+• Experience in regulated environments (both GCP and GVP).
+
+• Experience in RWE generation,
+
+pharmacoepidemiology and/or rare disease is a
+
+plus.
+
+• Ability to travel up to 20% of time as needed.

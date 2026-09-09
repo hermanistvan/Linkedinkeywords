@@ -1,0 +1,81 @@
+8:20
+
+←
+
+Q data science
+
+ל יוון
+
+15
+
+Requirements
+
+As a senior member of a small team, you will have a great influence on the design of SSP's products. Accordingly, we are looking for someone with hands-on experience building production machine-learning solutions from the ground up. In particular, your experience should include typical data science tasks (e.g. idea generation, data manipulation, modeling, model comparison, etc.) as well as basic engineering (e.g. writing clear maintainable code, building data or feature engineering pipelines, maintaining scripts and tooling to support ML tasks and deployments, performing predictions at scale, etc.).
+
+We Appreciate If You Have The Following Experiences
+
+•
+
+Strong background in machine learning and related programming in Python (required)
+
+• Hands-on experience productionizing machine learning models/pipelines and a solid
+
+•
+
+understanding of best practices
+
+• Experience with feature engineering and common machine learning algorithms (e.g. Regression, GBM, ANNs, etc.) including knowledge of
+
+hyperparameter tuning, regularization, etc.
+
+• Familiarity with general backtesting strategies as well as time-series-specific techniques
+
+• Strong programming background including
+
+•
+
+•
+
+collaborative coding with version control, unit, and integration testing
+
+A deep understanding of the utility and limitations of various model evaluation metrics for both
+
+online and offline environments
+
+Ability to stay up to date with ML techniques and libraries and to acquire any missing technical skills concurrently while executing on projects
+
+• Active use of LLM-powered development tools (e.g. Copilot, Cursor, Claude Code, etc.) as part of your regular workflow, including for code generation, refactoring, testing, and
+
+•
+
+—
+
+documentation - with the critical judgment to
+
+evaluate and validate Al-generated output
+
+Hands-on experience with Databricks and/or PySpark in a production environment
+
+• Experience integrating LLMs or embeddings into production systems (e.g. RAG, semantic search, embeddings-based recommendations)
+
+• Basic data visualization experience to support explanations of problems/solutions
+
+The Soft Skills That We Think Are Important
+
+•
+
+Clearly explain problems, present solutions, and debate strategies in English to both technical and
+
+non-technical audiences
+
+• Understand a business problem, then propose and
+
+weigh multiple solutions
+
+• Collaborate effectively with Data Scientists,
+
+Enginoore and Product Team members
+
+Jelentkezés
+
+Mentés

@@ -1,0 +1,49 @@
+8:43
+
+← Q data science
+
+ל יוון
+
+22
+
+You May Be a Good Fit If You Have
+
+• A Master's/ PhD degree in Computer Science, Machine Learning, Mathematics, Statistics or a related field.
+
+• A detailed understanding of machine learning, deep learning (including LLMs) and natural language processing.
+
+• Hands-on experience in training, fine-tuning and deploying large language models.
+
+• Have prior experience working with vector
+
+•
+
+•
+
+databases, search indices, or other data stores for search and retrieval use cases.
+
+Significant experience building evaluation systems for LLMs or search.
+
+Familiarity with various information retrieval techniques, such as lexical search and dense vector search.
+
+• The ability to work effectively in a fast in a
+
+environment where things are sometimes loosely defined.
+
+• Want to learn more about machine learning research.
+
+• This is neither an exhaustive nor necessary set of attributes. Even if none of these apply to you, but you believe you will contribute to kapa.ai, please reach out.
+
+Location: Remote within Europe. We're a distributed team and welcome applicants based anywhere in Europe. We also have an office in Copenhagen for those who prefer working on-site or hybrid.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Research Engineer, Applied Al, Hungary
+
+Ki
+
+Jelentkezés
+
+Mentés

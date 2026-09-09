@@ -1,0 +1,55 @@
+Required
+
+• professional experience in data science / ML, with building LLM or GenAl applications in production. • Hands-on experience with agentic frameworks LangChain or LangGraph.
+
+•
+
+Strong understanding of LLM application patterns including prompt engineering
+
+• Expert-level Python (pandas, NumPy, scikit-learn, async programming, API development with FastAPI).
+
+• Experience with vector databases and
+
+•
+
+embeddings (Azure Al Search, Pinecone, Weaviate, Qdrant, FAISS, or pgvector).
+
+Strong SQL skills and experience working with large-scale data.
+
+Preferred
+
+• Bachelor's or Master's degree in Computer Science, Data Science, Engineering, Mathematics, or a related field.
+
+• Hands-on experience with Azure services: Azure OpenAI / Al Foundry, Azure ML, Azure Al Search, Azure Databricks, Azure Data Factory, or Synapse. • Solid grounding in classical ML: supervised/ unsupervised learning, model evaluation, and hyperparameter tuning; experience with TensorFlow or PyTorch.
+
+• Experience with Model Context Protocol (MCP), OpenAl Assistants/Agents SDK, or Anthropic tool-use APIs.
+
+• Strong understanding of function/tool calling, structured outputs, RAG, agent memory, and multi-agent orchestration.
+
+• Proven MLOps/LLMOps experience: MLflow, prompt/model versioning, CI/CD (Azure DevOps or GitHub Actions), and production monitoring.
+
+•
+
+Ability to evaluate and mitigate LLM-specific risks: hallucination, prompt injection, data leakage, and cost/latency constraints.
+
+• Experience with AutoGen, CrewAI, Semantic Kernel.
+
+• Microsoft certifications: Al-102 (Azure Al Engineer), DP-100 (Azure Data Scientist Associate).
+
+•
+
+Experience fine-tuning open-source LLMs (Llama, Mistral, Phi) using LoRA/QLORA and serving via vLLM or Azure ML endpoints.
+
+• Familiarity with observability/tracing for agents: LangSmith, Langfuse, Arize Phoenix, or
+
+Open Telemetry.
+
+• Knowledge of containerization and deployment: Docker, Kubernetes (AKS), Azure Container Apps.
+
+•
+
+Big data experience with Apache Spark (PySpark) via Azure Databricks.
+
+• Experience with knowledge graphs, graph RAG, or semantic layers for agent grounding.
+
+• Contributions to open-source GenAl/agentic projects or published technical content.
