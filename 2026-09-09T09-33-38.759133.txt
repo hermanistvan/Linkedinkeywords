@@ -1,0 +1,101 @@
+13:54 •
+
+X
+
+•
+
+Senior Al Platform Engineer, Vice Presid... BlackRock Budapest, Budapest, Hungary (Hyb...
+
+•
+
+Required Qualifications
+
+73
+
+6+ years of software engineering experience with ownership of production services, platforms, or distributed systems.
+
+• Advanced proficiency in Python and strong software engineering fundamentals.
+
+• Deep knowledge of software architecture, service design, APIs, data modeling, concurrency, and distributed systems.
+
+•
+
+•
+
+•
+
+Experience building, deploying, and operating
+
+cloud-native services (Azure or similar).
+
+Proficiency in testing strategies, CI/CD,
+
+observability, reliability engineering, and secure
+
+SDLC practices.
+
+Proven track record leading ambiguous,
+
+cross-functional initiatives and delivering
+
+maintainable production systems.
+
+• Excellent written and verbal communication; able to explain architectural decisions to technical and non-technical stakeholders.
+
+Preferred Qualifications (Strong Plus)
+
+• Hands-on experience building production Al or generative Al platforms and services.
+
+• Experience with LLMs, agent frameworks, tool use, orchestration, memory, and retrieval-augmented generation architectures.
+
+• Experience designing Al evaluation frameworks, benchmarks, regression testing, or quality measurement systems.
+
+• Experience building guardrails, responsible Al controls, governance capabilities, or safety and reliability mechanisms.
+
+• Experience with agent observability, distributed tracing, telemetry, and execution-history storage and retrieval.
+
+• Practical Rust experience, particularly for high-performance, reliable, or systems-oriented platform components.
+
+• Experience designing shared developer platforms, SDKs, or self-service capabilities used by multiple engineering teams.
+
+• Experience mentoring engineers, acting as a technical lead, or helping grow an engineering team.
+
+• Exposure to financial services or another regulated environment is beneficial but not required.
+
+What Success Looks Like In This Role
+
+•
+
+Engineering teams can build and deploy Al
+
+solutions faster by using reliable, well-documented
+
+platform capabilities you help create.
+
+• Evaluation, observability, guardrail, and agent-runtime capabilities become reusable
+
+•
+
+platform services adopted across multiple use
+
+cases.
+
+The platform provides clear abstractions,
+
+production-grade reliability, and a strong developer experience without compromising governance requirements.
+
+• You become a recognised technical leader who shapes Al platform architecture, engineering standards, and delivery priorities. You help grow the team and can take on broader technical or people leadership responsibilities.
+
+The salary range for Hungary is 20,100,000 -
+
+32,400,000 HUF
+
+Additionally, employees are eligible for an annual
+
+discretionary bonus, and benefits including
+
+healthcare leave benefits and retirement benefits
+
+Jelentkezés
+
+Mentés

@@ -1,0 +1,53 @@
+13:49 O
+
+•
+
+← Q data science
+
+ll73
+
+Your Qualifications and Skills
+
+• Bachelors, Master's or PhD level degree in a discipline such as: computer science, machine learning, applied statistics, mathematics,
+
+engineering or artificial intelligence
+
+• 7-8+ years of experience in software development, with significant full-stack web application development experience strongly preferred
+
+• Experience working collaboratively with technical and non-technical team members and
+
+stakeholders
+
+• Hands-on experience and willingness to learn across frontend (TypeScript, React, Angular, Vue, Next.js, Tailwind), backend (Python, Node.js, Java/ Spring, C#/.NET), and databases (SQL, NoSQL, vector databases, ETL)
+
+• Experience with LLM frameworks, prompt orchestration, agent frameworks, MCPs, evaluation frameworks, and cloud platforms (Azure, AWS, GCP), including Docker and CI/CD • Strong focus on automated testing, logging, monitoring, and overall system reliability Experience modeling and coaching others to use engineering best practices such as design patterns, customer-centric design, test-driven development, code refactoring, code review, and OWASP Top 10 security awareness
+
+• Experience leading in Agile teams, including coaching and modeling Agile mindsets as part of sprint ceremonies, work definition and building developer capabilities
+
+•
+
+Exceptional time management to meet your responsibilities in a complex and largely autonomous work environment
+
+• Strong communication skills, both verbal and written, in English and local office language(s),
+
+with the ability to adjust your style to suit different perspectives and seniority levels
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+-
+
+Senior Software Engineer - QuantumBlack, Al by McKinsey, Budapest, Budapest, Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés
+
+zárolásának feloldása itt:
+
+Quantum Black Alby McKincov
+
+Jelentkezés
+
+Mentés

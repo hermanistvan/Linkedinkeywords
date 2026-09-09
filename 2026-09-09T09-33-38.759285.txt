@@ -1,0 +1,129 @@
+13:52 O
+
+X
+
+Data Ops Engineer
+
+73
+
+•
+
+TestIT⚫ Budapest, Budapest, Hungary (On-site)
+
+Olyan Data Ops Engineer kollégát keresünk, aki magabiztosan mozog az Azure Cloud és Azure Databricks világában, és tapasztalata van adatpipeline-ok fejlesztésében és production
+
+üzemeltetésében.
+
+Fontos számunkra az önálló problémamegoldás, incidenskezelés és hibakeresés, valamint a stabil és megbízható adatplatformok biztosítása.
+
+A csapatban fontos az együttműködés és tudásmegosztás, hiszen szorosan dolgozunk együtt Data Engineerekkel, Data Scientistekkel és BI
+
+Developerekkel.
+
+Azure-alapú adatplatformok és DataOps infrastruktúra fejlesztése és üzemeltetése • Azure Databricks adatfolyamatok (pipeline-ok) fejlesztése, támogatása és optimalizálása
+
+• Production support, incidenskezelés, hibakeresés és root cause analysis
+
+• Monitoring, logging, alerting és
+
+teljesítményoptimalizálás
+
+• CI/CD folyamatok kezelése
+
+• Az adatplatformok biztonságos, stabil és magas rendelkezésre állású működésének biztosítása
+
+•
+
+Együttműködés Data Engineerekkel, Data
+
+Scientistekkel, BI Developerekkel és Architectekkel • 3+ év szakmai tapasztalat Data Engineering / DataOps / Cloud Data területen
+
+• Erős, hands-on Azure Cloud és Azure Databricks
+
+tapasztalat
+
+• Magabiztos SQL tudás
+
+Tapasztalat adatpipeline-ok fejlesztésében és production üzemeltetésében
+
+• CI/CD folyamatok gyakorlati ismerete
+
+• Production support, incidenskezelés, hibakeresés
+
+és root cause analysis tapasztalat
+
+• Tapasztalat monitoring, logging, alerting és
+
+performance tuning területén
+
+• Azure DevOps, Infrastructure as Code, Databricks
+
+•
+
+Unity Catalog ismerete
+
+• Korábbi projektek modern, Al-vezérelt
+
+környezetben
+
+• Üzleti oldal és fejlesztők közötti koordinációs
+
+tapasztalat
+
+• AI/ML fejlesztéssel kapcsolatos fejlesztési tapasztalat más cloud platformokkal (AWS, GCP) és/vagy földi környezetben
+
+• Szoftverfejlesztési tapasztalat: Back End, Front End
+
+• Szoftvertesztelői tapasztalat
+
+• Német nyelvtudás
+
+•
+
+Csapatunk eredményeit saját belső képzési
+
+rendszerünkkel biztosítjuk, informatikai és
+
+gyakorlati tanfolyamokkal, mentorprogrammal
+
+segítünk Téged, hogy a személyre szabott
+
+karrierutad következő állomását mihamarabb
+
+elérd.
+
+• Biztosítjuk angol és német nyelvtudásod
+
+•
+
+fejlesztését.
+
+A szakmai fejlődés mellett nagyon fontosnak
+
+tartjuk, hogy ne csak egy munkahelyet kapj tőlünk, hanem egy tudásmegosztó környezetet, ahol szakmai kérdésekben mindig támogatásra lelsz, egy közösséget, ahol a kölcsönös rugalmasság és bizalom mellett a jókedv és a kikapcsolódás is
+
+garantált.
+
+• Vegyél részt a közös túraprogramjainkon, társasjátékestjeinken, gyere el a családi napra, síelésre, ültess fát velünk, legyél részese a TestIT társadalmi felelősségvállalásának, legyen szó akár hátrányos helyzetűek támogatásáról, akár Mikulás csomag kézbesítéséről.
+
+• Készültünk Neked juttatási csomaggal is a próbaidő letelte után. Az alapfizetéseden kívül havi rendszerességgel utaljuk az általad összeállított cafeteria csomagot bruttó 60.000 Ft értékben, illetve magánegészségügyi szűrő- és járóbetegellátási csomagot kínálunk.
+
+• Vállalatunk AYCM partner, így munkavállalóink számára elérhető az AYCM sport- és well-being
+
+szolgáltatáscsomag.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Ops Engineer, Budapest, Budapest,
+
+Ki
+
+Hungary
+
+Toborzással kapcsolatos betekintés
+
+Jelentkezés
+
+Mentés

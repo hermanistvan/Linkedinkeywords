@@ -1,0 +1,81 @@
+13:51 O •
+
+← Q data science
+
+ll73
+
+Dein Profil
+
+Wir suchen einen professionellen Platform Engineer / MLOps Specialist mit umfangreicher Erfahrung in Kubernetes, Linux und Kl-Infrastruktur, speziell mit Fokus auf dem Deployment von souveränen, air-gapped oder isolierten LLM-Stacks.
+
+Muss-Kriterien
+
+• Mindestens 5 Jahre Erfahrung in Platform Engineering, DevOps, SRE oder MLOps
+
+• Ausgeprägte Expertise in Kubernetes und Linux • Nachgewiesene Erfahrung mit Kl-Infrastruktur und Model Serving
+
+Erfahrung mit privaten oder On-Prem-Deployments sowie Produktionsbetrieb für LLM-basierte
+
+Workloads
+
+• Starke Hands-on-Kenntnisse in Python • Versiertheit in Automatisierungstools wie Terraform, Ansible und Helm
+
+⚫ Erfahrung mit GitOps-Workflows
+
+• Tiefes Verständnis von Networking, Storage, Zugriffskontrolle und Monitoring
+
+• Erfahrung mit operational Hardening in
+
+•
+
+•
+
+Hochsicherheitsumgebungen
+
+Fähigkeit, in souveränitätsgetriebenen
+
+Umgebungen zu arbeiten, die Auditierbarkeit,
+
+Isolation und kontrollierte Datenverarbeitung erfordern
+
+⚫ Erfahrung mit Inference- und lokalen
+
+•
+
+Serving-Stacks wie vLLM, Ollama, llama.cpp oder OpenAl-kompatiblen, selbst gehosteten
+
+Endpunkten
+
+⚫ Erfahrung mit Open-Source- oder
+
+•
+
+Open-Weight-Modellen für souveräne
+
+Deployments
+
+Erfahrung mit Platform-Tooling wie ArgoCD,
+
+privaten Registries und Vector Stores wie Qdrant
+
+⚫ Erfahrung mit entwicklerorientierten
+
+•
+
+Integrationsoptionen wie VS Code-kompatiblen Extensions oder lokalen Modell-Connectoren im Stil von Continue
+
+Hardware-Know-how bezüglich GPU-gestützter Nodes, CPU-only Fallback-Optionen, Storage-Performance und Netzwerkisolation
+
+Über uns
+
+Als attraktivster Arbeitgeber Ungarns im Jahr 2025 (laut einer repräsentativen Umfrage von Randstad) ist Deutsche Telekom IT Solutions eine Tochtergesellschaft der Deutschen Telekom Gruppe. Das Unternehmen bietet ein breites Portfolio an IT- und
+
+Telekommunikationsdienstleistungen mit mehr als
+
+5300 Mitarbeitern. Wir haben hunderte von
+
+Großkunden und Unternehmen in Deutschland
+
+sowie in anderen europäischen Ländern.
+
+DT-ITS erhielt 2019 den Best in Educational

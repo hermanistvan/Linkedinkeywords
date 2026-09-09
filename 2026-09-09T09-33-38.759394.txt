@@ -1,0 +1,71 @@
+13:51 O •
+
+← Q data science
+
+73
+
+What You Bring to the Team:
+
+Required Experience
+
+• 5+ years of hands-on SQL experience (analytical queries, performance tuning)
+
+•
+
+3+ years of designing and operating large-scale data warehouse systems
+
+• Strong knowledge of data modeling: dimensional modeling, schema design, architecture patterns • 3+ years of experience with a major cloud provider (AWS/Azure / GCP)
+
+• Experience with orchestration tools (Airflow, Dagster, etc.)
+
+•
+
+5+ years of real programming experience (e.g., Python, Java, Scala)
+
+• Experience with modern cloud data platforms: Snowflake, Redshift, Databricks, BigQuery
+
+Preferred Experience
+
+• Deep dbt experience (modeling, testing, CI/CD, performance tuning)
+
+• Hands-on experience integrating dbt with orchestration tools and cloud workflows
+
+Nice to Have
+
+• Ability to understand the business and translate needs into solutions
+
+• Snowflake expertise (data loading, table design, permission models, DDL/DML, views)
+
+• Experience with BI tools (Power BI, Tableau, etc.; DAX, Power Query)
+
+• Infrastructure as code (Terraform, AWS CDK, KDE) Streaming/Kafka experience (event driven
+
+•
+
+architectures, real time data pipelines, schema
+
+design, and operating streaming systems at scale)
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, sexual orientation, national origin, or any other category protected by law.
+
+Privacy Notice
+
+Please note that your personal data will be processed in accordance with GSCF Privacy Notice for Job Candidates. When submitting your
+
+application, you therefore acknowledge and confirm that you understand that your personal data will be processed in accordance with the above-mentioned Privacy Notice. Should you have any questions regarding the processing of your personal data by GSCF, please contact us at: privacy@gscf.com.
+
+*Please note: Internally, this position is referred to as Senior Software Engineer - Data & Funding.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Data Platform Engineer, Budapest,
+
+Budapest, Hungary
+
+Jelentkezés
+
+Mentés
+
+Ki

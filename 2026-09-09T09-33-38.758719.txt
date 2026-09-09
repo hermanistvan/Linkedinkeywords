@@ -1,0 +1,113 @@
+13:59.
+
+← Q data science
+
+72
+
+Dein Profil
+
+Wir suchen einen erfahrenen Enterprise Architect mit ausgeprägter Expertise in Analytics und Datenarchitektur, der in der Lage ist, Zielarchitekturen zu definieren,
+
+Transformationsinitiativen voranzutreiben und die Abstimmung zwischen Business- und Technologiebereichen sicherzustellen. Der ideale Kandidat sollte über fundierte Kenntnisse in Enterprise-Datenplattformen, Cloud-Analytics und SAP-Technologien verfügen.
+
+Muss-Kriterien
+
+• Hochschulabschluss in Informatik,
+
+•
+
+Wirtschaftsinformatik, Data Science, Ingenieurwesen, Finanzwesen,
+
+Wirtschaftswissenschaften oder einem
+
+verwandten Bereich
+
+Mehrjährige Erfahrung als Enterprise Architect, Data Architect, Analytics Architect, Solution
+
+Architect, BI Architect oder in einer vergleichbaren Rolle
+
+• Fundiertes Verständnis von Enterprise-Daten- und Analytics-Architektur, einschließlich
+
+•
+
+Datenintegration, Datenplattformen, Data Warehousing, semantischer Modellierung, Reporting und Cloud-Analytics
+
+Erfahrung im Design und in der Governance komplexer Enterprise-Anwendungs- und Datenlandschaften
+
+• Fähigkeit, Geschäftsstrategien in Zielarchitekturen, Prinzipien und Transformations-Roadmaps zu übersetzen
+
+• Ausgeprägte analytische Fähigkeiten
+
+• Ausgeprägte Kommunikationsfähigkeiten
+
+•
+
+Ausgeprägte
+
+Stakeholder-Management-Fähigkeiten
+
+⚫ Erfahrung in der Zusammenarbeit mit
+
+funktionsübergreifenden Teams in großen Transformationsumgebungen
+
+• Fließende Englischkenntnisse
+
+Von Vorteil
+
+• Erfahrung mit SAP Business Data Cloud, SAP BW/ 4HANA, SAP Analytics Cloud oder ähnlichen Analytics-Plattformen
+
+• Kenntnisse in Cloud-Datenplattformen, Data-Lakehouse-Konzepten, APIs, Data Products
+
+und verteilten Datenarchitekturen
+
+⚫ Erfahrung in den Bereichen Finance, Network, Procurement, HR oder anderen
+
+Enterprise-Business-Domänen
+
+• Kenntnisse in Data Governance, Data Lineage, Metadaten-Management, Stammdaten und
+
+Data-Quality-Konzepten
+
+⚫ Erfahrung mit Agile/Scrum-Delivery-Modellen
+
+• TOGAF oder andere
+
+Enterprise-Architecture-Zertifizierungen
+
+• SAP-Zertifizierungen
+
+• Cloud-Zertifizierungen
+
+• Data-Architecture-Zertifizierungen
+
+• Analytics-Zertifizierungen
+
+• Deutschkenntnisse
+
+Über uns
+
+Als attraktivster Arbeitgeber Ungarns 2025 (laut repräsentativer Umfrage von Randstad) ist
+
+Deutsche Telekom IT Solutions eine
+
+Tochtergesellschaft der Deutsche Telekom Gruppe.
+
+Das Unternehmen bietet mit mehr als 5300
+
+Mitarbeitern ein breites Portfolio an IT- und Telekommunikationsdienstleistungen. Wir haben
+
+hunderte große Kunden und Konzerne in Deutschland und anderen europäischen Ländern.
+
+DT-ITS erhielt 2019 den Best in Educational
+
+Cooperation Award von HIPA und wurde als
+
+ethischstes multinationales Unternehmen 2019
+
+anerkannt. Das Unternehmen entwickelt
+
+kontinuierlich seine vier Standorte in Budapest,
+
+Debrecen, Pécs und Szeged weiter und sucht qualifizierte IT-Fachkräfte, die Teil des Teams werden möchten.
+
+• Möglichkeit, eine strategische Analytics & Data-Landschaft für Unternehmen zu gestalten • Architekturrolle mit hoher Wirkung und starkem Einfluss auf Technologieentscheidungen

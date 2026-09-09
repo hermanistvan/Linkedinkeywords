@@ -1,0 +1,75 @@
+13:57 •
+
+← Q data science
+
+73
+
+Required Skills & Qualifications
+
+• Bachelor's degree in Computer Science, Information Systems, or related field.
+
+•
+
+5+ years of hands-on data pipeline development experience in Python or .NET
+
+• Expertise with modern application frameworks and paradigms (e.g., .NET/C#, Java, OOD/OOP, functional programming, Spring, J2EE, SOA, DI, architectural patterns)
+
+• PowerBI or any other market leading reporting tool to design and implement business reports.
+
+• Understanding of microservices and API-based integration patterns
+
+• Experience in database design, including relational and dimensional modeling, data warehousing approaches (e.g., star schema).
+
+• Experience developing data solutions using cloud services (AWS) and associated tooling (e.g., EC2, ECS, S3, Redshift)
+
+• Exposure to event-driven or streaming-based data processing is an advantage
+
+• Experience with build and deployment tools (e.g., Visual Studio, Git/Bitbucket, Maven, Jenkins,
+
+•
+
+Nexus, SQL Management Studio)
+
+Strong knowledge of data security, APIs, and data structures
+
+• Excellent problem-solving and communication skills
+
+•
+
+Familiarity with integration frameworks or messaging/streaming technologies is an
+
+advantage
+
+• Experience working with financial reporting datasets (e.g., GL, subledger, or aggregated reporting layers) is a plus
+
+What We Offer
+
+•
+
+Competitive salary
+
+• Comprehensive health package
+
+•
+
+Cafeteria
+
+• All You Can Move
+
+• Brand new office at an excellent location
+
+• Hybrid working
+
+•
+
+Opportunities for growth and advancement
+
+A highly people-centric, positive, and supportive work environment
+
+Aegon is an international financial service holding
+
+company headquartered in Schinhol the
+
+Jelentkezés
+
+Mentés
