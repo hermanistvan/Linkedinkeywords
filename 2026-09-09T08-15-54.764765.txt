@@ -1,0 +1,73 @@
+9:11
+
+X
+
+Senior Machine Learning Engineer EPAM Systems Hungary (Remote)
+
+Requirements
+
+·
+
+ל יוון
+
+Minimum of 3 years programming language experience, ideally in Python, and strong SQL knowledge
+
+27
+
+• Robust MLOps experience (Sagemaker, Vertex, or Azure ML)
+
+• Intermediate level in Data Science, Data
+
+Engineering, and DevOps Engineering
+
+• Experience with at least one project delivered to production in an MLE role
+
+•
+
+•
+
+Expertise in Engineering Best Practices
+
+Practical experience in implementing Data Products using the Apache Spark Ecosystem (Spark SQL, MLlib/SparkML) or alternative technologies
+
+• Experience with Big Data technologies (e.g., Hadoop, Spark, Kafka, Cassandra, GCP BigQuery, AWS Redshift, Apache Beam, etc.)
+
+•
+
+Proficiency in automated data pipeline and
+
+workflow management tools, i.e., Airflow, Argo
+
+Workflow, etc
+
+• Experience in different data processing paradigms (batch, micro-batch, streaming)
+
+• Practical experience working with at least one
+
+•
+
+major Cloud Provider such as AWS, GCP, and Azure
+
+Production experience in integrating ML models into complex data-driven systems
+
+• DS experience with Tensorflow/PyTorch/XGBoost, NumPy, SciPy, Scikit-learn, Pandas, Keras, Spacy, HuggingFace, Transformers
+
+• Experience with different types of databases (Relational, NoSQL, Graph, Document, Columnar, Time Series, etc.)
+
+We offer
+
+• Dynamic, entrepreneurial corporate environment • Diverse multicultural, multi-functional, and
+
+•
+
+multilingual work environment
+
+Opportunities for personal and career growth in a
+
+progressive industry
+
+• Global scope, international projects
+
+Jelentkezés
+
+Mentés

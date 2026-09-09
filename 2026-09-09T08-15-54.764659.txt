@@ -1,0 +1,37 @@
+9:22 M •
+
+Q data science
+
+ל יוון
+
+What You Bring
+
+• Strong engineering fundamentals plus production AI/ML experience
+
+• Deep Python and modern Al frameworks; generative Al, LLM orchestration, prompt engineering, RAG / grounded systems
+
+• Grounding and evaluation: keeping Al honest against a source of truth, guardrails, honest failure modes
+
+• API-based architecture and data engineering: clean integration boundaries into enterprise systems
+
+•
+
+Data & analytics as a co-equal strength: strong SQL, log/telemetry analysis on large messy datasets
+
+• Observability engineering: monitoring, dashboards, telemetry pipelines
+
+•MLOps, CI/CD, and production monitoring of Al systems
+
+• Cloud-native: SAP BTP preferred, or comparable (AWS/Azure / GCP)
+
+Bring out your best
+
+Jelentkezés
+
+|||
+
+Mentés
+
+く
+
+26

@@ -1,0 +1,99 @@
+Technical competencies
+
+•
+
+Develop and fine-tune Al models, including LLMs, Agentic Al, and Generative Al systems.
+
+• Participate in building and deploying robust Al
+
+•
+
+applications and services on cloud platforms (preferably Microsoft Azure).
+
+Design and implement efficient Al pipelines from data preparation through to model
+
+deployment and monitoring.
+
+• Strong understanding of how Al services communicate with broader ecosystems, including APIs, microservices, and cloud infrastructures. • Familiarity with natural language processing (NLP) tools and techniques, with the ability to assess and apply relevant solutions for different use
+
+•
+
+cases.
+
+University/college degree (preferred in Computer Science or Engineering, with Al specialization).
+
+Strong hands-on experience with Python and Al/ ML frameworks.
+
+• Experience with version control tools (Azure DevOps/Git).
+
+• Strong command of English language (both verbal and written) and native Hungarian.
+
+•
+
+Non-technical competencies
+
+• Team player attitude.
+
+• Motivated, proactive, enthusiastic, self-driven personality.
+
+• Willingness to learn new technologies.
+
+• Support and guide junior developers.
+
+•
+
+Able to explain complex Al concepts clearly to both technical and non-technical stakeholders. • Strong analytical and problem-solving skills.
+
+• Work effectively with cross-functional teams.
+
+• Translate abstract problems into clear Al solution designs.
+
+• Professional attitude and appearance.
+
+Advantages
+
+• Experience optimizing model inference, managing resources efficiently, and designing scalable
+
+architecture.
+
+• Experience within a professional services firm.
+
+• Knowledge of .NET / C#.
+
+• Experience with relational databases (preferred MS SQL).
+
+• Familiarity with data visualization tools.
+
+• Background in working with structured and unstructured data, embeddings, vector databases, and data pipelines.
+
+• Understanding of responsible Al, data governance, and security considerations in Al system design.
+
+Your future role
+
+•
+
+Create proof-of-concept solutions for the A&A
+
+•
+
+•
+
+function to increase operational efficiency.
+
+Delegate to and mentor junior Al developer
+
+colleagues.
+
+Break down new features into manageable tasks.
+
+• Research new technologies for new and existing
+
+projects.
+
+•
+
+Collaborate with the broader development team to
+
+establish proper communication between Al
+
+functions, frontend, and backend.

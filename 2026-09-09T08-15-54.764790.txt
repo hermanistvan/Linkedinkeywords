@@ -1,0 +1,53 @@
+9:11
+
+← Q data science
+
+ל יוון
+
+27
+
+Qualifications
+
+• Bachelor's degree in Data Science, Statistics, Computer Science, Economics, or a related field.
+
+• Experience as a Data Analyst, ideally within fintech, subscription products, billing, or customer
+
+support.
+
+• Strong SQL skills.
+
+•
+
+Experience with popular BI tools such as Tableau, Looker, or similar
+
+• Experience with Python or R
+
+• Solid understanding of statistical analysis, forecasting, and scenario modeling.
+
+• Experience running A/B tests and interpreting experiment results.
+
+Excellent problem-solving skills, attention to detail, and ability to work in a fast-paced environment. • Strong communication skills, with the ability to explain findings to both technical and non-technical stakeholders.
+
+• Curiosity, ownership mindset, and the discipline to maintain high-quality data work.
+
+•
+
+Nice to have
+
+• Experience with BigQuery, ClickHouse, or any cloud data warehouse.
+
+• Basic Python knowledge for data cleaning or simple analysis.
+
+• Exposure to subscription businesses or payment systems.
+
+• Understanding of disputes, chargebacks, declines, or fraud signals.
+
+• Familiarity with DBT or data quality frameworks.
+
+Location
+
+Ruby Labs operates within the CET (Central
+
+Jelentkezés
+
+Mentés

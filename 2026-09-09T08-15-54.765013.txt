@@ -1,0 +1,31 @@
+PYTHON TECHNICAL LEAD - AI & DATA
+
+Responsibilities:
+
+• Making architectural decisions and conducting
+
+•
+
+code reviews,
+
+Mentoring junior developers and leading the team, • Designing and building scalable Al data pipelines, • Developing LLMs (Large Language Models) and Al agent systems,
+
+• Efficiently processing large volumes of data using Python,
+
+• Integrating and optimizing Al/ML models.
+
+•
+
+Requirements:
+
+MSc or higher degree,
+
+• 5+ years of Python development experience,
+
+• Experience with cloud platforms (AWS, GCP, or
+
+•
+
+Azure),
+
+Active proficiency in English.

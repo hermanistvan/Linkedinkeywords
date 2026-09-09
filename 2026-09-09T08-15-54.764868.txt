@@ -1,0 +1,69 @@
+9:06
+
+← Q data science
+
+اس
+
+28
+
+Must-Have Qualifications
+
+• Bachelor's, Master's or PhD in Computer Science, Engineering, Mathematics or related quantitative
+
+field.
+
+• 3+ years of experience in ML engineering or Al solution development, ideally with production deployments supporting enterprise or business-facing use cases.
+
+• Familiarity with Azure data & Al services (e.g.: Azure Databricks, Azure ML Studio, Data Factory, Data Lake, Event Hubs, Functions) or GCP
+
+•
+
+equivalents.
+
+Strong experience with GenAl systems, including LLMs, prompt engineering, fine-tuning, MCP and retrieval-augmented generation (RAG).
+
+• Familiarity with agentic or multi-agent system concepts and architectures.
+
+• Strong programming skills in Python.
+
+• Self-starter mindset with a passion for innovation and experimentation.
+
+•
+
+Excellent communication skills in English; ability to present complex architectures to stakeholders.
+
+Preferred Skills
+
+• Hands-on experience with document AI, NLP, semantic search, or knowledge graph solutions. Experience with CI/CD pipelines for ML (Azure DevOps, GitHub Actions) and
+
+infrastructure-as-code (Terraform or ARM
+
+templates).
+
+• Exposure to MLOps practices and tools (e.g. CI/ CD, model versioning, MLflow, Kubeflow).
+
+• Hands-on Spark/Databricks expertise.
+
+• Experience building PoCs and MVPs in AI/ML contexts.
+
+•
+
+Familiarity with data engineering fundamentals for preparing and curating datasets for
+
+experimentation and model training.
+
+• Demonstrated experience acting as a technical lead, owning architecture decisions and guiding other engineers.
+
+What we are proud to provide you with
+
+• Hybrid working with even only weekly 2 office days and flexible working hours based on core time.
+
+•Financial benefite auch sc
+
+in
+
+Egyszerű jelentkezés
+
+tanding amount
+
+Mentés

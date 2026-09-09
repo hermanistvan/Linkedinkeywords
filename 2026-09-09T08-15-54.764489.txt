@@ -1,0 +1,51 @@
+9:25 M •
+
+← Q data science
+
+25
+
+You are looking for us, if you have
+
+•
+
+Bachelor's degree in Computer Science, Information Technology, or a related field. 3+ years of professional engineering experience, including recent hands-on work on Al projects. We care more about what you have actually built with GenAl than about how long your CV says "AI" on it. Software engineering, data engineering and data science backgrounds are all a strong starting point.
+
+• Strong proficiency in Python and hands-on experience with the GenAl ecosystem (e.g. LangChain, Llamalndex, agent frameworks, LLM provider SDKs, Pydantic).
+
+• Solid understanding of LLM application concepts: RAG, embeddings, vector databases, tool calling, agent patterns, prompt engineering and
+
+evaluation.
+
+• Proven experience designing, consuming and integrating APIs, and connecting Al services to existing systems.
+
+• Working knowledge of AWS, including hands-on use of at least one of its AI/ML or serverless services. Strong cloud-agnostic experience across multiple providers is a plus, but some practical AWS exposure is expected.
+
+• Good command of SQL and a working understanding of core data engineering concepts (ETL, pipelines, data modelling).
+
+• Excellent problem-solving and communication skills, and the ability to work independently and collaboratively in a fast-paced environment.
+
+•
+
+Nice to have
+
+Real project experience with Amazon Bedrock AgentCore and the Strands Agents SDK. If you have shipped something with these, that is an amazing plus.
+
+• Classical machine learning and pre-LLM NLP experience, and the related toolkit (scikit-learn, pyspark, matplotlib).
+
+• Computer vision, recommendation systems, anomaly detection experience.
+
+• Experience with ETL processes and tools (e.g. Airflow, AWS Glue).
+
+What we offer
+
+We believe that exceptional people deserve
+
+•
+
+exceptional recognition:
+
+A company culture based on autonomy and
+
+Jelentkezés
+
+Mentés

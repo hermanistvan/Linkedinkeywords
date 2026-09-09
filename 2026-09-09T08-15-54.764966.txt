@@ -1,0 +1,49 @@
+8:58
+
+← Q data science
+
+26
+
+The knowledge I own:
+
+•Has a background in computer science, mathematics or related technical discipline • Is experienced in software engineering with exposure to statistical, data science and AI/ML roles
+
+• Has deep knowledge and proven experience with optimizing and operating machine learning models in a production context; hands-on experience deploying and operating LLM-based applications is a strong plus
+
+• Worked with Python in a productive environment (mandatory). Background in programming in C, C+ +, Java and Scala is beneficial. Exposure to both streaming and batch analytics. Experience with the core data/ML stack is beneficial: SQL, Spark, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Databricks
+
+• Experience with MLOps tooling is beneficial: MLflow or comparable experiment tracking and model registry, workflow orchestration (e.g., Azure Data Factory, Databricks Declarative Automation Bundles), containerization and orchestration (Docker, Kubernetes), CI/CD,
+
+infrastructure-as-code, and cloud ML platforms • Experience with the GenAI/LLM ecosystem is beneficial: Hugging Face, LLM APIs, orchestration frameworks (e.g., LangChain, LlamaIndex), vector databases (e.g., pgvector, Azure/Databricks Al Search), and LLM evaluation/observability tooling Has experience working with large data sets, simulation/optimization and distributed computing tools (e.g., Spark, Ray)
+
+•
+
+Agile / Digital Experience
+
+• Has experience working in Al startup environment
+
+•
+
+or organizations with an agile culture
+
+• Has a professional attitude and service
+
+orientation; superb team player
+
+Individual Skills
+
+• Has sound problem-solving skills with the ability to quickly process complex information and present
+
+it clearly and simply
+
+• Demonstrates good written and verbal
+
+communication skills along with strong desire to work in cross-functional teams
+
+Mindset & Behaviors
+
+• Is able to build a sense of trust and rapport in
+
+Jelentkezés
+
+Mentés

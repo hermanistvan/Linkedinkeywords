@@ -1,0 +1,75 @@
+8:59
+
+← Q data science
+
+ל יוון
+
+26
+
+•
+
+Requirements
+
+Strong foundation in machine learning and deep learning fundamentals, with practical experience applying them to model development.
+
+• Hands-on experience implementing neural network or model architectures from scratch.
+
+• Strong understanding of attention mechanisms, RNNs, state-space models, hybrid architectures, or related approaches.
+
+•
+
+Solid knowledge of training dynamics,
+
+optimization, scaling behavior, and
+
+architecture-level performance considerations.
+
+• Understanding of model-level memory, latency, compute, and efficiency constraints.
+
+• Proficiency with PyTorch or JAX and the ability to develop and experiment with research-oriented ML code.
+
+• Ability to evaluate architectural ideas through both theoretical reasoning and empirical
+
+•
+
+experimentation.
+
+Strong communication skills, with the ability to clearly explain technical concepts and
+
+architectural trade-offs.
+
+• Preferred experience with non-Transformer architectures such as RNN variants, state-space models, or long-context systems.
+
+• Preferred background in research-driven startups, open-source machine learning projects, large-scale training, or custom training loops.
+
+• Publications, preprints, notable research contributions, or experience with inference optimization and deployment constraints are advantageous.
+
+Benefits
+
+• Competitive compensation and meaningful equity.
+
+•
+
+Opportunity to work directly on core Al model
+
+•
+
+architecture rather than focusing primarily on
+
+fine-tuning.
+
+Significant influence over technical and research direction within a rapidly growing organization.
+
+• Small, high-caliber team with fast feedback loops and a strong research-oriented environment. • Opportunity to take research concepts from experimentation through to production
+
+deployment.
+
+Full-time position with a globally distributed work
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

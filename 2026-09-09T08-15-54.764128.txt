@@ -1,0 +1,69 @@
+9:36 M •
+
+Q data science
+
+ל יוון
+
+22
+
+What We Are Looking For
+
+• Strong practical experience in ML engineering and MLOps, including deploying, operating, monitoring, retraining and versioning ML models in
+
+production.
+
+• Strong Python skills, with practical experience in PySpark or Apache Spark.
+
+• Experience with Azure Databricks, MLflow and preferably Azure Machine Learning.
+
+• Good understanding of lakehouse architecture, Delta Lake, layered data platforms, data modelling, data transformation and designing data structures for analytical and ML use cases.
+
+• Basic knowledge of data quality, metadata, lineage, access-control concepts, governance and integration of ML workloads with enterprise data platforms.
+
+• Knowledge of CI/CD, Git, Azure DevOps and infrastructure-as-code tools such as Terraform or
+
+Bicep.
+
+• Experience with cloud resource management, monitoring and cost optimisation.
+
+• Good understanding of end-to-end Azure Data/Al solution architecture, including security, identity, networking and scalable deployment patterns. • Ability to evaluate architecture alternatives considering performance, security, maintainability and cloud cost.
+
+• Experience collaborating with and technically overseeing external vendors, including
+
+architecture and solution reviews.
+
+• Strong communication and interpersonal skills, including listening to clients, working in
+
+cross-functional teams, and clear verbal and
+
+written communication.
+
+• Fluent English and Hungarian.
+
+•
+
+Great numerical and analytical skills.
+
+•
+
+Leadership and coaching mindset, team spirit, and ability to foster inclusive, supportive team
+
+dynamics.
+
+• Readiness to work in the niche field of higher education, where service and experience are paramount.
+
+• Service-oriented and autonomous approach: responsiveness to client requests, flexibility, versatility, daily proactivity and thirst for learning. • Commitment to standards and consistency: insists on consistent engineering practices and documentation without creating unnecessary bureaucracy.
+
+Nice to have
+
+• Fluent French would be a plus
+
+• Familiarity with higher education systems and processes is a plus.
+
+Compensation & Perks
+
+An attractive package designed for top talent:
+
+Jelentkezés
+
+Mentés

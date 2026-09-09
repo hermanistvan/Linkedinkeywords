@@ -1,0 +1,49 @@
+X
+
+Senior Computer Vision Engineer
+
+Realeyes. Hungary (Remote)
+
+Qualification requirements:
+
+• A BSc, MSc or Ph.D. in engineering, computer science or a related field.
+
+• At least 5 years of professional experience developing and deploying deep learning and computer vision models.
+
+• Strong grasp of the end-to-end ML workflow: preparing data, training models and evaluating results.
+
+• Solid grounding in modern neural network architectures, including convolutional networks and attention mechanisms.
+
+• Working understanding of large language models (LLMs), vision-language models (VLMs) and adaptation techniques.
+
+•
+
+Strong communication skills, able to present work clearly to senior and non-technical stakeholders. • Experience working in agile environments, with strong analytical and problem-solving skills. • Experience with deepfake detection, face anti-spoofing / liveness, biometric security or media forensics is a strong plus.
+
+Experience leading or mentoring machine learning engineers is a strong plus.
+
+Technical requirements:
+
+• Expert-level Python, with proven experience building deep learning models in production. Familiarity with C++ is a plus.
+
+• Professional experience with modern deep learning frameworks such as PyTorch, TensorFlow or JAX.
+
+•
+
+Hands-on experience deploying and optimising
+
+models on AWS (e.g. EC2, Athena) and related MLOps services. (MLFlow etc)
+
+• Experience optimising neural networks for deployment, including model compression,
+
+quantisation and runtime optimisation.
+
+Fluent in Linux/Unix and comfortable with Docker
+
+and containerised workflows.
+
+• Day-to-day use of Al-assisted coding tools such as Claude Code.
+
+• Knowledge of GPU-based / distributed training and mobile deployment is a strong plus.
+
+• Experience with AWS SageMaker is a plus.

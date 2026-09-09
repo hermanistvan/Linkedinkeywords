@@ -1,0 +1,63 @@
+9:58 O
+
+← Q data science
+
+18
+
+•
+
+Requirements
+
+3+ years of experience in Al Engineering
+
+• Strong proficiency in Python; experience with web
+
+frameworks like FastAPI or similar
+
+• Understanding of the Al application development lifecycle
+
+• Experience in rapid Ul prototyping using frameworks such as Streamlit, Gradio, or similar Familiarity with major LLM platforms and APIs (e.g., OpenAI, Anthropic, Amazon Bedrock, Gemini) and related frameworks (e.g., LangGraph, LlamaIndex, Strands Agents, etc.)
+
+• Knowledge of advanced Al integration patterns (e.g., RAG, Agents)
+
+• Experience deploying Al solutions at scale, with considerations for performance, cost efficiency, and maintainability
+
+•
+
+•
+
+Proven ability to evaluate generative Al quality using metrics such as retrieval and classification scores, as well as LLM-based evaluation methods
+
+Proven experience in Al engineering and delivering ML-based solutions
+
+• Strong problem-solving skills and attention to detail
+
+Excellent communication, collaboration, and interpersonal skills
+
+• English level of minimum B2 (Upper-Intermediate)
+
+Nice to have
+
+• Experience in designing experiments, conducting A/B tests, and iterating on models based on user feedback
+
+•
+
+Understanding of retrieval systems (e.g., keyword search, vector search, embeddings) and ranking algorithms
+
+• Familiarity with emerging protocols such as MCP, A2A, ACP, etc.
+
+• Experience deploying to cloud Al platforms (e.g., Azure OpenAl, Amazon Bedrock, GCP Vertex Al) or on-premise solutions (e.g., vLLM)
+
+·
+
+Experience with enterprise Al platforms such as
+
+AWS AgentCore, Databricks AgentBricks, Google Agents Space, or Azure Al Foundry
+
+• Experience using observability and monitoring tools and frameworks
+
+We offer
+
+Jelentkezés
+
+Mentés

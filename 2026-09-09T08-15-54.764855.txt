@@ -1,0 +1,63 @@
+9:07
+
+← Q data science
+
+ll28
+
+Tech Stack And Skill Requirements
+
+We work at the cutting edge of ML and sports tech. You'll ideally bring expertise in:
+
+Must-Haves:
+
+• Python (strong programming fundamentals) • PyTorch and PyTorch-Ignite
+
+• Linux & Windows 10 experience
+
+• TensorRT for model optimisation
+
+• GIT and collaborative software development
+
+Nice-to-Haves:
+
+• Modern C++ (C++17/20)
+
+• CUDA
+
+• OpenCV
+
+• ClearML
+
+• CMake & Visual Studio
+
+•
+
+Typescript & Semantic UI React
+
+•
+
+• SSH and secure deployment workflows
+
+Bonus Skills:
+
+• QT, JIRA, and Confluence
+
+•
+
+TeamCity for CI/CD
+
+Hungary Benefits
+
+• Annual leave in line with local labour law
+
+• Hybrid working model (2 days per week in the office)
+
+• Access to sporting events and tickets
+
+• Sony Group Company discounts
+
+Ready to Make an Impact?
+
+Jelentkezés
+
+Mentés

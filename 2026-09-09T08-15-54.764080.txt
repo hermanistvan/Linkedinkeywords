@@ -1,0 +1,71 @@
+9:38 M •
+
+Q data science
+
+22
+
+About You
+
+•
+
+Required Education, Experience & Skills
+
+Degree in Information Systems, Data Engineering, Computer Science, Data Management, or a related field
+
+• 3-5 years of experience in data engineering, data quality, data governance, or a related analytical/ technical role
+
+• Demonstrated hands-on experience building data pipelines, validation frameworks, or automation scripts in Python
+
+• Proven track record of conducting data
+
+•
+
+investigations and delivering structured, actionable findings
+
+• Experience working in a global, matrixed
+
+organization with cross-functional stakeholders • Strong SQL skills for data profiling, investigation, and validation across large-scale HR datasets • Experience with big data technologies such as Snowflake
+
+• Experience building and maintaining ELT/ETL pipelines for data quality monitoring and remediation
+
+• Familiarity with data remediation processes, including mass data loads and EIB (Enterprise Interface Builder) or equivalent
+
+• Understanding of HR data domains: employee records, organizational structures, skills profiles, compensation, payroll inputs, and workforce reporting
+
+• Experience with data quality platforms or
+
+monitoring tools (e.g., Informatica CDGC, Collibra, Ataccama, or similar)
+
+Preferred Qualifications
+
+• Experience in the pharmaceutical, biotech, or life sciences industry
+
+• Experience working with Workday HCM or comparable enterprise HR platforms is a strong plus - Workday certification or formal training valued but not required as the primary technical requirement
+
+• Familiarity with Workday Skills Cloud, Career Hub and their underlying data structures
+
+• Exposure to MLOps or AI/ML data pipeline
+
+•
+
+engineering
+
+Certification in data governance, data quality
+
+management, or HR analytics
+
+• Knowledge of GDPR, data privacy regulations, and their implications for HR data management
+
+Why choose us?
+
+• An international work environment, in which you can develop your talent and realize ideas and innovations within a competent team
+
+• Bring the miracles of science to life alongside a
+
+supportive, future-focused team
+
+• An environment based on last technologies and
+
+Jelentkezés
+
+Mentés

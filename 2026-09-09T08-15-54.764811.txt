@@ -1,0 +1,89 @@
+9:10
+
+X
+
+Azure ML Engineer
+
+27
+
+•
+
+IDBC Group. Budapest, Hungary (Hybrid)
+
+Követelmények
+
+Jelentős gyakorlati tapasztalat ML engineering és MLOps területen, különös tekintettel az ML
+
+modellek éles környezetben történő telepítésére, üzemeltetésére, monitorozására, újratanítására és verziókezelésére.
+
+• Magabiztos Python tudás, valamint gyakorlati tapasztalat PySpark vagy Apache Spark
+
+•
+
+használatában.
+
+• Tapasztalat Azure Databricks, MLflow területen. Előnyt jelent az Azure Machine Learning platform tapasztalat.
+
+•
+
+Jó ismeretek lakehouse architektúrában, Delta Lake technológiában, többrétegű
+
+adatplatformokban, adatmodellezésben, adatformálásban, valamint analitikai és ML célú
+
+adatszerkezetek tervezésében.
+
+Alapszintű ismeretek adatminőség,
+
+metaadat-kezelés, adatleszármazás (lineage), hozzáférés-kezelési koncepciók, adatirányítás (governance), valamint ML munkafolyamatok vállalati adatplatformokba történő integrációja területén.
+
+• CI/CD folyamatok, Git, Azure DevOps, illetve infrastruktúra-kód eszközök (pl. Terraform vagy Bicep) ismerete.
+
+Tapasztalat felhőalapú erőforrás-kezelésben, monitorozásban és költségoptimalizálásban. • Átfogó ismeretek Azure Data/Al megoldások teljes architektúrájáról, beleértve a biztonságot, identitáskezelést, hálózati megoldásokat és a skálázható telepítési mintákat.
+
+•
+
+Képesség különböző architektúra-alternatívák értékelésére teljesítmény, biztonság,
+
+fenntarthatóság és felhőköltségek szempontjából.
+
+• Tapasztalat külső beszállítókkal való együttműködésben, valamint architektúrák és megoldások szakmai felülvizsgálatában.
+
+• Kiváló kommunikációs és együttműködési készség, beleértve az ügyféligények megértését, a több szakterületet érintő csapatmunkát
+
+• Magabiztos angol nyelvtudás.
+
+• Kiemelkedő numerikus és analitikus gondolkodás. • Vezetői és mentoráló szemlélet, csapatszellem. • Ügyfélközpontú és önálló munkavégzés, gyors reagálás az igényekre, rugalmasság, sokoldalúság, proaktív hozzáállás és folyamatos fejlődési igény. • Elkötelezettség a szabványok és az egységes mérnöki gyakorlatok iránt.
+
+Előnyt jelent
+
+• Francia nyelv ismerete.
+
+• Felsőoktatási rendszerek és folyamatok ismerete.
+
+Amit kínálnak
+
+• Versenyképes alapbér
+
+• SZÉP-kártya cafeteria juttatás
+
+•
+
+•
+
+Magán egészségbiztosítás
+
+Heti 3 nap home office lehetőség
+
+• Aktív szakmai közösség és rendszeres
+
+csapatépítő programok
+
+• Szakmai fejlődés és képzési lehetőségek
+
+Riasztás beállítása hasonló
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

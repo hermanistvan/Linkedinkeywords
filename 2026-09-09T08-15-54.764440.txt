@@ -1,0 +1,47 @@
+9:27 M
+
+•
+
+← Q data science
+
+ll24
+
+You are looking for us, if you have:
+
+• A bachelor's degree in Computer Science, Information Technology, or a related field • Multiple years of experience, including recent hands-on work on Al projects. Software engineering, data engineering and data science backgrounds are all a strong starting point. Experience with some of the following
+
+•
+
+technologies: SageMaker, Bedrock, Glue, MWAA, EMR, RDS, Aurora, S3, OpenSearch, ElasticSearch. • Strong proficiency in Python and and hands-on experience with the GenAl ecosystem (e.g. LangChain, Llamalndex, agent frameworks, LLM provider SDKs, Pydantic).
+
+•
+
+Good command of SQL and a working
+
+understanding of core data engineering concepts (ETL, pipelines, data modelling).
+
+• Proven experience designing, consuming and integrating APIs, and connecting Al services to existing systems.
+
+• Solid understanding of LLM application concepts: RAG, embeddings, vector databases, tool calling, agent patterns, prompt engineering and
+
+evaluation.
+
+• Working knowledge of AWS, including hands-on use of at least one of its AlI/ML or serverless services. Strong cloud-agnostic experience across multiple providers is a plus, but some practical AWS exposure is expected.
+
+•
+
+•
+
+Excellent problem-solving and communication skills.
+
+Excellent problem-solving and communication
+
+skills, and the ability to work independently and collaboratively in a fast-paced environment. • AWS Professional/Specialty Certification is a plus
+
+What we offer
+
+We believe that exceptional people deserve
+
+Jelentkezés
+
+Mentés
