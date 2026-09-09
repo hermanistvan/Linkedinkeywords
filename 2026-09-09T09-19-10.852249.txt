@@ -1,0 +1,73 @@
+10:35 0
+
+← Q data science
+
+6
+
+•
+
+•
+
+Requirements
+
+7+ years of engineering experience, with a strong recent track record building production AI / LLM applications (not prototypes or research only)
+
+• Strong agent-design judgment - task-harness fit, matching the harness to the context, failures, and policies of the actual task rather than calling a model in a loop
+
+•
+
+The ability to operate close to the client: lead discovery and feasibility conversations, work directly with SMEs and end-users, and explain technical trade-offs to both technical and non-technical audiences
+
+• Hands-on experience with agentic frameworks (LangChain, LangGraph, Semantic Kernel, or similar) and major LLM providers (OpenAl, Anthropic, Google Gemini)
+
+• Expert-level Python and solid software engineering fundamentals
+
+• Strong RAG and retrieval skills: vector databases, embeddings, hybrid search, re-ranking, chunking, and context management
+
+• Proven experience evaluating generative Al quality - LLM-based evaluation, heuristics, custom eval frameworks - and using observability/tracing tools (LangSmith, Arize Phoenix, Langfuse, or similar)
+
+• Production deployment experience on at least one major cloud (AWS, Azure, or GCP) with
+
+•
+
+containerization, CI/CD
+
+Sound judgment under ambiguity - scoping, sequencing, and making the call on speed vs. quality vs. scope
+
+• English at C1 level
+
+Nice to have
+
+• Experience designing experiments, A/B testing, and iterating on Al products against real user behavior and business metrics
+
+• Background in NLP, Data Science, or applied ML, with experience moving models into production • Familiarity with MCP, A2A, Agent Skills, and
+
+emerging agent standards
+
+• Experience with enterprise Al platforms (AWS Bedrock AgentCore, Databricks Genie, Microsoft Foundry, Gemini Enterprise)
+
+• Exposure to Al governance, security, and compliance (guardrails, prompt-injection prevention)
+
+• Prior client-facing or pre-sales exposure in a consulting or services context
+
+We offer
+
+• Dynamic, entrepreneurial corporate environment
+
+•
+
+•
+
+Diverse multicultural, multi-functional, and
+
+multilingual work environment
+
+Opportunities for personal and career growth in a
+
+progressive industry
+
+• Global scope international projects
+
+Jelentkezés
+
+Mentés

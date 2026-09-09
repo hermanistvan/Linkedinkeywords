@@ -1,0 +1,87 @@
+10:42
+
+← Q data science
+
+Elvárások
+
+Ill (6
+
+• Több éves tapasztalat Al alkalmazások és vállalati szoftverek fejlesztésében
+
+• Magas szintű Python ismeret vagy Java / Spring Al fejlesztői tapasztalat
+
+•
+
+Gyakorlati tapasztalat éles LLM- és
+
+RAG-megoldások fejlesztésében (pl. LangChain, LangGraph, LangSmith vagy Spring Al)
+
+• Magabiztos ismeretek az alábbi területeken:
+
+• LLM API-K
+
+• prompt engineering
+
+• embeddingek
+
+• szemantikus keresés
+
+•
+
+adatbetöltési folyamatok
+
+• modellintegráció
+
+• Tapasztalat relációs és vektoradatbázisok használatában, különösen PostgreSQL és pgvector környezetben
+
+•
+
+Gyakorlat agent-alapú rendszerek, tool calling, MCP és multi-agent architektúrák területén
+
+• Ismeretek biztonság, adatvédelem, compliance, monitorozás és production üzemeltetés
+
+témakörében
+
+• Kiváló analitikus, kommunikációs és stakeholder management készségek
+
+• Angol nyelvtudás C1 szinten
+
+Előnyt jelent
+
+• Tapasztalat Azure, Azure OpenAI, OpenAI API vagy más cloud Al platformok használatában
+
+• Gyakorlati ismeretek Docker, Kubernetes, GitLab és CI/CD környezetben
+
+• DevOps és LLMOps tapasztalat, beleértve az observability, tracing és LLM-alkalmazások kiértékelését
+
+• Monitoring eszközök ismerete (pl. LangSmith, Open Telemetry, Prometheus vagy Grafana) • Informatikai vagy szoftverfejlesztői felsőfokú végzettség
+
+• Tapasztalat n8n workflow- és automatizációs platformmal
+
+• Ismeretek Pinecone, Weaviate, Qdrant,
+
+Elasticsearch vagy OpenSearch technológiákban
+
+• Webfejlesztési tapasztalat Java/Spring Boot, TypeScript, Angular, React vagy Vue
+
+technológiákkal
+
+Amit a cég kínál
+
+• Részvétel innovatív, Al-alapú vállalati megoldások fejlesztésében
+
+• Modern technológiák és vezető
+
+LLM-ökoszisztéma használata
+
+• Nemzetközi projektek és szoros együttműködés külföldi szakértőkkel
+
+• Távoli munkavégzés és rugalmas, együttműködésre épülő munkakörnyezet
+
+• Hosszú távú szakmai fejlődési lehetőség a generatív mesterséges intelligencia területén
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

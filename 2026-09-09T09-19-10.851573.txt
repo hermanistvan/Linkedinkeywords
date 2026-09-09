@@ -1,0 +1,51 @@
+10:57
+
+← Q data science
+
+ill (10
+
+TECHNOLOGYSTACK:
+
+Google Cloud Platform is preferred; equivalent experience on AWS or Azure is welcome.
+
+Cloud & Infrastructure
+
+GCP AWS Azure Kubernetes Docker Terraform
+
+MLOps & Pipelines
+
+Kubeflow MLFlow Seldon Vertex Al Airflow
+
+Observability
+
+Prometheus Grafana ELK Stack Cloud Monitoring
+
+CI/CD & Development
+
+GitHub Actions Jenkins Python FastAPI
+
+Cloud Platform GCP preferred; AWS or Azure
+
+accepted
+
+Nice to Have GCP Professional Certificate, CKA/
+
+CKAD, FinOps awareness
+
+HCLTech is an equal opportunity employer. All qualified applicants will receive
+
+consideration without regard to race, gender, nationality, or disability.
+
+Az álláshirdető által megadott
+
+követelménvok
+
+in
+
+Egyszerű jelentkezés
+
+|||
+
+Mentés
+
+r

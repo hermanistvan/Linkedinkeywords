@@ -1,0 +1,59 @@
+11:01
+
+← Q data science
+
+11
+
+These are the essentials you'll need to get an interview:
+
+• 5+ years of experience delivering secure, scalable applications in agile environments.
+
+• Strong ability to write highly readable, maintainable, and well-tested code, with a solid grounding in software design principles.
+
+• Strong hands-on skills in Python and Node.js/ TypeScript on a major cloud platform (preferably AWS), including serverless or microservice patterns, infrastructure as code (CDK/Terraform), CI/CD, containerization, and observability tooling. • Experience building and operating backend
+
+•
+
+services or microservices in a major cloud environment, preferably AWS.
+
+Good understanding of the full lifecycle of Al-based solutions, from experimentation and implementation through deployment, monitoring, and iteration.
+
+• Practical experience working with LLM-based systems or adjacent Al technologies.
+
+• Ability to collaborate effectively across disciplines and help translate applied science work into robust product capabilities.
+
+• Habit of integrating security best practices (IAM, secrets management, privacy controls) into everything you build - including Al components. • Excellent communication and leadership skills: you explain complex technical and Al topics clearly to different audiences.
+
+It would be great if you had these to, but we'll support you if you don't:
+
+• Hands-on experience with AWS CDK.
+
+• Hands-on experience with LLM-related techniques such as prompt engineering, fine-tuning, model evaluation, RAG, agentic solutions, or MCP
+
+servers.
+
+• Experience developing Al evaluation, observability, or governance mechanisms for production
+
+systems.
+
+• Experience shaping shared platform capabilities or reusable engineering patterns across multiple
+
+teams.
+
+• Experience improving performance, reliability, or cost efficiency for cloud-based Al or
+
+data-intensive services.
+
+• Interest or experience in mentoring peers, raising engineering standards, and helping teams adopt better ways of working.
+
+About Us
+
+Diligent is the Al leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language
+
+modele or part of a toom roimaging workflowo with
+
+Jelentkezés
+
+Mentés

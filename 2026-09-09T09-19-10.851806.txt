@@ -1,0 +1,73 @@
+10:55
+
+X
+
+Senior Al Engineer
+
+9
+
+·
+
+PwC Hungary Budapest, Budapest, Hungary (H...
+
+A kiválasztási folyamatban sikeres lehetsz, ha
+
+•
+
+rendelkezel:
+
+Minimum 5 év releváns szoftverfejlesztői
+
+tapasztalattal, ebből legalább 2-3 év generatív Al / LLM-alapú rendszerek (RAG és/vagy agentic) fejlesztésében.
+
+• Haladó szintű programozási ismeretek Pythonban (preferált) vagy más programozási nyelven, OOP szemlélet és erős szoftverfejlesztői alapelvek (software engineering principles) ismeretével. • Backend frameworkök (pl. FastAPI, Flask, Django) és microservice architektúrák gyakorlati ismerete. • Konténerizációs és orchestration toolok ismerete (Docker, Kubernetes, GitHub Actions, MLflow). • CI/CD és MLOps pipeline-ok tervezésében és megvalósításában szerzett tapasztalat felhőalapú környezetben (pl. Azure ML, Databricks, AWS). • Agilis működés, Scrum / SAFe módszertanok és kollaboratív mérnöki gyakorlatok ismerete.
+
+• Gyakorlati tapasztalat adat ETL folyamatokban, API-k használatában, valamint modellek éles környezetbe történő deployolásában.
+
+• Erős szoftvermérnöki alapok, CLEAN kód, strukturált megoldások és hosszú távon fenntartható rendszerek iránti elkötelezettség. • Önálló, felelősségteljes munkavégzésre képes szakember vagy, aki vezetői szemlélettel gondolkodik.
+
+• Proaktív, megoldásorientált, és szívesen osztja meg tudását másokkal.
+
+• Magabiztos, aktív angol nyelvtudás.
+
+• Erős szoftvermérnöki alapok, CLEAN kód, strukturált megoldások és hosszú távon fenntartható rendszerek iránti elkötelezettség. • Önálló, felelősségteljes munkavégzésre képes szakember vagy, aki vezetői szemlélettel gondolkodik.
+
+• Proaktív, megoldásorientált, és szívesen osztja meg tudását másokkal.
+
+• Magabiztos, aktív angol nyelvtudás.
+
+Előnyt jelent:
+
+Multi-agent rendszerek architekturális
+
+tervezésében szerzett tapasztalat.
+
+•LLM-alapú rendszerek monitorozása, automatizált
+
+•
+
+kiértékelése és tesztelése.
+
+Jártasság modern agentic paradigmákban (pl.
+
+CodeAct, MCP, A2A, Deep Agents, Agent Skills) és
+
+tapasztalat ezek gyakorlati alkalmazásában.
+
+Mélyebb elméleti ismeretek (pl. Transformer
+
+architektúra).
+
+• Folyamat-automatizációs eszközök (pl. n8n) és
+
+Copilot Studio használata.
+
+• SAP AI Core ismeretek.
+
+Miért válassz bennünket?
+
+• Változatos feladatokkal teli munkakörnyezet és
+
+Jelentkezés
+
+Mentés

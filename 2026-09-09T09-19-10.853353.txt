@@ -1,0 +1,53 @@
+10:47
+
+Q data science
+
+fill 8
+
+Elvárások
+
+Expert szintű tapasztalat
+
+Python (7+ év)
+
+LLM API-k használata (OpenAl, Claude, AWS Bedrock)
+
+Agent frameworkök (Claude Agent SDK, OpenAl Codex SDK, pydantic-ai)
+
+RAG rendszerek tervezése és implementációja Neo4j grafadatbázis
+
+FastAPI
+
+Magabiztos ismeretek
+
+Vector adatbázisok (Milvus vagy Qdrant)
+
+Kubernetes
+
+Docker
+
+AWS vagy Azure cloud platformok
+
+CI/CD (GitHub vagy GitLab)
+
+Pytest
+
+Előnyt jelent
+
+LangChain / LangGraph
+
+Terraform
+
+Prometheus & Grafana
+
+in
+
+Egyszerű jelentkezés
+
+|||
+
+"
+
+Mentés
+
+r

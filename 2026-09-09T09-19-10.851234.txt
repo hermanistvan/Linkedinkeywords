@@ -1,0 +1,67 @@
+11:01
+
+← Q data science
+
+11
+
+Minimum Qualifications
+
+• Education: A Master's or PhD in Computer Science, Mathematics, Physics, or a highly quantitative field (Financial Engineering, etc.). • C/C++ Programming Expertise: Deep
+
+understanding of memory management, STL, and concurrent programming for performance-critical systems.
+
+• Python: Proficiency in the scientific stack (NumPy, SciPy, Pandas) and integration with C++ via wrappers (Pybind11/Cython).
+
+• Mathematical Proficiency: Strong foundation in stochastic calculus, linear algebra, and numerical methods (e.g., Monte Carlo simulations, Finite Difference Methods).
+
+• Financial Domain Knowledge: Solid understanding of Fixed Income (yield curves, duration, convexity) and Derivatives pricing (Black-Scholes, Volatility surfaces, Credit models).
+
+Preferred Qualifications
+
+• Financial Systems: Hands-on experience working with professional trading platforms and financial data terminals (Bloomberg/Refinitiv).
+
+• High-Performance Computing (HPC): Experience with GPU programming (CUDA or OpenCL) or distributed computing frameworks.
+
+• Machine Learning: Knowledge of applying deep. learning or reinforcement learning to financial time-series data.
+
+Benefits
+
+•
+
+•
+
+Competitive Salary: A top-tier compensation
+
+package tailored to your experience and the global market.
+
+Ownership Stake: Employee Share Options (ESOP),
+
+allowing you to directly benefit from the
+
+company's long-term growth and success.
+
+• Professional Growth: Access to International Conferences (US, Europe, and beyond) to stay at the forefront of your field.
+
+• Career Development: Structured Career Building Plans with clear milestones and the support needed to transition into leadership or specialized roles.
+
+• Premium Mobility: A Company Car provided as part of your compensation package (subject to role/seniority level).
+
+• Daily Perks: Complimentary lunch, snacks, and premium coffee to keep you fueled throughout the
+
+day.
+
+• International Environment: The opportunity to work in a truly global setting with sister companies in the US and EU.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Quantitative Developer, Budapest,
+
+Budapest, Hungary
+
+Jelentkezés
+
+Mentés
+
+Ki

@@ -1,0 +1,55 @@
+11:02
+
+X
+
+Data Quality Engineer QA Dynata Hungary (Remote)
+
+·
+
+ll11
+
+Required Qualifications
+
+► 2-4 years in data engineering, data quality, or analytics engineering roles
+
+▸ Hands-on experience with data quality tools: Great Expectations, dbt tests, Soda, Monte Carlo, or similar
+
+Strong SQL and Python skills for writing validation logic and quality metric queries
+
+ས
+
+Experience with Apache Spark or dbt for large-scale data transformation and testing
+
+Familiarity with data profiling techniques and statistical approaches to anomaly detection
+
+►
+
+Knowledge of data observability concepts and their application in lakehouse environments
+
+Experience with Airflow or similar orchestration tools to schedule quality jobs
+
+‣ Bachelor's degree in Computer Science, Statistics, Engineering, or related field
+
+►
+
+Preferred Qualifications
+
+Experience with Databricks or Snowflake data quality native features
+
+Knowledge of DataHub or data catalog integration for quality score publishing
+
+Familiarity with data contracts and shift-left quality approaches in data mesh architectures
+
+What Dynata Can Offer You
+
+In addition to a competitive salary, we offer a comprehensive range of benefits tailored to each country. Our benefits are designed to support your well-being and help you achieve a healthy work-life balance.
+
+About Us
+
+Dynata is the world's largest first-party data and insights platform. With a reach that encompasses 62 million consumers and business professionals globally, and an extensive library of individual profile attributes collected through surveys. Dvnata is the
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

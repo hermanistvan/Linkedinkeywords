@@ -1,0 +1,189 @@
+11:07 C
+
+← Q data science
+
+What makes you a great fit:
+
+• 5+ years of professional data engineering
+
+•
+
+experience
+
+2+ years working with programmatic advertising and ad-tech data (GAM)
+
+• Strong proficiency in Python and SQL
+
+• Hands-on experience with data warehouses (BigQuery, Snowflake, Redshift, ClickHouse)
+
+•
+
+Experience with batch processing frameworks (Spark, dbt, Airflow)
+
+• Understanding of ad-tech data structures: bid requests, impressions, OpenRTB schemas, log-level data
+
+• Experience with cloud platforms (AWS, GCP) and infrastructure-as-code
+
+•
+
+Ability to work partial US work hours (available
+
+until 2pm ET)
+
+Ad-Tech Data Experience
+
+•
+
+Data Sources (Familiarity Required):
+
+• SSP reporting APIs and log-level data (Magnite, PubMatic, Index Exchange, Xandr)
+
+• Google Ad Manager (GAM) reporting, Data Transfer files, and BigQuery exports
+
+Data Models & Metrics:
+
+• Revenue metrics: CPM, eCPM, RPM, fill rate, win rate, bid density
+
+• Auction analytics: bid landscape, floor
+
+optimization, timeout analysis
+
+• Demand partner performance: SSP/bidder scoring, latency analysis, viewability metrics, reach/frequency, IVT
+
+• Supply chain data: ads.txt validation, sellers.json mapping, SPO analysis
+
+Technical Stack:
+
+• Languages: Python, SQL, Scala (nice to have) • Processing: Apache Spark, dbt, Apache Flink • Warehouses: BigQuery, Snowflake, ClickHouse, Redshift
+
+•
+
+Orchestration: Airflow, Dagster, Prefect
+
+Storage: S3, GCS, Delta Lake, Parquet
+
+• Infrastructure: AWS, GCP, Terraform, Kubernetes
+
+Nice to Have
+
+• Experience with ML feature engineering for bid
+
+optimization or yield prediction
+
+•
+
+Background in building data products for
+
+12
+
+0:
+
+publisher-side monetization
+
+Familiarity with privacy-preserving data techniques
+
+(differential privacy, clean rooms)
+
+• Experience with CTV/OTT advertising data and
+
+video ad metrics
+
+• Knowledge of identity resolution and cross-device
+
+data challenges
+
+Your day-to-day in this position:
+
+•
+
+Design and build and enhance scalable data
+
+pipelines for processing data from a variety of ad server and ancillary data sources
+
+• Ingest and normalize data from multiple SSPs, DSPs, ad servers (GAM), and third-party reporting
+
+APIs
+
+• Develop ETL/ELT workflows to transform raw data
+
+into analytics-ready datasets
+
+• Create data models for campaign performance optimization, supply analysis, supply allocations,
+
+and profit maximization
+
+• Build and maintain data warehouses and lakes optimized for ad-tech query patterns
+
+• Implement data quality monitoring, validation, and anomaly detection for data streams
+
+• Support Executive, BI and analytics teams with
+
+•
+
+clean, documented, and performant data
+
+infrastructure
+
+Ensure data privacy compliance (GDPR, CCPA) in
+
+data collection, storage, and processing
+
+Why work with us?:
+
+• People-first management with minimal
+
+bureaucracy
+
+• A friendly company culture, proven by employees
+
+who choose to return
+
+• Flexible working hours
+
+• 29 days of PTO (18 working days per year pluse all
+
+•
+
+national holidays)
+
+10 paid recovery days
+
+• Full financial and legal support for independent
+
+contractors
+
+• Free English classes, with native speakers or
+
+Ukrainian teachers
+
+• Dedicated HR support
+
+Our next steps:
+
+Intro call with a Recruiter
+
+Introductory
+
+interview with the Client - Home assignment
+
+Final client interview- Offer
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Data Engineer, Budapest, Budapest,
+
+Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: MWDN
+
+▲ 12% alkalmazotti létszám növekedése
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

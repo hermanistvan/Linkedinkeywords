@@ -1,0 +1,45 @@
+10:40
+
+← Q data science
+
+6
+
+•
+
+Required Qualifications And Skills
+
+BSc or advanced degree in a quantitative field like Computer Science, Mathematics, Statistics,
+
+Physics, or Engineering.
+
+• 5+ years of professional software engineering experience, preferably in a financial trading environment (e.g. hedge fund, prop trading firm, or investment bank).
+
+• Proficiency in a high-performance language (Golang/ C++/ Java/ Rust) and experience with a data analysis language (e.g. Python).
+
+• Demonstrable experience building pricing models or algorithmic trading strategies.
+
+• Strong understanding of financial market
+
+concepts, market microstructure and common trading algorithms.
+
+• Excellent quantitative and analytical skills. • Fluent written and oral English skills.
+
+Bonus If You Have
+
+•
+
+Experience building high-fidelity backtesting or market simulation environments from the ground up.
+
+• Deep knowledge of cryptocurrency market structure, DeFi protocols and on-chain data. • Familiarity with data analysis libraries (e.g., Pandas, NumPy, SciPy) and machine learning concepts.
+
+• Experience working with large-scale time-series data and databases (e.g., KDB+, InfluxDB,
+
+•
+
+TimescaleDB).
+
+Experience in a performance-sensitive or low-latency environment.
+
+Jelentkezés
+
+Mentés

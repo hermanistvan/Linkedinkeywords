@@ -1,0 +1,81 @@
+10:39
+
+← Q data science
+
+5
+
+What your new challenge will look like
+
+Lead the architectural vision and strategic direction for Al and machine learning systems across a distributed team in India and Europe. • Architect unified, scalable and secure Al systems that supports international data sovereignty and regional privacy regulations.
+
+• Influence 4flows product direction through clear, compelling presentations to management and stakeholders.
+
+• Evaluate and select tools, frameworks and platforms for Al development, deployment and LLMOps.
+
+• Provide technical leadership and mentorship to Al and engineering teams.
+
+• Drive knowledge sharing, contribute best practices and foster continuous learning across teams.
+
+• Continuously explore emerging Al technologies and trends to drive innovation.
+
+Why you belong at 4flow
+
+To be successful in this position, we believe you should possess the following attributes:
+
+•
+
+Around 8 years of experience in system design and architecture, including at least 4 years
+
+focused specifically on Al/ML architecture
+
+• Proven expertise in building and scaling agentic Al frameworks (e.g., LangGraph, AutoGen, CrewAl)
+
+• A deep understanding of machine learning, deep learning and LLMOps practices
+
+•
+
+• Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes) Proficiency in Python and familiar with ML frameworks such as TensorFlow, PyTorch and Hugging Face
+
+• Experience in mentoring cross-functional teams and leading technical projects from concept to production deployment
+
+• Ability to distinguish between Al hype and
+
+high-impact business use cases
+
+• Comfortable with the "fail fast" nature of Al
+
+research while maintaining a clear path to production
+
+Why 4flow?
+
+• A clearly defined vision and job security at a
+
+•
+
+•
+
+company with German roots.
+
+Exciting international work environment as well as
+
+rapid career development opportunities.
+
+Outstanding opportunities for your
+
+individual development (individual training budget
+
+and internal trainings).
+
+• Permanent position, competitive base salary, an
+
+•
+
+•
+
+attractive bonus system, and a great benefits package.
+
+Flexibility and the opportunity to work remotely.
+
+Employee Assistance Program for mental health
+
+support

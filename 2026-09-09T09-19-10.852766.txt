@@ -1,0 +1,55 @@
+10:38
+
+X
+
+Al Developer
+
+ll 5
+
+HumanField Executive and Specialist Search • B...
+
+Your responsibilities:
+
+• Design and develop robust, scalable, and maintainable Python solutions in a modern SaaS environment, contributing to an Al-powered integration platform connecting legacy banking systems with modern digital architectures. • Build intelligent, context-aware applications using modern Al frameworks, LLMs, RAG architectures, and vector databases.
+
+•
+
+Develop Al-powered chatbots and assistants using Python and LLM APIs, including OpenAl and other leading model providers.
+
+• Work on prompt engineering, LLM optimization and fine-tuning to improve the quality and reliability of Al-powered features.
+
+• Deploy, operate, and scale Al services using FastAPI, Docker, Kubernetes, cloud technologies, and modern CI/CD practices.
+
+What we're looking for:
+
+• Strong Python development experience and hands-on knowledge of FastAPI or other modern Python web frameworks.
+
+• Familiarity with machine learning libraries and frameworks such as NumPy, pandas, scikit-learn, PyTorch, or TensorFlow.
+
+• Experience with Docker, Kubernetes, cloud
+
+•
+
+environments (AWS, GCP, or Azure), and modern CI/CD workflows.
+
+Practical experience with LLM/Al technologies
+
+such as LangChain, RAG, vector databases is a plus.
+
+What our client offers:
+
+•
+
+The opportunity to work on an innovative, Al-driven fintech product solving complex, real-world challenges in the financial sector.
+
+• A highly professional environment where you can learn from experienced specialists with strong expertise in both technology and banking.
+
+• Technically challenging projects with significant
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

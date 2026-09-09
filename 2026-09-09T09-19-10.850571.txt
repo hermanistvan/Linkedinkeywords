@@ -1,0 +1,123 @@
+11:06
+
+← Q data science
+
+12
+
+Dein Profil
+
+Wir suchen einen erfahrenen Al Developer mit umfassender Expertise in der Entwicklung komplexer Kl-Anwendungen, Chatbots und LLM-basierter Systeme. Der ideale Kandidat sollte ausgeprägte Programmierkenntnisse in Python oder Java, praktische Erfahrung mit RAG-Lösungen und Kompetenz im Umgang mit Cloud- und On-Premise-Umgebungen mitbringen. Ausgezeichnete Englischkenntnisse und die Fähigkeit, mit internationalen Teams zu arbeiten, sind unerlässlich.
+
+Muss-Kriterien
+
+• Mehrjährige Erfahrung in der Entwicklung von Kl-Anwendungen und Unternehmenssoftware
+
+• Sehr gute Python-Kenntnisse oder Java/Spring Al Entwicklungserfahrung
+
+• Praktische Erfahrung in der Entwicklung von LLM- und RAG-Lösungen (z. B. LangChain, LangGraph, LangSmith oder Spring Al)
+
+• Sichere Kenntnisse von LLM APIs
+
+•
+
+Sichere Kenntnisse im Prompt Engineering
+
+• Sichere Kenntnisse von Embeddings
+
+Sichere Kenntnisse der semantischen Suche • Sichere Kenntnisse von Datenladeprozessen • Sichere Kenntnisse der Modellintegration
+
+•
+
+•
+
+Erfahrung im Umgang mit relationalen und Vektordatenbanken, insbesondere in PostgreSQL-
+
+und pgvector-Umgebungen
+
+Praxis in agentenbasierten Systemen
+
+• Praxis im Tool Calling
+
+• Praxis im MCP (Model Context Protocol)
+
+• Praxis in Multi-Agenten-Architekturen
+
+• Kenntnisse in Sicherheit, Datenschutz und
+
+Compliance
+
+• Kenntnisse in Monitoring und Produktionsbetrieb
+
+•
+
+Ausgezeichnete analytische Fähigkeiten
+
+• Ausgezeichnete Kommunikationsfähigkeiten
+
+• Ausgezeichnete
+
+Stakeholder-Management-Fähigkeiten
+
+• Englischkenntnisse auf C1-Niveau
+
+Von Vorteil
+
+•
+
+Erfahrung mit Azure, Azure OpenAI, OpenAI API oder anderen Cloud-KI-Plattformen
+
+• Praktische Kenntnisse in Docker, Kubernetes,
+
+•
+
+GitLab und CI/CD-Umgebungen
+
+DevOps- und LLMOps-Erfahrung einschließlich Observability, Tracing und Evaluierung von
+
+LLM-Anwendungen
+
+• Kenntnisse von Monitoring-Tools (z. B. LangSmith,
+
+Open Telemetry, Prometheus oder Grafana)
+
+• Fortgeschrittener Abschluss in
+
+Informationstechnologie oder Software
+
+Engineering
+
+⚫ Erfahrung mit der nån Workflow- und
+
+Automatisierungsplattform
+
+• Kenntnisse in Pinecone, Weaviate, Qdrant,
+
+Elasticsearch oder OpenSearch Technologien
+
+• Webentwicklungserfahrung mit Java/Spring Boot
+
+• Webentwicklungserfahrung mit TypeScript
+
+•
+
+Webentwicklungserfahrung mit Angular, React
+
+oder Vue Technologien
+
+Über uns
+
+Deutsche Telekom IT Solutions, eine
+
+Tochtergesellschaft der Deutschen Telekom Gruppe, ist der attraktivste Arbeitgeber in Ungarn im Jahr 2025 (laut einer repräsentativen Umfrage von Randstad). Mit mehr als 5.300 Mitarbeitern bietet das Unternehmen ein breites Spektrum an IT- und Telekommunikationsdienstleistungen. Es betreut Hunderte von großen Firmenkunden in Deutschland und anderen europäischen Ländern.
+
+DT-ITS wurde 2019 mit dem HIPA-Award „Beste Bildungskooperation" sowie im selben Jahr als
+
+,,Ethischstes multinationales Unternehmen"
+
+ausgezeichnet.
+
+Das Unternehmen entwickelt seine Standorte in
+
+Jelentkezés
+
+Mentés

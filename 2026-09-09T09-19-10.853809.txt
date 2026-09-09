@@ -1,0 +1,1 @@
+Olyan Analytics Engineer kollégát keresünk, aki magabiztosan mozog az SQL, az adatmodellezés és a modern data stack világában, és szívesen épít megbízható, jól skálázható adatmodelleket és transzformációkat nagyvállalati környezetben.

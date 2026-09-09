@@ -1,0 +1,49 @@
+10:37
+
+•
+
+Q data science
+
+Qualifications
+
+• Deep subscription billing expertise: substantial experience with payments, renewals, refunds, disputes/chargebacks/TC40 in a
+
+recurring-revenue business (non-negotiable). • Advanced SQL: complex joins, window functions, incremental logic, and performance-aware query writing.
+
+• Data visualization: proficiency with Omni, Tableau, Power BI, or similar tools to build dashboards and communicate insights clearly.
+
+• People leadership: experience setting priorities, distributing work, reviewing output, and being accountable for a team's results.
+
+Statistical & analytical rigor: forecasting, experiment design, and translating ambiguous business questions into structured analysis. • Billing platforms / processors: familiarity with tools such as Stripe, Braintree, Nuvei, or similar. • Strong communication: ability to explain complex findings to both technical and non-technical stakeholders.
+
+•
+
+Cross-functional collaboration: track record of
+
+influencing decisions with data across multiple departments.
+
+Nice to have
+
+• Python and/or modern analytics tooling (dbt, Airflow, or similar).
+
+•
+
+Experience building and maintaining ETL/ELT pipelines for billing or financial data.
+
+Risk analysis or fraud-adjacent experience in billing contexts.
+
+• Advanced visualization techniques (cohorts, funnels, anomaly detection dashboards).
+
+Location
+
+Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.
+
+Benefits
+
+Discover the perks of being part of our vibrant
+
+Jelentkezés
+
+Mentés
+
+6

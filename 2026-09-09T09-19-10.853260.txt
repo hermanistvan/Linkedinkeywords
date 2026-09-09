@@ -1,0 +1,95 @@
+10:44
+
+← Q data science
+
+47
+
+•
+
+Qualifications
+
+Background and required skills:
+
+4+ years in software engineering with strong Python and scripting skills
+
+• 2+ years deploying and operating production systems (CI/CD, monitoring, incident response) • 2+ years working with cloud platforms (AWS preferred, but multi-cloud awareness valued) • 1-2+ years with LLMs, agentic AI, RAG systems, or production Al/ML systems
+
+• Proven track record: Shipped Al systems to production with full automation and monitoring
+
+Soft Skills & Team Fit
+
+•
+
+Ownership mentality: Take responsibility for features from design through production operations
+
+• Pragmatic problem-solver: Balance perfection with delivery, make informed trade-offs
+
+• Clear communicator: Explain technical concepts to both engineers and non-technical stakeholders • Automation advocate: Default to "automate it" rather than "document the manual steps"
+
+•
+
+Self-directed: Drive projects forward with minimal supervision
+
+Collaborative: Share knowledge, review code, support teammates
+
+• Production-minded: Think about monitoring, security, scalability from the start
+
+• Adaptable: Comfortable with ambiguity, changing requirements, and learning new technologies
+
+• Quality-focused: Write clean code, comprehensive tests, and clear documentation
+
+Advantage:
+
+Advanced Agentic Al
+
+Experience with agent frameworks (LangGraph, CrewAl, AutoGen, Strands)
+
+• Agent memory systems (short-term, long-term,
+
+semantic memory)
+
+• Agent evaluation and benchmarking
+
+methodologies
+
+• Human-in-the-loop patterns for agent systems • Agent safety, guardrails, and responsible Al
+
+practices
+
+Domain Knowledge
+
+• Experience in telecommunications or enterprise IT
+
+• Log analysis and operational intelligence systems
+
+• Document processing and information extraction
+
+•
+
+Customer-facing Al solution delivery
+
+Additional Information
+
+• Please be informed that our remote working
+
+possibility is only available within Hungary due to European taxation regulation.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Al Engineer (REF5308Q), Budapest,
+
+Ki
+
+Budapest, Hungary
+
+Toborzással kapcsolatos betekintés
+
+zárolásának feloldása itt: Deutsche Telekom IT Solutions HU
+
+0% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés

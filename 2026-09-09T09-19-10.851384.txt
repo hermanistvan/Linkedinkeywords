@@ -1,0 +1,43 @@
+11:00
+
+← Q data science
+
+11
+
+Minimum Qualifications
+
+• Bachelor's degree in computer science, Statistics or Mathematics or related field.
+
+• 2-4 years experience in data analysis.
+
+•
+
+Technical proficiency in SQL and Python
+
+•Hands on experience building reports and dashboards with tools such as Power BI and Superset. Hands on experience with glue, redshift. • Strong knowledge of how relational databases work and various schema types - such as STAR or Snowflake.
+
+• Experience writing queries for MSSQL server, Postgres, Redshift and AWS Athena or Trino.
+
+•
+
+Exposure to analysis using machine learning
+
+related projects is a plus. Ability to work
+
+independently and collaboratively in a team environment
+
+Qualifications Considered a Plus
+
+• Understanding of automated test environments for hardware validation or software QA • Familiarity with DevOps tools for CI/CD and infrastructure-as-code
+
+Budapest Perks & Benefits
+
+You would be working from our office in Budapest, in Graphisoft Park, next to the riverbank of the Danube.
+
+We also offer:
+
+• Annual Budapest travel card or parking in the office garage
+
+Jelentkezés
+
+Mentés

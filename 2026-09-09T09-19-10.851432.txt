@@ -1,0 +1,55 @@
+10:59
+
+← Q data science
+
+ill (10
+
+Requirements
+
+• 7+ years of professional Python software development experience.
+
+• Strong understanding of software architecture, design patterns, testing, maintainability, and scalable application development.
+
+Experience building APIs, automation solutions, internal tools, or web applications using modern Python frameworks.
+
+• Solid knowledge of SQL, database design, and data modeling.
+
+• 2+ years of hands-on experience with Generative Al technologies, including LLMS, AI agents, RAG, and workflow orchestration.
+
+Experience leveraging Al-assisted development tools (e.g., GitHub Copilot, Cursor, Claude) while maintaining high engineering standards. Familiarity with modern Al frameworks and technologies such as LangGraph, Agent SDKs, vector databases, and retrieval systems.
+
+• Strong problem-solving, communication, and stakeholder management skills.
+
+• Ability to work independently, navigate ambiguity, and deliver practical solutions in a fast-paced environment.
+
+•
+
+A builder mindset with a passion for creating high-quality, impactful products.
+
+Why We Think You Will Love Working Here
+
+With us you count as a person, our doors are always open.
+
+We live the Qualysoft Team Spirit and stand for transparency!
+
+Fresh wind and new ideas are welcome, because standstill is a foreign word at Qualysoft.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Applied Al Engineer, Budapest,
+
+Ki
+
+Budapest, Hungary
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Qualysoft
+
+15% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés

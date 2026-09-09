@@ -1,0 +1,47 @@
+10:36
+
+← Q data science
+
+6
+
+Your Profile
+
+Strong Backend BI Foundation (must-have) • Intermediate/Advanced SQL (complex joins, aggregations, case logic, window functions, etc). Hands-on experience validating and working with analytical data in Databricks or other cloud-based platforms.
+
+•
+
+• Solid understanding of analytical data modeling and how Tableau consume data.
+
+Python & Automation
+
+• Practical experience using Python for data processing or automation.
+
+• Familiarity with tools and frameworks such as PySpark, dbt, Dagster, or similar.
+
+• Ability to design backend BI solutions with frontend performance and usability in mind.
+
+Nice-to-Have Skills
+
+Experience with Delta Lake, Unity Catalog, or Databricks SQL.
+
+• Experience with Tableau/Power BI dashboards. • Familiarity with data governance, testing, or monitoring practices.
+
+• Familiarity with version control (git init, git add, git commit, git push, git pull, git checkout).
+
+Riasztás beállítása hasonló állásokhoz
+
+BI Full Stack Developer, Budapest,
+
+Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: INNIO
+
+Group
+
+▲ 34% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés

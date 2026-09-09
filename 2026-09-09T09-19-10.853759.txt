@@ -1,0 +1,57 @@
+10:48
+
+← Q data science
+
+The knowledge I own:
+
+• Strong SQL (joins/aggregations/window functions, data integrity and performance awareness)
+
+• Experience building data pipelines using ETL patterns (or equivalent orchestration)
+
+•
+
+•
+
+Proficiency with Python or R
+
+Familiarity with cloud based data solutions (Databricks, Snowflake, etc.)
+
+• Hands-on experience with CI/CD concepts and automated deployment workflows
+
+•
+
+Understanding of data quality principles and how to implement validation (row counts, referential integrity, range checks, reconciliation)
+
+• Production engineering mindset: monitoring, incident response, and maintainable code/process
+
+• Analytical and structured approach to work • Passion for delivering high-quality user
+
+experiences
+
+• Ability to work independently while being a strong
+
+team player
+
+• Fluent in English (written and spoken)
+
+•
+
+Understanding of Agile practices and iterative development processes is a plus
+
+• Basic statistical thinking for validating results (e.g., distribution checks, sanity checks, trend validation) is advantageous
+
+Riasztás beállítása hasonló állásokhoz
+
+BI Developer (Backend), Budapest, Hungary
+
+즈
+
+Ki
+
+Toborzással kapcsolatos betekintés
+
+Jelentkezés
+
+Mentés
+
+8

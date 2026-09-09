@@ -1,0 +1,83 @@
+11:04
+
+← Q data science
+
+12
+
+Szakmai elvárások:
+
+• Legalább 3-5 év tapasztalat Data Engineer, BI Developer vagy hasonló területen
+
+• Magas szintű Power BI ismeret - adatmodellezés, DAX fejlesztés, Power Query / M, riport- és dashboardfejlesztés, teljesítményoptimalizálás
+
+• Erős SQL tudás és adatbázis-tervezési tapasztalat
+
+•
+
+- MS SQL / PostgreSQL / Firebird
+
+• Tapasztalat ETL/ELT folyamatok és skálázható
+
+data pipeline-ok fejlesztésében
+
+• Python fejlesztési tapasztalat adatfeldolgozási feladatokra - Pandas / Numpy
+
+• Python web framework ismeret API fejlesztéshez - Flask / FastAPI / Django
+
+• Relációs és NoSQL adatbázisok magabiztos
+
+•
+
+•
+
+használata - MongoDB előny
+
+Magas szintű Excel és üzleti riporting ismeret
+
+Erős analitikus és problémamegoldó szemlélet
+
+• Strukturált gondolkodás és üzleti fókusz
+
+Előnyt jelent:
+
+• Azure Data Platform és Azure CI/CD Pipeline
+
+•
+
+•
+
+tapasztalat
+
+Agilis módszertanok ismerete
+
+Enterprise riporting rendszerek fejlesztésében szerzett tapasztalat
+
+• Egészségügyi informatikai háttér
+
+• Tapasztalat nagy adatmennyiség kezelésében és optimalizálásában
+
+• Jó kommunikációs készség és csapatmunkára való nyitottság
+
+Amire számíthatsz, ha ezt a lehetőséget választod: • Rugalmas munkarend és Homeoffice lehetőség akár heti 4 napban
+
+• Éves bónusz
+
+• Cafetéria változtatható elemekkel (Szép-kártya) • Szakmai tréningek, céges workshop-ok, egyénre szabott képzési terv
+
+•
+
+Stabil, nemzetközi hátterű vállalat, itthon 100+ fős szervezet
+
+Önálló, felelősségteljes munka hosszú távra
+
+• A vállalaton belül remekül kooperáló szervezeti
+
+egységek
+
+• Kellemes munkahelyi légkör, támogató vezetők
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

@@ -1,0 +1,59 @@
+10:33
+
+← Q data science
+
+27
+
+Requirements
+
+• 6+ years of experience in ML Engineering, MLOps or DevOps for AI/ML systems (or 3+ years with a PhD)
+
+• Expertise in MLOps principles and tools (testing, deployment, monitoring, versioning)
+
+•
+
+Proven experience building production-grade ML systems in Python
+
+• Hands-on experience with cloud platforms (AWS preferred) and container orchestration (Docker, Kubernetes)
+
+• Experience with ML platforms such as MLflow, SageMaker, Vertex Al or similar
+
+•
+
+Strong understanding of the complete ML lifecycle, including training, validation, retraining, A/B testing and drift detection
+
+• Experience with CI/CD pipelines (GitLab Cl, GitHub Actions, Jenkins) and Infrastructure as Code (Terraform, CloudFormation)
+
+•
+
+Proficiency in Python and experience with scalable data processing frameworks (Spark, Airflow,
+
+•
+
+•
+
+Kubeflow)
+
+Familiarity with monitoring/logging tools like Prometheus, Grafana and Datadog
+
+Professional English proficiency
+
+Ability to work from Paris, Milan, Turin, Barcelona or remotely within a compatible time zone
+
+Nice to have
+
+•
+
+Experience deploying or scaling GenAl solutions • Contributions to shared internal libraries or
+
+developer tools
+
+• Additional language skills (French, Spanish, Italian)
+
+• Familiarity with large-scale distributed systems or
+
+marketplace environments.
+
+Jelentkezés
+
+Mentés

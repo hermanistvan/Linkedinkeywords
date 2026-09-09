@@ -1,0 +1,53 @@
+10:32
+
+← Q data science
+
+97
+
+Required Qualifications:
+
+• 8+ years working as a Data Engineer, Analytics Engineer, or Data Analyst in a data-driven
+
+•
+
+environment (Staff level typically 10+ or equivalent scope/impact).
+
+Strong SQL skills (complex joins, window functions, aggregation, query optimization).
+
+• Experience with at least one major data warehouse / big data technology (e.g., BigQuery, Snowflake, Redshift, Hive, Spark, Vertica,
+
+StarRocks, or similar).
+
+• Solid experience with ETL/ELT tools or orchestration frameworks (e.g., Airflow, dbt, internal frameworks).
+
+•
+
+Proficiency in at least one programming language for data and services (e.g., Python, Java, Golang, Kotlin, or JavaScript/TypeScript).
+
+• Experience building production-grade data pipelines and/or data services with attention to quality, monitoring, and maintainability.
+
+• Experience with BI / visualization tools (e.g., Tableau, Power BI, Superset, Metabase, Looker). • Strong analytical thinking: comfortable framing business questions, exploring data, and turning results into clear insights.
+
+• Ability to communicate complex topics in simple, concise language to non-technical stakeholders.
+
+Preferred Qualifications:
+
+• Experience with event-driven data (logs, clickstream, customer journey, contact flows, tracking data).
+
+• Knowledge of data modeling techniques (e.g., dimensional modeling, Kimball, data vault, star/ snowflake schema).
+
+• Experience with A/B testing, experimentation platforms, or causal analysis.
+
+• Familiarity with ML pipelines or working with data science teams (e.g., routing models, QA scoring, forecasting, recommendations).
+
+• Experience in online consumer products, travel, e-commerce, or marketplaces.
+
+• Hands-on frontend or backend development experience (e.g., building internal tools in React/ Next.js, Node.js, or similar frameworks) used by operations or support teams.
+
+• Prior experience in a Staff or Tech-Lead role, driving technical direction and mentoring multiple engineers/analysts.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo
+
+Jelentkezés
+
+Mentés

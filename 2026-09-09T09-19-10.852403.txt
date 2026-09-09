@@ -1,0 +1,39 @@
+10:33
+
+← Q data science
+
+These are the essentials you'll need to get an interview:
+
+•
+
+A degree in Computer Science, Software Engineering, or a related IT discipline
+
+• Demonstrable understanding of AI/ML concepts, including LLMs and agent-based systems
+
+—
+
+• Ability to write clean, well-tested code - Python preferred
+
+• Strong experience of shipping real Al products - not chatbots!
+
+• Strong communication skills and a collaborative mindset
+
+It would be great if you had these to, but we'll support you if you don't:
+
+27
+
+•
+
+Exposure to AWS services, especially Amazon Bedrock or similar LLM hosting platforms
+
+• Familiarity with GRC concepts (governance, risk, compliance) or cybersecurity frameworks such as ISO 27001 or SOC 2
+
+• Any experience with agent orchestration libraries (e.g. LangChain, CrewAl, AutoGen)
+
+About Us
+
+Diligent is the Al leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk,
+
+Jelentkezés
+
+Mentés

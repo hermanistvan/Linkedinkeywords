@@ -1,0 +1,113 @@
+11:08
+
+← Q data science
+
+13
+
+What makes you a great fit:
+
+• 5+ years of professional data engineering experience
+
+• 2+ years working with programmatic advertising or ad-tech data
+
+• Strong proficiency in Python and SQL
+
+• Experience with streaming data platforms (Kafka, Kinesis, Pub/Sub)
+
+• Hands-on experience with data warehouses (BigQuery, Snowflake, Redshift, ClickHouse) • Experience with batch processing frameworks (Spark, dbt, Airflow)
+
+• Understanding of ad-tech data structures: bid requests, impressions, OpenRTB schemas, log-level data
+
+•
+
+Experience with cloud platforms (AWS, GCP) and infrastructure-as-code
+
+Ad-Tech Stack:
+
+Data Sources (Familiarity Required):
+
+• SSP reporting APIs and log-level data (Magnite, PubMatic, Index Exchange, Xandr)
+
+•
+
+Google Ad Manager (GAM) reporting, Data Transfer files, and BigQuery exports
+
+• Prebid Analytics adapters and bid stream data
+
+• Mobile measurement platforms (AppsFlyer, Adjust, Kochava) for app monetization data
+
+• Real-time bidding (RTB) log files and auction data
+
+Data Models & Metrics:
+
+• Revenue metrics: CPM, eCPM, RPM, fill rate, win rate, bid density
+
+• Auction analytics: bid landscape, floor
+
+optimization, timeout analysis
+
+• Demand partner performance: SSP/bidder
+
+•
+
+scoring, latency analysis
+
+Supply chain data: ads.txt validation, sellers.json mapping, SPO analysis
+
+Nice to Have
+
+•
+
+Experience with ML feature engineering for bid
+
+•
+
+optimization or yield prediction
+
+Background in building data products for
+
+publisher-side monetization
+
+• Familiarity with privacy-preserving data techniques
+
+(differential privacy, clean rooms)
+
+• Experience with CTV/OTT advertising data and
+
+video ad metrics
+
+• Knowledge of identity resolution and cross-device data challenges
+
+Your day-to-day in this position:
+
+•
+
+Design and build scalable data pipelines for
+
+processing bid stream, impression, and revenue
+
+data from programmatic sources
+
+• Ingest and normalize data from multiple SSPs, DSPs, ad servers (GAM), and third-party reporting APIs
+
+• Build real-time and batch processing systems for auction analytics, win rate analysis, and bid
+
+landscape modeling
+
+• Develop ETL/ELT workflows to transform raw programmatic data into analytics-read datasets • Create data models for yield optimization, floor price analysis, and demand partner performance • Build and maintain data warehouses and lakes optimized for ad-tech query patterns
+
+• Implement data quality monitoring, validation, and anomaly detection for programmatic data streams • Support BI and analytics teams with clean, documented, and performant data infrastructure • Ensure data privacy compliance (GDPR, CCPA) in data collection, storage, and processing
+
+Why work with us?:
+
+•
+
+People-first management with minimal
+
+bureaucracy
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

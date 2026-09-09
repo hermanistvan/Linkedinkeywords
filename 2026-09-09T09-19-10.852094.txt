@@ -1,0 +1,55 @@
+10:51
+
+← Q data science
+
+il (8
+
+What We're Looking For:
+
+• Proven commercial track record (3-6+ years) in applied Data Science, Machine Learning, and Python software engineering.
+
+• Strong ensemble background combining deep ML/DL fundamentals with practical depth in Graph Al and modern NLP/LLM engineering.
+
+•
+
+Consultant mindset: proactive problem solver who thrives in fast-changing frontier environments, embraces ambiguity, and communicates complex Al logic clearly.
+
+• Solid experience in system observability, model
+
+drift monitoring, data lineage, and reproducible ML workflows.
+
+Must-Haves:
+
+• 3-6+ years of production Python software engineering experience.
+
+• Strong grounding in Core ML, Deep Learning, and experiment design.
+
+• Hands-on experience building RAG architectures, retrieval/search systems (lexical, vector, hybrid), and agentic workflows.
+
+•
+
+Exposure to knowledge graph modeling, graph databases (e.g., Neo4j), and graph representation learning/GNNs.
+
+• Familiarity with cloud environments (Azure, AWS, or GCP) and CI/CD practices.
+
+• Excellent English communication skills for daily cross-functional collaboration.
+
+Location & Working Setup:
+
+• 100% Remote working model (Candidates must be living and working within the EU)
+
+• US Hours overlap needed: Minimum 2:00 PM - 6:00 PM CET (Preferred 2:00 PM - 7:00 PM CET). • Availability for quarterly 1-3 day team workshops/ gatherings in Prague (all travel and accommodation expensed).
+
+Ready to build the intelligence and architectures that define next-generation Al platforms? Apply today or send your CV directly to get started!
+
+Riasztás beállítása hasonló állásokhoz
+
+Data Scientist, Hungary
+
+Ki
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

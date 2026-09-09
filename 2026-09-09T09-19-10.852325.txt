@@ -1,0 +1,71 @@
+10:34
+
+← Q data science
+
+These are the essentials you'll need to get an interview
+
+27
+
+• Direct experience building mixed-method behavioural insight systems - you've built the layer where quantitative behaviour and qualitative evidence come together, not just consumed the output. You've worked alongside design or UX researchers, and can name a time the qualitative read changed what you measured.
+
+•
+
+—
+
+Hands-on event and telemetry schema design — Pendo, Amplitude, Segment, Mixpanel or
+
+equivalent. You designed the schema and wrote the spec, not used dashboards someone else built.
+
+• Designing and governing product data models and taxonomies - canonical metrics and naming
+
+taken into a multi-product estate and made to stick, including acquired products.
+
+• Data governance practice: schema and field ownership, versioned change control, standards adoption across teams you don't own.
+
+• Fluency in SQL and the BI / warehouse layer - you
+
+•
+
+•
+
+build and validate roll-up logic yourself.
+
+Behavioural segmentation judgement — you know
+
+why a B2B account is a mix of people with
+
+different motivations, and why averaging them produces confident, wrong conclusions.
+
+The credibility to influence without authority - you can hold a standard with teams you don't line-manage.
+
+It would be great if you had these too, but we'll support you if you don't
+
+• Hands-on behavioural analytics and synthesis practice — running the analysis yourself, not only building what enables it.
+
+•
+
+Privacy and lawful basis as live design constraints - pseudonymisation, residency, re-identification.
+
+controls.
+
+• GRC, governance or regulated-software domains. • Salesforce, Jira Product Discovery, Pendo, and consolidating fragmented tooling into one system
+
+of record.
+
+―
+
+• Product value / ROI measurement - connecting behaviour to commercial outcomes.
+
+How We'll Assess This
+
+We ask everyone to write SQL and design an event schema, and to talk us through a time qualitative evidence contradicted their numbers. No
+
+take-home longer than an hour.
+
+Here's where this role goes next
+
+We're building this function, not maintaining it. You
+
+Jelentkezés
+
+Mentés
