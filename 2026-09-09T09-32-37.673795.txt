@@ -1,0 +1,65 @@
+13:37 •
+
+X
+
+Senior Data Engineer
+
+72
+
+ས
+
+Dynata⚫ Hungary (Remote)
+
+REQUIRED QUALIFICATIONS
+
+‣ 5+ years of data engineering experience with a track record of enterprise-scale delivery
+
+►
+
+Expert proficiency in Python and SQL; PySpark experience required
+
+▸ Hands-on experience with Apache Spark, Delta Lake, or Apache Iceberg
+
+►
+
+Experience with orchestration tools: Apache Airflow, Prefect, or Dagster
+
+▸ Strong knowledge of cloud data services: AWS Glue, Azure Data Factory, GCP Dataflow
+
+►
+
+Proficiency with version control (Git), CI/CD pipelines, and containerization (Docker/ Kubernetes)
+
+▸ Experience with dbt (data build tool) for transformation layer management
+
+Bachelor's degree in Computer Science, Engineering, or related technical field
+
+PREFERRED QUALIFICATIONS
+
+▸ Experience with Databricks, Snowflake, or Apache Hudi
+
+▸ Knowledge of streaming architectures and Apache Kafka
+
+ས
+
+Certifications: Databricks Certified Data Engineer, AWS Data Analytics Specialty
+
+At Dynata, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve. Dynata welcomes and encourages applications from people with disabilities. We are committed to an inclusive work culture for all our employees. Accommodations by request can be made for all aspects of the selection process.
+
+Riasztás beállítása hasonló állásokhoz
+
+Senior Data Engineer, Hungary
+
+Ki
+
+즈
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Dynata
+
+3% alkalmazotti létszám növekedése
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

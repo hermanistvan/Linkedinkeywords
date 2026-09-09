@@ -1,0 +1,81 @@
+13:23 •
+
+X
+
+Senior Image Sensor Software Engineer Larkin Lane Films, LLC Budapest, Budapest, H...
+
+Qualifications
+
+Required
+
+•
+
+67
+
+• Master's degree in Electrical Engineering, Imaging Science, Computer Vision, Applied Physics, or a closely related field.
+
+•
+
+Five to seven years of professional experience in image sensor engineering, computational photography, or camera systems development, with hands-on contributions to shipped products. • Solid hands-on experience with iOS camera APIs (AVFoundation, AVCaptureSession, RAW capture, DNG output) and Android Camera2 / CameraX.
+
+•
+
+Working knowledge of image sensor physics: photon transfer curves, full-well capacity, read noise, dark current, quantum efficiency, and Bayer CFA design.
+
+• Solid grounding in color science: CIE XYZ, SRGB, camera RGB, chromatic adaptation, and ICC/DNG color profiles.
+
+• Proficiency in image processing fundamentals: demosaicing, denoising, HDR, tone mapping, and artifact correction.
+
+• Strong programming skills - Python (NumPy, OpenCV, scikit-image, rawpy) and Swift or Kotlin/ Java for mobile development; C/C++ for performance-critical modules.
+
+• Experience with exposure and ISO optimization to maximize dynamic range and SNR across a wide spectral range.
+
+•
+
+Ability to handle confidential and pre-patent technical material with discretion, and to follow the Company's IP and data-handling policies rigorously.
+
+• Fluency in English (written and spoken); able to work full-time in Budapest, Hungary.
+
+Strongly Preferred
+
+• PhD in a relevant research area.
+
+• Demonstrated experience in sensor calibration using mathematical optimization such as Levenberg-Marquardt, bundle adjustment, or non-linear least-squares (e.g., OpenCV calibrateCamera).
+
+• Experience with hyperspectral or multispectral imaging systems, spectral reconstruction, or spectral unmixing.
+
+• Familiarity with SLAM (e.g., ORB-SLAM, ARKit / ARCore) for self-supervised pose estimation and dynamic calibration.
+
+• Background in medical imaging, clinical image quality standards, or FDA / CE-regulated imaging device development.
+
+Compensation
+
+In accordance with Hungary's implementation of the EU Pay Transparency Directive (Directive (EU) 2023/970):
+
+•
+
+Salary range: HUF 2,000,000 – HUF 2,500,000
+
+gross per month, depending on experience and
+
+demonstrated technical depth.
+
+•
+
+Discretionary performance bonus, with details
+
+discussed with shortlisted candidates.
+
+Statutory and customary Hungarian benefits.
+
+Compensation decisions are made on the basis of objective, gender-neutral criteria, including relevant experience, technical skills, scope of responsibility, and demonstrated performance. The Company does not request salary history during the recruitment process.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

@@ -1,0 +1,49 @@
+13:24 O
+
+•
+
+← Q data science
+
+67
+
+Requirements
+
+• Background in data DevOps engineering with a minimum of 3 years of practical experience • Knowledge of Azure DevOps CI/CD pipelines, Terraform, and deployment strategies for large infrastructures
+
+• Expertise in deploying Databricks workflows using Databricks Asset Bundles
+
+•
+
+Competency in developing data pipelines on Azure Databricks with Spark
+
+• Capability to design and sustain scalable data platforms for large-scale consumers
+
+• Proficiency in Python programming
+
+• Skills in collaboration to work effectively with architects and other technical professionals English competency at an intermediate level or higher
+
+Nice to have
+
+• Experience in creating preliminary prototypes for new product functionalities
+
+• Background in designing data set processes for governance, production, and data modeling
+
+•
+
+Familiarity with multiple programming languages and tools for seamless system integration
+
+We offer
+
+• Dynamic, entrepreneurial corporate environment • Diverse multicultural, multi-functional, and
+
+multilingual work environment
+
+• Opportunities for personal and career growth in a progressive industry
+
+• Global scope, international projects
+
+• Widespread training and development opportunities
+
+Jelentkezés
+
+Mentés

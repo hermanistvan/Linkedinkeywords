@@ -1,0 +1,67 @@
+13:19 O
+
+← Q data science
+
+Il66
+
+What we're looking for
+
+• Experience managing a team of data engineers, with accountability for their delivery, growth, and performance.
+
+• Enough technical depth to be respected by strong engineers. You can interrogate a streaming architecture, spot the wrong trade-off in a data model, and recognise when the information you've been given doesn't add up.
+
+• A background building and operating data platforms at scale: medallion architecture, event streaming, warehousing, and transformation frameworks like dbt, ideally where the data directly drives revenue or customer-facing data products. Experience coaching engineers across a wide
+
+•
+
+seniority range, including retaining and stretching Staff-level talent.
+
+• Exposure to machine learning. You've directly managed or supported ML engineers, understand the lifecycle of models in production, and can credibly lead an ML function as it grows. • Comfort operating with high autonomy. You resolve ambiguity rather than wait for it to be removed.
+
+Nice to have
+
+• Experience with payments, fintech, or other finance-related domains.
+
+• Familiarity with modern cloud data stacks. We work with technologies like Kafka, Snowflake, Firebolt, and dbt, though depth of engineering leadership matters more than any specific tool.
+
+•
+
+Experience with cloud providers and tooling like
+
+AWS, Terraform, and Kubernetes.
+
+• Familiarity with data mesh concepts. You
+
+understand domain-oriented ownership and treat data as a product, driving towards self-serve platforms.
+
+You may not like it here
+
+•
+
+•
+
+Primer is remote-first. There's no office to walk
+
+into for context or a read on how things are going, and that applies doubly when you're the one your team looks to for direction.
+
+The team is small and the surface is broad. You'll own everything from real-time streaming to warehouse modelling with a handful of engineers, and prioritisation calls will be yours to make and defend.
+
+• We keep the management layer thin. You won't have a large support structure above you removing obstacles, and you're expected to stay close enough to the technical work to lead it
+
+•
+
+credibly.
+
+The ML function is early. You'll be shaping it as it
+
+grows rather than inheriting something
+
+established, and that means ambiguity about scope, tooling, and direction is part of the job.
+
+A typical interview process
+
+• An initial intro call with a Talent Partner An interview with the Hiring Manager
+
+Jelentkezés
+
+Mentés

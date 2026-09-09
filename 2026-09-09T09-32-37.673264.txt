@@ -1,0 +1,111 @@
+13:42 •
+
+← Q data science
+
+73
+
+Required Skills & Experience
+
+8+ years of experience in Data Engineering, Data Architecture, or Cloud Data Solutions.
+
+Strong expertise in Google Cloud technologies, including:
+
+o BigQuery
+
+o Dataflow
+
+o Dataproc
+
+Classification: Internal
+
+o Cloud Composer
+
+o Pub/Sub
+
+o Cloud Storage
+
+o Looker
+
+o Vertex Al (preferred)
+
+| Strong understanding of:
+
+o Modern Data Warehousing
+
+o Lakehouse Architectures
+
+o Data Migration & Modernization
+
+o Real-time and Batch Data Processing
+
+o Data Governance and Security
+
+Proven track record supporting large deals, RFP
+
+responses, and technical solutioning.
+
+Strong communication and stakeholder
+
+management skills.
+
+Ability to operate independently and drive
+
+initiatives with minimal supervision.
+
+What We Are Looking For
+
+We value:
+
+Strong ownership and accountability.
+
+A proactive, "get things done" attitude.
+
+Flexibility to collaborate across global time zones when required.
+
+Client-first mindset.
+
+Ability to work under pressure and manage
+
+multiple priorities.
+
+Strong leadership presence and decision-making capability.
+
+Preferred Qualifications
+
+Google Professional Data Engineer Certification.
+
+Google Professional Cloud Architect Certification. Experience with AI/ML, GenAl, or Analytics
+
+solutions on GCP.
+
+Experience in consulting, managed services, or
+
+large-scale enterprise transformations.
+
+If you are an ambitious Google Cloud Data Architect
+
+who enjoys winning deals, shaping
+
+solutions, and taking end-to-end ownership, we'd love to hear from you.
+
+Az álláshirdető által megadott
+
+•
+
+követelmények
+
+5+ év munkatapasztalat: Google Cloud Platform
+
+(GCP)
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Google Cloud Data Architect, Hungary Ki
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

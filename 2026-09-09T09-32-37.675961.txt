@@ -1,0 +1,91 @@
+12:58. •
+
+← Q data science
+
+54
+
+Skills
+
+•
+
+Strong Python and solid SQL
+
+• Unstructured-data pipelines: transcripts, mail, chat, documents parsing, normalisation,
+
+•
+
+―
+
+deduplication
+
+Embedding / retrieval infrastructure: chunking strategies, vector stores (pgvector, OpenSearch, Pinecone-class), plus loading a graph store • API and connector integration at scale: Google Workspace/M365, Slack, CRM; rate limits, pagination, incremental cursors, webhooks
+
+• Entity resolution / record linkage (deterministic + fuzzy) without a clean shared key
+
+• Orchestration: Airflow, Step Functions or equivalent; idempotent, restartable jobs
+
+• AWS and/or GCP data stack; comfortable in a private / VPC deployment
+
+• PII detection, redaction, encryption and retention in practice
+
+• Clear written English; documents for handover and works well async in a small distributed pod
+
+•
+
+•
+
+Knowledge
+
+GDPR applied to employee-generated data (mail,
+
+chat, meeting recordings) and EU data residency
+
+across multiple jurisdictions
+
+Data lineage, provenance and audit patterns — and why an Al system needs them more, not less
+
+• How retrieval quality depends on ingestion quality
+
+—
+
+– enough understanding of RAG to make the right
+
+upstream choices
+
+• Well-Architected security and cost practice; awareness of financial-services expectations - a
+
+plus
+
+Experience
+
+• 4+ years in data engineering, with real unstructured / semi-structured work (not only warehouse modelling)
+
+• Demonstrated experience integrating many third-party APIs into one coherent store, including historical backfill
+
+• Experience building pipelines feeding an LLM/ retrieval system - strong plus
+
+• Experience handling sensitive personal data in a regulated or security-sensitive environment
+
+•
+
+Comfortable being the only data engineer on a
+
+small (2.5-FTE) pod, at part-time allocation,
+
+without hand-holding
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Engineer (UA/RU Language
+
+speaking), Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés
+
+Jelentkezés
+
+Mentés

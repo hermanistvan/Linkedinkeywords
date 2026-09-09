@@ -1,0 +1,37 @@
+13:38 •
+
+← Q data science
+
+72
+
+Requirements
+
+• 4+ years in a team lead, principal engineer, or management role leading engineers (local and/or remote teams)
+
+•
+
+5+ years as a hands-on data engineer with recent, demonstrated experience in modern tech stacks • Direct experience in change management, scaling teams, remote / hybrid onsite team coordination • Significant production experience with the
+
+•
+
+Databricks Lakehouse on AWS - Unity Catalog, Delta Live Tables, Databricks SQL, and Databricks Workflows. Working knowledge of supporting AWS services (S3, IAM).
+
+• Deep expertise in data pipeline design, ingestion, transformation, quality assurance, and delivery • Professional experience in data-driven organizations with insights and ML/Al as core business functions
+
+―
+
+• Hands-on FinOps - owning compute spend,
+
+building cost visibility, and driving costoptimization initiatives
+
+• Working knowledge of data science, ML/AI operations, and model deployment pipelines
+
+Proforrod Qualifications
+
+Jelentkezés
+
+|||
+
+Mentés
+
+Г

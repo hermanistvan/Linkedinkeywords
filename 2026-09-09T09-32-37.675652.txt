@@ -1,0 +1,55 @@
+13:19 O
+
+← Q data science
+
+Il66
+
+Requirements
+
+• 2+ years building and shipping real production software - you've put your work in front of real
+
+users
+
+• Strong Python with hands-on experience building async REST APIs, FastAPI ideal (SQLAlchemy 2 async/asyncpg / Postgres a plus)
+
+•You've built at least one real agent or RAG application and understand embeddings, vector search, chunking, and prompting in practice • Comfortable across the stack - happy to jump into a React/TypeScript frontend as well as backend services
+
+•
+
+•
+
+Working knowledge of SQL / PostgreSQL and confident with Git-based team workflows
+
+Foundational AWS - you've deployed something and understand IAM roles and containers (Docker) • Genuine curiosity for Al and hunger to learn new tech fast - you want to build a career at the frontier of Al engineering
+
+• Strong written and verbal English, and you thrive in a fast-moving, fully remote team
+
+Nice to Have
+
+• Exposure to AWS Bedrock and agent frameworks such as LangChain/LangGraph
+
+• Async Python and WebSocket/SSE streaming • Frontend experience with React, TypeScript, Vite and MUI
+
+• Infrastructure-as-code (Terraform or
+
+CloudFormation) and CI/CD pipelines
+
+• Observability tooling such as CloudWatch, Grafana, or Prometheus
+
+Interviewing with Veeva
+
+We value your time and believe in a transparent hiring process. Here is the process you can expect.
+
+• Follow the application process and submit your
+
+resume.
+
+• Within 3 days, you will receive a link to a personality assessment administered by a third party.
+
+Once you complete the assessment, our team will review your full application package and follow up via email with our decision.
+
+• If moving to the interview stage, the process is as
+
+Jelentkezés
+
+Mentés

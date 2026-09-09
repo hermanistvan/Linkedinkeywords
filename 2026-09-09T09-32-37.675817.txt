@@ -1,0 +1,105 @@
+13:17 O
+
+← Q data science
+
+65
+
+•
+
+Required skills:
+
+4+ years of experience in data engineering or backend development, with a strong focus on building production-grade data pipelines. • 2-3+ years of experience working with AWS services (Administration of Redshift is a must), • Solid experience working with AWS services (Spectrum, S3, RDS, Glue, Lambda, Kinesis, SQS). • Proficient in Python and SQL for data transformation and automation.
+
+• Experience with dbt for data modeling and transformation.
+
+•
+
+Good understanding of streaming architectures
+
+and micro-batching for real-time data needs. • Experience with CI/CD pipelines for data workflows (preferably GitLab CI).
+
+• Familiarity with event schema validation tools/ solutions (Snowplow, Schema Registry).
+
+• Excellent communication and collaboration skills. Strong problem-solving skills-able to dig into data issues, propose solutions, and deliver clean, reliable outcomes.
+
+•
+
+A growth mindset-enthusiastic about learning
+
+new tools, sharing knowledge, and improving team practices.
+
+Tech Stack You'll Work With:
+
+• Cloud: AWS (Redshift, Spectrum, S3, RDS, Lambda, Kinesis, SQS, Glue, MWAA)
+
+• Languages: Python, SQL
+
+•
+
+Orchestration: Airflow (MWAA)
+
+• Modeling: dbt
+
+• CI/CD: GitLab Cl (including GitLab administration)
+
+• Monitoring: Datadog, Grafana, Graylog
+
+• Event validation process: Iglu schema registry
+
+• APIs & Integrations: REST, OAuth, webhook ingestion
+
+• Infra-as-code (optional): Terraform
+
+Bonus Points / Nice to Have:
+
+• Experience with additional AWS services: EMR,
+
+EKS, Athena, EC2.
+
+• Hands-on knowledge of alternative data
+
+•
+
+warehouses like Snowflake or others.
+
+Experience with PySpark for big data processing.
+
+•
+
+Familiarity with event data collection tools
+
+(Snowplow, Rudderstack, etc.).
+
+• Interest in or exposure to customer data platforms
+
+(CDPs) and real-time data workflows.
+
+Candidate journey: O Recruiter call → O
+
+Technical call with the hiring manager→ Meet
+
+the future stakeholders
+
+Check out some of our products
+
+―
+
+Muscle Booster - https://musclebooster.fitness/
+
+―
+
+Yoga-Go - https://yoga-go.io/
+
+WalkFit -http://walkfit.pro
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Data Engineer (Redshift), Hungary Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Welltech
+
+Jelentkezés
+
+Mentés

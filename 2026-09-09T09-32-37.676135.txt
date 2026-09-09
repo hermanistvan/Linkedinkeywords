@@ -1,0 +1,63 @@
+12:55 •
+
+← Q data science
+
+ill 52
+
+Dein Profil
+
+Wir suchen einen talentierten und erfahrenen Data Architect mit fundierter Expertise in
+
+Datenintegration, Datenmodellierung und Analytical Engineering. Der ideale Kandidat bringt sowohl technische Tiefe als auch bereichsübergreifende Kommunikationsfähigkeiten mit, bewegt sich souverän zwischen High-Level-Architekturdesign und praktischer Umsetzung und fühlt sich in kollaborativen, schnelllebigen Umgebungen mit einer Produkt-Denkweise für Daten wohl.
+
+Muss-Kriterien
+
+• Mindestens 5 Jahre Erfahrung in Datenarchitektur, Data Engineering oder einer eng verwandten Rolle • Ausgeprägte Kenntnisse in
+
+•
+
+Datenmodellierungstechniken: relational, dimensional (Kimball/Inmon) und Data Vault Praktische Erfahrung mit Datenintegrationstools und Frameworks (z. B. Apache Kafka, dbt, Spark, Talend oder ähnliche)
+
+• Fundiertes Verständnis von
+
+Cloud-Datenplattformen (AWS, GCP oder Azure) und modernen Data-Stack-Komponenten
+
+• Fortgeschrittene SQL-Kenntnisse
+
+•
+
+Vertrautheit mit Python oder Scala für
+
+Data-Engineering-Aufgaben
+
+• Nachgewiesene Fähigkeit,
+
+Geschäftsanforderungen in skalierbare Datenarchitekturlösungen zu übersetzen • Bereichsübergreifende
+
+Kommunikationsfähigkeiten
+
+• Fähigkeit, komplexe
+
+Datenarchitekturentscheidungen sowohl technischen als auch nicht-technischen Zielgruppen klar zu vermitteln
+
+Von Vorteil
+
+•
+
+•
+
+Erste Erfahrung mit ereignisgesteuerten
+
+Architekturen oder Echtzeit-Datenplattformen
+
+Erfahrung in agilen, wertstromorientierten
+
+Produktorganisationen
+
+• Vertrautheit mit Data-Mesh-Prinzipien und dezentralen Datenverantwortungsmodellen
+
+• Kenntnisse in Data-Governance-Frameworks und Metadaten-Management-Tools (z.B. Collibra, Alation, DataHub)
+
+Jelentkezés
+
+Mentés

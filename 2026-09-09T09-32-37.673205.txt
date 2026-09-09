@@ -1,0 +1,55 @@
+13:42 •
+
+← Q data science
+
+73
+
+We are looking for you if you
+
+•
+
+⚫ are a data architect with at least 6 years of
+
+hands-on coding experience (Java/Python and SQL).
+
+⚫ are comfortable working with modern public cloud data platforms (GCP, AWS, or Azure) across data warehousing, pipeline orchestration, streaming/ batch processing, and BI/transformation tools (e.g., BigQuery/Redshift/Snowflake, Airflow, dbt,
+
+•
+
+Looker/Tableau).
+
+have great communication skills in English and German (mandatory for client-facing tasks). • have experience working at an IT service or consultancy company, or have other external client-facing experience.
+
+•
+
+⚫ have hands-on, up-to-date knowledge in using agentic Al tools to build software solutions. • want to use your technical leadership skills to guide both our engineers and our clients' engineers on their cloud journey.
+
+•
+
+⚫ thrive in a collaborative environment, where you can take on a lead role to guide the data team in agile practices.
+
+⚫ are okay with onsite presence with the customer in Germany (approx. 3 days/month).
+
+Your diverse role will include
+
+•
+
+⚫ leading workshops with business users to understand the core requirements, what reports they need and why, and what the customers use the data for.
+
+• define the data platform roadmap with the client and collaborate with the team to build a backlog.
+
+•
+
+demonstrate the built solutions to the clients.
+
+•
+
+architecting and creating data pipelines, data
+
+platforms, and data warehouses on GCP.
+
+L
+
+Jelentkezés
+
+Mentés

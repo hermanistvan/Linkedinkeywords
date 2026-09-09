@@ -1,0 +1,77 @@
+13:29 •
+
+X
+
+Senior Azure Databricks Engineer Accenture Hungary • Budapest, Budapest, Hung...
+
+ill 69
+
+Who You Are - Required & Preferred Qualifications
+
+•
+
+5+ years of experience as a data engineer (or similar), with significant exposure to cloud-based data platforms and modern data architectures. • Proven hands-on experience building and managing data pipelines using Azure Databricks (PySpark + SQL) in real-world production environments.
+
+• Strong understanding and practical experience with data modeling, data warehousing / lakehouse architecture (e.g. dimensional modeling, star/ snowflake schemas, Delta Lake / Lakehouse). • Proven track record in data governance, metadata management, and ensuring data quality at scale. • Solid experience in performance optimization and troubleshooting of data processing jobs/ pipelines (Spark/Databricks).
+
+―
+
+Excellent programming and query skills — strong SQL, Python (or another relevant language); ability to write clean, efficient, maintainable code.
+
+• Strong analytical and problem-solving skills; ability to think at both micro (pipeline/job level) and macro (architecture/strategy) levels.
+
+• Excellent communication skills: able to explain complex technical issues to non-technical stakeholders, collaborate across teams, and influence architectural decisions.
+
+• Self-motivated, responsible, and capable of working independently and as a technical leader in a structured data platform environment.
+
+Preferred / Nice to Have:
+
+• Prior experience working in regulated domains or sectors with strong compliance requirements (e.g. Finance, Asset Management, Pensions).
+
+• Previous involvement in platform modernization or cloud migration projects.
+
+•
+
+Familiarity with additional big data /
+
+data-engineering tools and patterns beyond
+
+Spark / Databricks - streaming, real-time data ingestion, advanced orchestration, metadata tooling, monitoring & alerting.
+
+• Experience mentoring or leading smaller data engineering teams / peers; championing best practices, code reviews, architecture governance. • Familiarity with CI/CD for data workflows, preferably with Azure DevOps (or similar), including infrastructure-as-code (Terraform / ARM templates).
+
+• Experience with Azure Data Services such as ADF, ADLS, Synapse (or comparable cloud data
+
+services).
+
+• Employ infrastructure-as-code (e.g. Terraform or ARM templates) to provision, manage, and version cloud infrastructure and data platform resources.
+
+What We Offer For You
+
+• Participation in full-cycle and diverse international
+
+projects
+
+• Opportunity to work as a specialist or manager/
+
+•
+
+team lead
+
+Constant career development with internal
+
+mentorship
+
+• Access to a whole set of learning platforms, paid
+
+certifications
+
+• Flexible working conditions, home working is
+
+allowed
+
+• Attractive base salary & Wide range of benefits
+
+Jelentkezés
+
+Mentés

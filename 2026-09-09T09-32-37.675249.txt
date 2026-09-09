@@ -1,0 +1,95 @@
+13:21 O
+
+← Q data science
+
+Il66
+
+Ideal Candidate Profile:
+
+We are seeking a highly skilled, senior-level Data Engineer with extensive experience in cloud data platforms, data pipelines, and software engineering practices.
+
+Must-Have Skills & Experience:
+
+Databricks: Advanced PySpark, Spark SQL, Delta Lake, Unity Catalog, workload automation. Azure Data Factory: Pipeline creation, orchestration, parameterization, performance tuning
+
+SQL & Data Modelling: Strong analytical SQL, window functions, performance optimization Python: Production-quality code, modular design, testing, reusable libraries
+
+Software Engineering: Version control (Git), pull requests, code reviews, structured development CI/CD: Azure DevOps pipelines, environment promotion automation
+
+Data Pipeline Testing: Validation, unit/integration testing, data quality assurance
+
+Documentation & Maintainability: Clear,
+
+well-structured code with comprehensive
+
+documentation
+
+Strongly Preferred Skills:
+
+Al-assisted development tools such as GitHub
+
+Copilot or similar
+
+Al-capable Databricks features (e.g., Genie, Mosaic
+
+Al, dashboards)
+
+DataOps practices, Infrastructure-as-Code
+
+(Terraform, Bicep, DABs)
+
+Prompt engineering for Al workflows
+
+Containerization (Docker) and basic Kubernetes
+
+knowledge
+
+Power BI reporting, Azure gateway configuration
+
+Nice-to-Have Skills:
+
+Basic geoscience domain knowledge (drillhole,
+
+geochemistry data)
+
+Workflow orchestration tools such as Argo
+
+Workflows
+
+Data governance, metadata management, lineage
+
+tracking
+
+Why Join Us?
+
+This is an excellent opportunity to contribute to a cutting-edge geoscience data platform within a global leader in mining. You'll work in a
+
+collaborative environment, utilizing the latest cloud and Al technologies, and have the chance to influence data-driven decision-making at a strategic level.
+
+Az álláshirdető által megadott
+
+követelmények
+
+•
+
+3+ év munkatapasztalat: PySpark
+
+• 3+ év munkatapasztalat: SQL
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Data Platform Engineer, Hungary
+
+즈
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: HCLTech -
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

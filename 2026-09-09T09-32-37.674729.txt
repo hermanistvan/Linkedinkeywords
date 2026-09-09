@@ -1,0 +1,79 @@
+13:24 O
+
+•
+
+← Q data science
+
+67
+
+What You Will Bring:
+
+• 5+ years of experience in data engineering or a related role
+
+• Experience with AWS Glue, Amazon Redshift, AWS
+
+•
+
+Lambda, AWS Step Functions, Amazon S3, Amazon SNS
+
+Experience implementing CDC solutions
+
+• Strong understanding of Medallion Architecture and modern data lake concepts
+
+• Strong knowledge of Python/PySpark
+
+•
+
+•
+
+•
+
+Expertise in SQL and experience optimizing large-scale queries
+
+Good understanding of IAM, security, and
+
+cloud-native AWS services
+
+Familiarity with data warehousing concepts and technologies
+
+• Experience with data integration and
+
+transformation tools
+
+What Would Be Nice To Have:
+
+• Experience with Infrastructure as Code (Terraform or CloudFormation)
+
+•
+
+Knowledge of data governance and data quality frameworks
+
+• Experience with streaming/event-driven
+
+architectures
+
+• AWS certifications
+
+About Your Contract:
+
+• 40 hours/week
+
+• Full-time, indefinite contract
+
+• Location: Budapest, Hungary
+
+• Hybrid working model with 2-3 office days per week
+
+•
+
+Occasional travel to customer locations across Europe
+
+• Onboarding and acclimatization period provided
+
+Egyszerű
+
+in
+
+jelentkezés
+
+Mentés

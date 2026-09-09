@@ -1,0 +1,89 @@
+13:20 •
+
+← Q data science
+
+Il66
+
+Dein Profil
+
+Wir suchen einen qualifizierten Data Engineer mit ausgeprägter Expertise in modernen
+
+Data-Engineering-Tools, Cloud-Technologien und der Entwicklung von Datenpipelines sowie einem soliden Bildungshintergrund in Informatik, Ingenieurwesen oder verwandten Bereichen. Der ideale Kandidat verfügt über umfangreiche Erfahrung im Aufbau skalierbarer Datenlösungen, der Sicherstellung von Datenqualität und der Zusammenarbeit mit funktionsübergreifenden
+
+Teams.
+
+Muss-Kriterien
+
+• Bachelor- oder Master-Abschluss in Informatik, Ingenieurwesen, Informationstechnologie, Naturwissenschaften, Mathematik, Wirtschaft oder gleichwertige Berufserfahrung im IT-Bereich • Ausgeprägte Expertise in modernen Data-Engineering-Tools und -Technologien, einschließlich DeltaLake, SQL, Python, Tableau, QuickSight, Kafka, Apache Flink, Apache Doris, Superset und Schema Registry für Datenverarbeitung, Analytik und Visualisierung Erfahrung im Design und Aufbau skalierbarer ETL/ ELT-Datenpipelines, die Daten aus mehreren Systemen extrahieren, transformieren und in zentralisierte Data Warehouses oder Data Lakes laden, während Zuverlässigkeit und Performance sichergestellt werden
+
+• Praktische Kenntnisse in der Integration von Daten aus verschiedenen Quellen wie Datenbanken, APIs, Streaming-Plattformen und
+
+NoSQL-Systemen unter Verwendung von Tools
+
+wie MongoDB Atlas, Debezium und Kafka Connect
+
+für CDC und Echtzeit-Datenstreaming
+
+• Fähigkeit, Daten-Workflows zu automatisieren und zu optimieren, die Pipeline-Gesundheit zu überwachen und Infrastruktur- oder Verarbeitungsprobleme zu beheben, um kontinuierliche, effiziente und leistungsstarke Datenoperationen sicherzustellen
+
+• Ausgeprägte Fähigkeiten in Datenmodellierung und Datenarchitektur, einschließlich des Designs von Schemas, der Aufrechterhaltung von Datenkonsistenz und der Implementierung skalierbarer Speicherlösungen für großangelegte
+
+Analyseumgebungen
+
+• Expertise im Datenqualitätsmanagement,
+
+einschließlich Validierung, Bereinigung,
+
+Harmonisierung und Governance-Praktiken, um
+
+genaue, konforme und vertrauenswürdige Datensätze über Systeme hinweg sicherzustellen • Solides Verständnis von Cloud- und
+
+Infrastruktur-Engineering, insbesondere
+
+AWS-basierte Compute- und
+
+Speicherumgebungen, mit Erfahrung in der
+
+Optimierung von Skalierbarkeit, Zuverlässigkeit, Sicherheit und Kosteneffizienz
+
+• Praktische Erfahrung mit Containerisierung und Infrastructure-as-Code-Technologien wie Docker, Kubernetes und Terraform zur Bereitstellung, Verwaltung und Automatisierung skalierbarer Infrastrukturumgebungen
+
+• Kenntnisse in Sicherheits-, Compliance- und Zugriffsverwaltungspraktiken, einschließlich
+
+RBAC, IAM, Verschlüsselung, Anonymisierung und Einhaltung von Vorschriften wie GDPR und CCPA • Ausgeprägte Kollaborations- und Betriebsfähigkeiten, einschließlich enger Zusammenarbeit mit Analysten, Data Scientists und Stakeholdern, während du mehrere Prioritäten managst und über neue Trends und Best Practices im Data Engineering auf dem Laufenden bleibst • Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten in englischer Sprache • Kenntnisse in Jira und Confluence
+
+Von Vorteil
+
+•
+
+Erfahrung in der Arbeit in SAFe-Umgebungen
+
+• Deutschkenntnisse
+
+Über uns
+
+Als attraktivster Arbeitgeber Ungarns 2025 (laut repräsentativer Umfrage von Randstad) ist Deutsche Telekom IT Solutions eine Tochtergesellschaft der Deutsche Telekom Gruppe.
+
+Das Unternehmen bietet mit mehr als 5300
+
+Mitarbeitern ein breites Portfolio an IT- und Telekommunikationsdienstleistungen. Wir haben
+
+Hunderte von Großkunden und Unternehmen in Deutschland und anderen europäischen Ländern.
+
+DT-ITS erhielt 2019 den Best in Educational
+
+Cooperation Award von HIPA und wurde als
+
+ethischstes multinationales Unternehmen 2019
+
+anerkannt. Das Unternehmen entwickelt seine vier
+
+Standorte in Budapest, Debrecen, Pécs und Szeged
+
+kontinuierlich weiter und sucht qualifizierte IT-Fachkräfte, die Teil des Teams werden möchten.
+
+Weitere Details
+
+Bitte beachte, dass unsere
+
+Remote-Work-Möglichkeit aufgrund europäischer Steuervorschriften nur innerhalb Ungarns verfügbar

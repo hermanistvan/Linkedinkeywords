@@ -1,0 +1,139 @@
+13:22 O
+
+•
+
+← Q data science
+
+67
+
+0:
+
+What Success Looks Like
+
+•
+
+Platform architecture is well-defined, scalable, and consistently implemented across all components • Complex SQL and Python pipelines you build serve as reference implementations and team standards • Architectural decisions accelerate team delivery and reduce technical debt
+
+• Complex issues are resolved permanently through architectural fixes, not workarounds
+
+•
+
+Data flows efficiently through well-governed, well-structured architecture layers
+
+• Infrastructure is robust, scalable, and fully automated through Infrastructure as Code (laC) • CI/CD and infrastructure processes are architected for reliability, speed, and auditability • Senior and Junior engineers grow under your mentorship and adopt your engineering standards • Platform capabilities continuously evolve in performance, maturity, and self-service enablement
+
+What You Need To Be Successful
+
+―
+
+• Expert-level SQL development skills - capable of authoring complex transformations,
+
+performance-tuning queries, and defining SQL development standards for the team
+
+―
+
+• Expert-level Python development skills - capable of building production-grade pipeline frameworks, utilities, and data processing logic
+
+• Deep experience with PostgreSQL, relational databases, and SQL-based transformation logic •Extensive experience architecting and building data pipelines, ETL/ELT, and data processing workflows end-to-end
+
+• Experience architecting, implementing, and governing Infrastructure as Code using tools such as Terraform, Pulumi, ARM/Bicep,
+
+CloudFormation, or similar
+
+• Deep experience with PySpark, Spark, Databricks,
+
+or distributed data processing at scale
+
+•Extensive hands-on experience with cloud platforms (AWS, Azure, Databricks) at an
+
+architectural level
+
+• Proven ability to design, implement, and govern CI/ CD pipelines and DevOps practices at enterprise
+
+scale
+
+• Strong experience with Git workflows, branching strategies, and source control governance
+
+• Advanced troubleshooting, performance engineering, and optimization skills
+
+• Deep experience designing, building, and troubleshooting APIs and complex data integration patterns
+
+• Experience designing highly available, fault-tolerant distributed systems at enterprise
+
+scale
+
+• Strong understanding of data governance, metadata management, lineage, and data quality
+
+architectures
+
+Experience with streaming and event-driven
+
+architectures
+
+• Demonstrated ability to mentor, lead, and elevate engineering teams through technical authority and
+
+hands-on contribution
+
+Bonus Points if You Have
+
+Experience architecting enterprise-scale
+
+Lakehouse platforms using Databricks, Delta Lake, Unity Catalog, and Delta Live Tables (DLT)
+
+• Experience with real-time and event-driven data architectures using Kafka, Event Hubs, Kinesis, or similar streaming technologies
+
+• Experience implementing data observability, lineage, and monitoring platforms (e.g., Monte Carlo, Datafold, OpenLineage, Unity Catalog) • Experience designing and enforcing DataOps practices, data contracts, and domain-oriented data ownership models
+
+• Experience with containerization and orchestration technologies such as Docker and Kubernetes
+
+• Experience building platform engineering capabilities including self-service infrastructure,
+
+reusable platform components, and internal developer platforms
+
+• Experience implementing enterprise security architectures including RBAC, secrets
+
+management, encryption, and zero-trust principles
+
+• Experience optimizing cloud cost, performance,
+
+and capacity planning for large-scale data
+
+platforms
+
+• Experience supporting AI/ML platforms, feature stores, model deployment infrastructure, or
+
+MLOps tooling
+
+• Experience with modern software engineering
+
+practices including test automation, platform reliability engineering, and Site Reliability Engineering (SRE) principles
+
+• Experience with metadata management, data catalogs, lineage, and governance frameworks • Experience leading large-scale platform modernization, cloud migration, or data platform transformation initiatives
+
+• Experience working in manufacturing, automotive,
+
+oply chain, loT, or other data-intensive
+
+enterprise environments
+
+• Contributions to open-source projects, technical publications, conference presentations, or recognized industry thought leadership
+
+• Bachelor's degree in Computer Science, Software Engineering, Information Systems, or related field; Master's degree preferred
+
+What We Offer
+
+• Work in international teams with the world's
+
+largest automotive manufacturers.
+
+—
+
+• Use HARMAN Flex - choose the right working
+
+•
+
+model fitting their job (Hybrid or Office)
+
+Access career development opportunities and get both on the job training on high-end automotive
+
+projects, as well as extensive technical trainings. • Access HARMAN Webshop with large employee

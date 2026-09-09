@@ -1,0 +1,55 @@
+13:16 O
+
+Q data science
+
+65
+
+What We're Looking For
+
+✓ 7+ years of hands-on Python software engineering experience.
+
+✔ Strong software engineering fundamentals across architecture, APIs, database design, testing and maintainable application development. ✔ Experience building production-grade
+
+applications using FastAPI, Flask, Airflow or similar technologies.
+
+✔ Proven experience using Al coding assistants while retaining ownership of engineering quality. ✔ 2+ years of hands-on experience building Generative Al solutions.
+
+✔ Ability to independently translate complex requirements and ideas into working software. Particularly Valuable
+
+Hands-on experience with LLMs and Al Agents. Retrieval-Augmented Generation (RAG)
+
+architectures.
+
+LangGraph, MCP and Agent SDKs.
+
+Vector databases and workflow orchestration. ✩Internal developer platforms and productivity tools.
+
+Enterprise automation.
+
+Experience building secure and governed Al solutions in complex enterprise environments.
+
+The Profile We're Looking For
+
+You're a builder first.
+
+You use Al as a force multiplier rather than a substitute for engineering expertise. You care about architecture, maintainability and code quality, but you're equally comfortable experimenting quickly and turning an idea into a practical solution.
+
+If that sounds like you, we'd like to hear from you. Apply with your updated CV.
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Software Engineer, Budapest, Hungary
+
+Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: XML
+
+International
+
+▲ 26% alkalmazotti létszám növekedése
+
+Jelentkezés
+
+Mentés
