@@ -1,0 +1,63 @@
+10:31
+
+← Q data science
+
+Essential technical experience:
+
+• Strong Python/software engineering background • Commercial experience building production LLM-powered products or systems
+
+• Deep hands-on RAG/retrieval engineering experience
+
+• Vector databases and semantic search
+
+• Hybrid and multi-stage retrieval
+
+•
+
+Reranking techniques
+
+•
+
+Retrieval evaluation against ground truth
+
+• Prompt and context engineering
+
+• REST APIs
+
+• CI/CD and production deployment
+
+Experience with any of the following would be particularly valuable:
+
+•
+
+Graph databases / GraphRAG
+
+• LangGraph or similar orchestration frameworks
+
+• Multi-agent systems
+
+• Tool calling
+
+• MCP
+
+• State management
+
+• Al observability/evaluation platforms
+
+•
+
+Shared Al infrastructure or Al platforms
+
+We're particularly interested in engineers who have worked within product-led technology
+
+environments, where you've owned Al capabilities beyond the initial prototype and seen how they behave with real users and real production data. You might currently be working for an Al product company, SaaS business or product engineering organisation, or you may have come from consulting and now want the opportunity to own one Al product deeply rather than moving between short-term customer projects.
+
+Either way, we're looking for someone who thinks like a product engineer: build it, measure it,
+
+understand why it failo improve it and own tho
+
+Jelentkezés
+
+Mentés
+
+8

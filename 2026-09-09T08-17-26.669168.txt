@@ -1,0 +1,77 @@
+10:17
+
+← Q data science
+
+12
+
+•
+
+Responsibilities
+
+Design, develop, and deploy innovative Generative Al and Agentic Al solutions from proof of concept to full enterprise production.
+
+• Build and maintain robust pipelines for LLM-based applications, including data processing and retrieval-augmented generation (RAG).
+
+• Implement AgentOps practices to automate the lifecycle of Al agents and LLM applications.
+
+• Collaborate with Product Owners to translate functional requirements into robust technical specifications.
+
+• Ensure the reliability, observability, and compliance of deployed Al solutions through robust
+
+monitoring and tracing.
+
+• Guide and mentor junior colleagues to foster Al engineering excellence across teams (SENIOR ONLY)
+
+What You Bring
+
+•
+
+Degree in computer science or a similar field. • 4+ Years in Software Engineering
+
+•
+
+Proven hands-on experience in developing and deploying LLM applications.
+
+• Advanced coding skills in Python (preferred) or Java, with a solid understanding of software
+
+•
+
+engineering principles.
+
+Experience with backend frameworks (e.g.,
+
+FastAPI, Flask, Django) and building microservice architectures.
+
+• Practical experience with generative Al
+
+frameworks like LangChain
+
+• Familiarity with AgentOps tools such as
+
+LangSmith, LangFuse, or MLflow for tracing and observability.
+
+• Experience implementing CI/CD pipelines in cloud environments (e.g., Azure, AWS) using tools like Docker, Kubernetes, and GitHub Actions.
+
+• Understanding of Agile, SAFe methodologies and collaborative engineering practices (SENIOR
+
+•
+
+ONLY)
+
+Fluent English and a proactive, problem-solving mindset.
+
+Nice To Have But Not a Must
+
+• Familiarity with SAP AI Core, SAP BTP • Experience with agile frameworks (e.g., Scrum, SAFe) and project management tools (e.g., Jira). • Experience with Agentic Al Frameworks (e.g., LangGraph, CrewAl, Microsoft Agent Framework)
+
+These skills are a plus. If you don't have experience in all these areas, we'll provide the resources and training you need to become a leader in
+
+cutting-edge Al technologies.
+
+Where You Beong
+
+CFA is central to making SAP a truly data-driven
+
+Jelentkezés
+
+Mentés

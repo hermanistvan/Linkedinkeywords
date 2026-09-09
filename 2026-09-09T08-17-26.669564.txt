@@ -1,0 +1,53 @@
+10:12
+
+← Q data science
+
+13
+
+What You'll Bring
+
+• Master's degree or higher in Computer Science, Engineering, or a related technical field from a top-tier institution.
+
+•
+
+5+ years of experience as a Python developer, with
+
+a strong focus on data engineering and AI/ML
+
+systems.
+
+• Expert-level knowledge of Python and its ecosystem, including experience with data processing libraries like Pandas, NumPy, and PySpark.
+
+•
+
+Proficiency in designing and implementing
+
+scalable, maintainable, and efficient data pipelines. Experience with cloud platforms (AWS, GCP, or Azure) and containerization technologies (Docker, Kubernetes).
+
+• Expertise in version control systems (Git), CI/CD practices, and agile methodologies.
+
+• Strong communication skills with the ability to explain complex technical concepts to both
+
+technical and non-technical stakeholders.
+
+• Experience in the finance industry is a plus but not required.
+
+• Experience with AI/ML frameworks such as
+
+PyTorch, or scikit-learn, LLM, agents or systems of agents is a significant plus.
+
+What We Offer
+
+•
+
+•
+
+Competitive compensation package
+
+Core benefits include: premium private health insurance and life insurance with savings plan
+
+• Support for every aspect of life through Employee Assistance Program and fully covered sick leave • Strong culture of learning and development: training courses, library, guest speakers, share and learn events, global conferences
+
+Jelentkezés
+
+Mentés

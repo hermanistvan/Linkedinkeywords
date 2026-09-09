@@ -1,0 +1,45 @@
+10:03
+
+← Q data science
+
+What We Are Looking For
+
+We are definitely looking for you, if you recognize yourself in the following lines:
+
+◆ University degree in Financial Mathematics, Actuarial Sciences, Econometrics, Physics or related discipline
+
+◆ Affinity with mathematical modelling. Ideally, practical knowledge of financial derivatives, including the techniques to price them
+
+◆ Attention to detail, good analytical and communication skills in English, both oral and
+
+written
+
+16
+
+◆ Practical and pro-active hands-on approach - you can combine rigorous mathematical thinking with a practical business flavour
+
+◆ Programming experience in Python and/or VBA is an advantage
+
+Your Main Responsibilities Will Include
+
+◆ Perform calibration of stochastic financial mathematical models of interest rates, equities, and FX rates, using current market data like swap prices, swaption volatility surfaces, equity indices, and FX rates
+
+◆ Generate interest rate curves and risk-neutral economic scenario sets for regulatory purposes (Solvency II, replicating portfolio for NN Group's SCR internal model, movement analysis and market-consistent valuations under IFRS 17)
+
+Calculate illiquidity premia (ILP) for market-consistent valuations under IFRS 17
+
+◆ Create non-standard risk-neutral and real-world scenario sets for pricing, ALM, ORSA and other regulatory purposes
+
+Maintain and enhance internal processes and end-user developed applications
+
+◆ Support the maintenance and development of the applied financial mathematical models
+
+Consult with users and stakeholders, including Business Units and Head Office of NN Group
+
+What Else We Can Offer
+
+◆ Opportunity to work from home and the office as
+
+well, based on your choice
+
+◆ Flexible working hours

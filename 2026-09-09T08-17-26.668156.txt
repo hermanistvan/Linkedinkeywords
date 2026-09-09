@@ -1,0 +1,67 @@
+10:20.
+
+←
+
+Q data science
+
+11
+
+Key Responsibilities
+
+• Develop Generative Al and Agentic Al solutions aligned with Lenovo's strategy and technical standards
+
+• Design and build Al architectures, inference engines, agents, and user interfaces
+
+• Deliver end-to-end Al systems using LLMs, SLMs, VLMS, and relevant frameworks
+
+• Integrate Al solutions into existing platforms, including cloud, on-premise, and edge
+
+environments
+
+• Select and implement Al tools and technologies to improve efficiency and scalability
+
+• Ensure security standards (encryption, access control, vulnerability management) across Al solutions
+
+• Apply AIOps and Al development best practices
+
+•
+
+for both experimentation and production
+
+Create technical documentation and support pre-sales activities (RFPs, solution design)
+
+Requirements
+
+• Bachelor's or Master's degree in Computer Science, Al, or related field
+
+• 5+ years of experience in Al/ML, data science, NLP, computer vision, or Generative Al
+
+• 2+ years of hands-on experience with end-to-end Generative Al solutions (multi-modal preferred) • Experience with LLM ecosystems (e.g., OpenAl, Anthropic, Llama, Hugging Face, Bedrock)
+
+• Familiarity with NVIDIA technologies (GPUS, CUDA, TensorRT) is an advantage
+
+• Strong understanding of cloud and on-prem environments, including Kubernetes/ containerization
+
+• Proven experience with MLOps / LLMOps / AlOps and CI/CD pipelines (e.g., Jenkins, GitLab)
+
+• Strong programming skills in Python, React, and scripting languages
+
+What We Can Offer You
+
+• An international team with a high focus on Gender Diversity.
+
+• Employee Assistance Program, e.g., for psychological, legal financial consultancy • You are joining a company that prioritizes sustainable solutions like CO2 Offset, Asset Recovery Services, and the Lenovo Certified Refurbished portfolio.
+
+•
+
+Access to training for personal development -
+
+Internal E-learning Development Platform
+
+Available for Employees
+
+• Mentorship program
+
+•...and many more!
+
+If you are passionate about Al development and eager to take on a challenging yet rewarding role

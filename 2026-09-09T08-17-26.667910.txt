@@ -1,0 +1,57 @@
+10:26
+
+← Q data science
+
+10
+
+What will make you successful?
+
+• Bachelor's or Master's degree in Computer Science, Al, Data Science, Engineering, or a related field (or equivalent experience).
+
+• 7+ years of experience in software engineering, Al, cloud, data engineering, or related technical
+
+domains, including 3+ years in a technical leadership role.
+
+• Strong programming frontend and backend development skills, preferably in Python, with experience building APIs and scalable applications.
+
+• Hands-on experience with Generative Al technologies, including LLMs, RAG, prompt engineering, vector search, and Al-powered workflows.
+
+• Experience developing and deploying cloud-native solutions, preferably on Microsoft Azure and Azure Al services.
+
+• Solid understanding of software engineering best practices, including testing, CI/CD, Git,
+
+observability, security, and production support. • Knowledge of MLOps/LLMOps, data engineering fundamentals, and secure application integration. Proven ability to deliver secure, scalable, production-ready solutions in Agile, cross-functional environments.
+
+•
+
+• Strong analytical, communication, collaboration, and mentoring skills.
+
+• Passion for innovation and emerging Al
+
+•
+
+technologies.
+
+Fluent English.
+
+What we offer you
+
+• Working at the world's only fully integrated
+
+aluminum and leading renewable energy company
+
+• Diverse, global teams
+
+• Flexible work environment/home office
+
+•
+
+•
+
+We provide you the freedom to be creative and to learn from experts
+
+Possibility to grow with the company, gain new certificates
+
+• Attractive benefit package
+
+Equal opportunities

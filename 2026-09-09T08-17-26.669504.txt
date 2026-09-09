@@ -1,0 +1,41 @@
+10:13
+
+← Q data science
+
+What we're looking for
+
+• Strong Python development skills (Java also considered)
+
+• Experience with FastAPI, Flask or Django • Background in microservices and distributed systems
+
+•
+
+Experience with Docker, Kubernetes and GitHub Actions
+
+• Hands-on experience with CI/CD and MLOps • Experience with cloud Al/data platforms such as Azure ML, Databricks or AWS
+
+• Experience with ETL, APIs and model deployment • Fluent English and a strong problem-solving mindset
+
+Nice to have
+
+• LangChain, CrewAI or other GenAl/multi-agent frameworks
+
+• SAP AI Core / SAP BTP
+
+• Scrum / SAFe experience
+
+Location & Working Model
+
+Sofia or Budapest - or nearby 1 day per week in the office
+
+in
+
+Egyszerű jelentkezés
+
+|||
+
+Mentés
+
+r
+
+13

@@ -1,0 +1,25 @@
+What We're Looking For:
+
+• Proven experience engineering robust Al solutions with a proactive, problem-solving consultant
+
+mindset.
+
+• Deep understanding of software engineering principles, distributed systems, and big data platforms.
+
+• Strong familiarity with Agile/SAFe methodologies and collaborative engineering practices.
+
+• Familiarity with multi-agent or generative Al frameworks (LangChain, CrewAI) and SAP AI Core is a strong plus.
+
+•
+
+Must-Haves:
+
+Advanced coding skills in Python (preferred) or Java, along with backend frameworks (FastAPI, Flask, Django).
+
+• Hands-on experience with containerization and orchestration tools (Docker, Kubernetes, GitHub Actions, MLFlow).
+
+• Solid experience implementing CI/CD and MLOps pipelines in cloud environments (Azure ML,
+
+Databricks, AWS).
+
+• Fluent English for daily communication.

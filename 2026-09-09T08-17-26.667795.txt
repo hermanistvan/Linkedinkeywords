@@ -1,0 +1,73 @@
+10:29
+
+← Q data science
+
+Your Skills And Experience That Will Help You Excel
+
+• 4-6 years of experience in roles that combine technology implementation with business/
+
+•
+
+operational problem-solving
+
+solutions
+
+engineering, forward deployed engineering,
+
+technical consulting, implementation engineering, or similar hybrid roles.
+
+Bachelor's degree in Computer Science, Data Science, Financial or Quantitative Engineering, or a related field - or equivalent practical experience. • Strong Python engineering skills, with SQL and PL/ SQL for data work and day-to-day Linux/Unix and Git; JavaScript/TypeScript a plus. You write and debug clean, production-quality code.
+
+Data pipeline, orchestration, and database
+
+—
+
+expertise - workflow engines (Airflow, Prefect), ETL/ELT, SQL and relational databases (Oracle, SQL Server, Azure SQL, Postgres), and big-data/ cloud storage (ADLS, Snowflake).
+
+―
+
+• Experience building market-data systems in a multi-asset-class environment - reference data, corporate actions, benchmark/index, and pricing; familiarity with major data vendors (LSEG/Refinitiv, Bloomberg, S&P) and with financial, ESG/ sustainability, or capital-markets data is an advantage.
+
+•
+
+Comfortable delivering production-quality
+
+software with Al coding assistants (Claude Code, Cursor, GitHub Copilot, or Codex) and working in Agile/DevOps teams with CI/CD and automated testing; familiarity with MCP or reusable Skills is a plus.
+
+―
+
+• Hands-on experience building Al/ML-powered solutions agent frameworks (LangGraph, CrewAl, or AutoGen), LLM APIs (Anthropic Claude, OpenAl), prompt engineering, RAG, and evaluation
+
+•
+
+—
+
+and deploying and monitoring agentic systems at scale, are strong advantages.
+
+Demonstrated success shipping products quickly
+
+―
+
+inside a tightly governed enterprise - meeting
+
+rigorous security, compliance, and change-control standards without sacrificing delivery speed. • Systems thinking and strong communication you design coherent end-to-end systems and explain technical decisions clearly to both engineers and non-technical stakeholders.
+
+About MSCI
+
+What we offer you
+
+• Salary range: HUF 16,150,000 - HUF 17,765,000/ year plus eligible for annual bonus
+
+• Transparent compensation schemes and
+
+comprehensive employee benefits, tailored to your location, ensuring your financial security, health,
+
+and overall wellbeing.
+
+• Flexible working arrangements, advanced
+
+technology, and collaborative workspaces. • A culture of high performance and innovation
+
+Jelentkezés
+
+Mentés

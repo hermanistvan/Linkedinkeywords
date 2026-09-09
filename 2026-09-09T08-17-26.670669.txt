@@ -1,0 +1,81 @@
+10:02 O
+
+← Q data science
+
+17
+
+The knowledge I own:
+
+•
+
+5+ years of professional experience in data engineering, analytics engineering, Bl engineering or a similar data-focused role
+
+• Strong SQL skills and experience writing complex queries involving joins, aggregations and
+
+performance optimization
+
+• Experience working with relational databases and large datasets
+
+• Solid understanding of data modeling concepts and relational data structures
+
+• Experience building data pipelines, ETL processes or analytical data models
+
+• Ability to translate business questions into data solutions and analytical models
+
+• Experience collaborating with business
+
+•
+
+stakeholders and participating in requirement workshops
+
+Practical experience using Git for version control and collaborative development
+
+• Experience working in an agile development environment
+
+•
+
+•
+
+Strong analytical thinking and the ability to understand relationships between complex datasets
+
+Growth-oriented mindset with willingness to learn new platforms and technologies
+
+• Comfortable working in an environment that
+
+•
+
+includes operational responsibility; on-call participation may be required later
+
+Nice-to-have:
+
+Experience with process mining platforms (e.g., Celonis, Signavio, UiPath)
+
+Experience working with ERP systems such as
+
+SAP or other enterprise systems
+
+• Experience with Python for data processing or machine learning
+
+• Experience designing analytical dashboards or BI solutions
+
+• Familiarity with large-scale enterprise data
+
+environments and real-time analytics
+
+• Experience working with event-based or
+
+process-oriented data models
+
+• Understanding of supply chain, finance or
+
+purchasing business processes
+
+AI/ML affinity:
+
+• Experience working with machine learning or
+
+Al-driven analytics use cases
+
+Jelentkezés
+
+Mentés

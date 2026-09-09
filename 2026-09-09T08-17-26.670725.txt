@@ -1,0 +1,77 @@
+10:01
+
+← Q data science
+
+17
+
+Your Responsibilities
+
+• Find creative uses of different database types and data pipelines to ensure patient data we collect and medical knowledge we produce stay
+
+consistent & interoperable.
+
+• Develop and integrate parts of our clinical inference engine relying both on rule-based and statistical models.
+
+• Design and extend clinical data models using domain ontologies (e.g., SNOMED-CT, FHIR, UMLS) to turn healthcare data into rich, queryable graph structures.
+
+• Translate research insights into scalable, production-grade software efficiently in an agile
+
+and close-knit team.
+
+Work closely with medical experts to capture clinical workflows and validate ontology
+
+mappings.
+
+• Shape the technical direction, schema design, and engineering best practices across the engineering
+
+team.
+
+Your Profile
+
+• MSc or PhD in computer science, mathematics, or related field.
+
+• +4 years of proven industry experience in working with medical data or in data engineering (or
+
+•
+
+appropriate academic research).
+
+Strong knowledge of graph databases, query languages, search algorithms and/or inference systems (e.g. Neo4j, Memgraph, Cypher, SQL, Datalog).
+
+•Extensive experience in software development with Python and/or TypeScript - being comfortable with switching languages/ frameworks.
+
+• Resident in the EU with a valid work permit.
+
+Nice to have
+
+• Familiarity with concepts of statistics, formal
+
+logics and/or machine learning.
+
+Experience with EHRs and clinical data exchange formats (e.g. FHIR).
+
+• Deep interest in the area of Knowledge
+
+Representation and Reasoning (KRR).
+
+• Experience with independently managing cloud environments (ie. GCP) and CI/CD pipelines.
+
+Your Benefits
+
+• Join one of Europe's leading healthtech scale-ups and make a real impact in a purpose-driven
+
+•
+
+environment.
+
+• Take on exciting challenges while working in a dynamic space where creativity and fresh ideas are always encouraged.
+
+• Benefit from a dedicated training budget and professional development time, because we believe in growing together and supporting your skill-building journey.
+
+• Work where you are most productive - remotely from home or from one of our offices in Vienna,
+
+Budapest, and Berlin.
+
+Jelentkezés
+
+Mentés

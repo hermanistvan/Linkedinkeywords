@@ -1,0 +1,37 @@
+10:08.
+
+Q data science
+
+•
+
+Requirements:
+
+5+ years building production ML/AI systems; 2+ years at senior/lead level.
+
+• Strong Python engineering (testing, packaging, code quality, performance profiling).
+
+• Hands-on experience with LLMs and agentic Al in real systems (tool calling, orchestration, workflow integration).
+
+Experience adapting LLMs (LoRA/QLORA/PEFT or equivalent) and evaluating quality/safety.
+
+• Experience implementing RAG and operating retrieval components in production.
+
+• Strong MLOps fundamentals: containers, CI/CD, model/service versioning, monitoring.
+
+• API/service development: REST/gRPC, auth, rate limits, error handling, resilience patterns. Comfortable operating in cloud environments (AWS/GCP/Azure) with production constraints.
+
+Benefits:
+
+• Inference optimization: quantization, batching/ caching, GPU serving (e.g., vLLM/TGI or similar). • Agent safety engineering: prompt injection
+
+in
+
+Egyszerű jelentkezés
+
+|||
+
+Mentés
+
+r
+
+15

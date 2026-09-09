@@ -1,0 +1,61 @@
+10:12
+
+← Q data science
+
+13
+
+What You'll Bring
+
+•
+
+Strong software engineering skills, preferably in Python, with an ability to build reliable,
+
+maintainable production systems.
+
+• Experience taking features from an ambiguous request through technical design, delivery, rollout, and iteration.
+
+• Product-minded approach: able to clarify user needs, make pragmatic scope and technical trade-offs, and focus on high-impact outcomes. Strong analytical skills and a passion for solving complex, real-world problems.
+
+•
+
+• Solid understanding of modern Al systems and practical experience with LLM-powered
+
+applications, including retrieval-augmented generation (RAG), agentic workflows, document search, and evaluation.
+
+• Familiarity with relevant data and platform technologies, such as vector search/vector databases, SQL, and messaging systems.
+
+• Ability to define and use appropriate measures of feature quality, usefulness, reliability, and adoption. • Strong communication skills in English, including the ability to work directly with and support internal users.
+
+• Mature, thoughtful attitude; comfortable working independently in a small team and taking
+
+responsibility for outcomes.
+
+• Strong delivery mindset and a drive to get things done.
+
+• Experience in finance is not required.
+
+What We Offer
+
+• Competitive compensation package
+
+• Core benefits include: premium private health insurance and life insurance with savings plan
+
+• Support for every aspect of life through Employee Assistance Program and fully covered sick leave Strong culture of learning and development:
+
+•
+
+•
+
+training courses, library, guest speakers, share and learn events, global conferences
+
+Regular offsite team buildings, annual
+
+conferences and occasional global summits · opportunity to travel and connect with our local
+
+and global teams
+
+By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy
+
+Jelentkezés
+
+Mentés

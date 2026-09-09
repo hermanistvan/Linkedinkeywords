@@ -1,0 +1,75 @@
+10:21
+
+← Q data science
+
+11
+
+Required Qualifications
+
+• Strong software engineering skills in .NET and/or Python, with experience building production-grade APIs and services
+
+• Applied algorithmic problem solving, including search, ranking, clustering, and data extraction/ transformation pipelines
+
+•
+
+Solid understanding of LLM architectures and trade-offs (e.g. GPT-family, Claude, Llama, and similar models)
+
+• Experience integrating LLM and agent APIs (e.g. Azure OpenAl, OpenAI API, Claude API, Amazon Bedrock)
+
+• Design and implementation of agent-based systems for automation, orchestration, and decision support
+
+• Experience working with relational, document, and graph databases, including data modeling and querying
+
+• Web data ingestion experience, including web scraping, schema extraction, and handling changing source structures
+
+•
+
+•
+
+•
+
+Experience building reliable, scalable, maintainable Al systems, including logging, error handling, and performance considerations
+
+Nice To Have
+
+Fine-tuning and preference optimization
+
+techniques (e.g. supervised fine-tuning, RL-style
+
+approaches via APIs)
+
+Designing pipelines that convert unstructured data
+
+into reliable structured representations
+
+• Exposure to event-driven or background
+
+•
+
+processing architectures for long-running Al
+
+workflows
+
+Experience contributing to or operating
+
+Al-powered systems in production
+
+Riasztás beállítása hasonló
+
+állásokhoz
+
+Senior Al Engineer, Budapest, Budapest,
+
+Ki
+
+Hungary
+
+Gyorsabb álláskeresés a Premium
+
+csomaggal
+
+Hozzáférhet a vállalati információkhoz, például
+
+Jelentkezés
+
+Mentés

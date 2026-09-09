@@ -1,0 +1,77 @@
+10:16
+
+•
+
+← Q data science
+
+12
+
+Qualifications
+
+WHAT DO YOU NEED TO APPLY TO THIS ROLE?
+
+•
+
+4+ years of relevant professional experience, including client-facing or advisory roles
+
+• Advanced Power BI expertise - semantic modeling, DAX, report development, deployment pipelines; you are equally comfortable designing a solution and building it yourself
+
+•
+
+•
+
+•
+
+Working knowledge of data extraction and
+
+―
+
+processing SQL, dbt, or Spark; comfortable
+
+navigating real-world data environments
+
+Practical use of Al tools - hands-on experience using LLM-based tools (Claude, Gemini, ChatGPT, or similar) to enhance the speed and quality of your analytical and consulting work
+
+• Strong business acumen - you understand how businesses operate, how decisions get made, and how to frame data in terms of commercial impact Exceptional communication skills - able to lead high-level client discussions on data analytics solutions, translate business needs into technical requirements, and present findings with confidence
+
+• Structured, analytical thinking - you approach complex, ambiguous problems with a clear framework and an eye for what matters
+
+• Client ownership mindset - you take responsibility for outcomes, manage expectations proactively, and build long-term trust
+
+• Fluent English, written and spoken
+
+•
+
+Degree in Business, Economics, Engineering, Statistics, Computer Science, or a related field
+
+What is good to have?
+
+•
+
+SME-level domain knowledge in one or more of:
+
+•
+
+Retail, Banking & Finance, or Telecommunications
+
+Background in Big4, top-tier consultancy, or
+
+CXO-level support in a large enterprise
+
+• Prior experience with generative Al or machine learning projects
+
+• Familiarity with data management methodologies and/or tools
+
+• Proficiency in additional BI tools: Tableau, Looker, or similar platforms
+
+Additional Information
+
+"Data-driven digitalization, human-centered culture"
+
+At Hiflylabs, we strive to create a work environment that is both challenging and supportive, allowing our employees to grow and excel with our company. We believe that our people are our most
+
+valuable assets, and we are committed to invest in their personal and professional development through our mentoring system.
+
+Jelentkezés
+
+Mentés

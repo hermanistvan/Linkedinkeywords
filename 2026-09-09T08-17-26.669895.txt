@@ -1,0 +1,69 @@
+10:10
+
+•
+
+← Q data science
+
+14
+
+Téged várunk, ha van:
+
+Több éves tapasztalatod Al engineering, ML engineering vagy szoftverfejlesztési területen • Magabiztos Python tudásod, valamint
+
+•
+
+tapasztalatod production-ready, jól karbantartható kód fejlesztésében
+
+Gyakorlatod nagy nyelvi modellekre épülő
+
+alkalmazások fejlesztésében vagy integrációjában, különösen RAG vagy agentikus megoldások esetén
+
+• Tapasztalatod Al vendor megoldások integrációjában és műszaki hangolásában
+
+• Ismereted REST API-k, microservice architektúrák és enterprise integrációs minták terén • Tapasztalatod konténerizációs és cloud környezetekkel (pl. Docker, Kubernetes)
+
+• CI/CD és MLOps szemléleted
+
+• Jó kommunikációs készséged és szakmai angol nyelvtudásod
+
+Előnnyel indulsz nálunk, ha van:
+
+• Tapasztalatod LLM fine-tuning területen (pl. PEFT,
+
+LORA, qLORA)
+
+• Tapasztalatod multi-agent rendszerek
+
+fejlesztésében
+
+• Ismereted model serving frameworkökről (pl. VLLM, Triton, BentoML, KServe)
+
+• Tapasztalatod MLOps és monitoring eszközökkel (pl. MLflow, Airflow, Kubeflow, Prometheus, Grafana stb.)
+
+• Gyakorlatod GPU/CUDA környezetekkel
+
+• Ismereted distributed adatfeldolgozási keretrendszerekről (pl. Spark, Dask)
+
+Backend vagy frontend fejlesztési tapasztalatod (pl. Java, Node.js, Angular)
+
+• Informatikai vagy kapcsolódó műszaki felsőfokú végzettséged
+
+Ezért érdemes hozzánk csatlakozni:
+
+• Stratégiai jelentőségű szerepkör, ahol valós ráhatásod lehet enterprise Al rendszerek kialakítására
+
+·
+
+Modern technológiai környezet, nagy nyelvi modellekre, RAG és agentikus megoldásokra építve
+
+• Érdemi befolyás a fejlesztési irányokra és a mérnöki standardok alakítására
+
+• Folyamatos szakmai fejlődési lehetőség és aktív
+
+tudásmegosztási közeg
+
+Versenyképes juttatási csomag és rugalmas
+
+Jelentkezés
+
+Mentés

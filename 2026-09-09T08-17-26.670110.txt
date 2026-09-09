@@ -1,0 +1,131 @@
+10:06
+
+X
+
+Medior Al Engineer
+
+•
+
+PwC Hungary Budapest, Budapest, Hungary (H...
+
+Miért izgalmas ez a lehetőség?
+
+15
+
+:
+
+• A PwC GenAl Lab dinamikusan fejlődő csapatához csatlakozhatsz, ahol Magyarország vezető szakértőitől tanulhatsz;
+
+• Vállalati működési modelleket, folyamatokat alapjaiban változtathatsz meg a technológia segítségével;
+
+Megismerkedhetsz a legkülönbözőbb iparágak szereplőivel;
+
+• Alkalmad nyílik a gyors fejlődésre, és munkádért versenyképes javadalmazásban részesülhetsz, • Kihívást jelentő feladatok és dinamikus
+
+munkakörnyezet vár;
+
+• Változatos feladatokkal és nagyvállalati ügyfelekkel foglalkozhatsz hazai és nemzetközi projektekben;
+
+• On-prem és felhő alapú technológiákban szélesítheted univerzális vagy mélyítheted speciális tudásodat.
+
+Feladataid a következők lesznek:
+
+• Nagy nyelvi modellekre (LLM) épülő, RAG (Retrieval-Augmented Generation) és agentic alapú rendszerek aktív fejlesztése, a koncepciótól a működő prototípusig.
+
+• Innovatív megoldások kidolgozása, a legújabb generatív Al trendek és kutatási eredmények folyamatos követése és gyakorlati alkalmazása. • Szoros együttműködés a vállalat különböző üzletágaival és belső döntéshozóival új felhasználási lehetőségek azonosítása és
+
+implementálása céljából.
+
+• Önálló felelősségvállalás Proof of Concept (POC) projektekben, a tervezéstől a leszállításig.
+
+Munkádat senior szakértőinkkel szoros
+
+együttműködésben végzed, biztosítva a magas minőségű eredményeket és a folyamatos szakmai fejlődésedet.
+
+A kiválasztási folyamatban sikeres lehetsz, ha rendelkezel az alábbi kompetenciákkal:
+
+• Szakmai Tapasztalat: Minimum 2-3 év releváns szoftverfejlesztői tapasztalat, amelyből legalább 1 év kimondottan RAG és/vagy ágens alapú (Agentic) Al rendszerek fejlesztésével telt. • Programozás: Magabiztos, haladó szintű Python tudás, beleértve az aszinkron programozás és a multiprocessing technológiák gyakorlati ismeretét. • Al/LLM Ökoszisztéma: Multi-agent rendszerek, guardrail megoldások és orkesztrációs keretrendszerek (pl. LangGraph) alapvető ismerete és használata.
+
+• Context Engineering: Haladó szintű
+
+kontextusépítési stratégiák ismerete és
+
+alkalmazása a modellek teljesítményének
+
+maximalizálására.
+
+• Adatkezelés: Különböző adatbázisok magabiztos
+
+·
+
+használata, különös tekintettel a
+
+vektoradatbázisokra.
+
+Szoftverfejlesztői Szemlélet: Erős
+
+szoftverfejlesztői alapok, CLEAN kód írására való
+
+törekvés
+
+• Személyes Kompetenciák: Kiváló csapatjátékos
+
+vagy, de képes vagy önállóan is felelősséget vállalni. Proaktív, megoldásorientált hozzáállás
+
+jellemez.
+
+• Nyelvtudás: Magabiztos, legalább középfokú angol
+
+nyelvtudás.
+
+A pályázatok elbírálásánál előnyt jelent:
+
+• Szenvedély a nyelvi modellek és a körülöttük lévő, dinamikusan fejlődő ökoszisztéma iránt; ha a terület vezető kutatóitól és a legfrissebb
+
+publikációkból tanulsz.
+
+• Multi-agent rendszerek architekturális mintáinak (pl. hierarchikus, kollaboratív modellek) ismerete
+
+és tervezési tapasztalata.
+
+• Jártasság az LLM rendszerek monitorozásában és automatizált kiértékelésében.
+
+• Mélyebb elméleti tudás, például a Transformer
+
+architektúra működésének részletes ismerete.
+
+• Gyakorlati tapasztalat LLM-alapú rendszerek
+
+specifikus tesztelési módszertanaiban. • Folyamat-automatizációs eszközök ismerete, különösen az n8n platformon, és Copilot
+
+•
+
+Studio-val szerzett tapasztalat.
+
+Gyakorlati tapasztalat valamely felhőplatformon
+
+(elsősorban Azure), valamint konténerizációs technológiák (Docker, Kubernetes) alapszintű
+
+ismerete.
+
+• Szélesebb körű gépi tanulási algoritmusok és technikák gyakorlati alkalmazásában szerzett jártasság.
+
+Miért válassz bennünket?
+
+• Változatos feladatokkal teli munkakörnyezet és folyamatos szakmai fejlődés: nálunk lehetőséged nyílik arra, hogy tapasztalatot szerezz, miközben fejleszted képességeidet egy ösztönző, támogató közegben.
+
+• Rugalmas munkarend és home office lehetőség:
+
+igény szerint te oszthatod be a munkaidődet, és részben otthonról is dolgozhatsz.
+
+• Támogatás a tanulás és fejlődés útján: számos
+
+üzleti és digitális tréning, valamint egyéb workshopok várnak, hogy folyamatosan fejleszthesd személyes és szakmai képességeidet.
+
+• Sokszínű juttatási csomag az alapbéren felül: éves
+
+bónusz rendszerünkön felül minden kollégánknak SZÉP-Kártya, home office támogatás és magán egészségügyi szolgáltatás biztosított. Céges sportolási lehetőségek, edzőtermi kedvezmények és változatos egészségmegőrző programok
+
+Jelentkezés
+
+Mentés

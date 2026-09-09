@@ -1,0 +1,45 @@
+10:25
+
+← Q data science
+
+10
+
+•
+
+Qualifications
+
+Bachelor's or master's degree in Al, computer science, Engineering, mathematics or a related field.
+
+• 2-4 years of experience in developing and deploying Agentic solutions to production. • Hands-on experience developing solutions using no code/low code platforms and SDKs.
+
+• Must be proficient in Microsoft Azure GenAl
+
+•
+
+platforms (Al Foundry, Copilot Studio), Power Platform.
+
+Experience applying advanced Al concept such as MCP servers for connecting Al Agents to tools and.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Strong communication and collaboration skills.
+
+Preferred Skills
+
+• Automation of complex processes using GenAl agents, especially using the Azure Foundry, Copilot Studio, Power Automate and other low code/no code platforms.
+
+• Advanced programming with Python, SQL
+
+• Hands-on experience with at least one of the following data storage systems: Snowflake, Azure Fabric (One Lake), and PostgreSQL
+
+• A preferred candidate would also have experience building sites with SharePoint building automation workflows with Power Automate platform.
+
+Why Join Greif
+
+Opportunity to work with a global leader in industrial packaging.
+
+• Collaborative and inclusive work environment
+
+Jelentkezés
+
+Mentés

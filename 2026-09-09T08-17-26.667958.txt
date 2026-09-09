@@ -1,0 +1,45 @@
+10:25
+
+X
+
+•
+
+Al Engineer - Al Platform (LLM Systems) Basis Technologies Budapest, Budapest, Hung...
+
+·
+
+Essential Experience And Skills
+
+Ill 10
+
+Hands-on experience in Al engineering, building production LLM-powered systems, for example Al-powered chatbots or retrieval-based recommendation tools
+
+• Deep, practical experience building RAG systems from scratch, including chunking strategy,
+
+embedding model selection, and indexing design • Solid understanding of hybrid retrieval: semantic search, reranking, and multi-stage retrieval pipelines
+
+• Experience with vector databases for semantic retrieval at scale
+
+• Experience building evaluation processes that measure retrieval quality against ground truth • Strong prompt engineering and context engineering skills
+
+•
+
+Strong software engineering fundamentals: Python, REST APIs, CI/CD pipelines
+
+• Comfortable working in a fast-moving scale-up environment, figuring things out as you go
+
+Desirable Skills
+
+• Experience with graph databases, as a complement to vector-based retrieval
+
+• Experience with agentic workflow patterns: multi-agent orchestration, tool-calling, state management
+
+• Experience building shared Al infrastructure used by multiple product teams
+
+What We Do
+
+We enable every SAP-run business to manage change intelligently, no matter how complex their technology landscape. Our suite of Intelligent Change Management solutions harnesses the collective intelligence of the SAP community to help business and technology change teams work together to explore, plan, and execute business change imperatives. For over 25 years, we have helped equip. liberate, and champion SAP change
+
+Jelentkezés
+
+Mentés

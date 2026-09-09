@@ -1,0 +1,47 @@
+What will make you successful?
+
+•
+
+Experience: 7+ years in IT/Software Engineering, including 5+ years in Solution Architecture or technical leadership, with a track record of
+
+delivering enterprise-grade Al, cloud, or automation solutions.
+
+Education: Bachelor's/Master's degree in
+
+Computer Science, Al, Data Science, or a related field (or equivalent practical experience).
+
+• Al & Data Tech Stack:
+
+• Deep practical knowledge of GenAI & Agentic Architecture (RAG, vector databases, multi-agent orchestration, tool calling, LLM evaluation, and safety guardrails).
+
+•
+
+Core data engineering proficiency (data modeling, pipelines, relational/NoSQL).
+
+• Python programming skills; familiarity with cloud-native stacks (Azure preferred-Azure OpenAl, Al Search).
+
+•
+
+Pluses: Computer Vision (OCR, object detection) and frontend basics (React/Angular).
+
+• Architecture & Delivery: Strong foundation in backend systems, secure API/modular design, distributed integration patterns, Agile delivery, and DevOps/MLOps/LLMOps pipelines (CI/CD, versioning, monitoring).
+
+•
+
+Documentation & Safety: Experience creating clear C4 diagrams, technical specs, and runbooks while enforcing responsible Al, privacy, and security-by-design.
+
+Mindset & Communication:
+
+• Fluent in English with exceptional technical and non-technical stakeholder management skills. • Analytical, pragmatic problem-solver who turns ambiguity into concrete MVP roadmaps.
+
+• An ownership mindset with the ability to mentor, guide, and constructively challenge development teams.
+
+•
+
+Nice-to-Have Skills:
+
+Cloud & Integration: Hands-on experience with Azure-native Al services, API management, enterprise integration platforms, and identity/ secure access patterns.
+
+• Advanced Al: Familiarity with Computer Vision, agent/orchestration frameworks, TOGA, LLM observability, and evaluation tools.
+
+• Governance & Standards: Experience setting up reusable Al architecture blueprints/standards, data privacy protocols, responsible Al, and Al-specific threat modeling.

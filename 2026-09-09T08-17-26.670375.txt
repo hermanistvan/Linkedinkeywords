@@ -1,0 +1,57 @@
+10:04 O
+
+← Q data science
+
+16
+
+•
+
+Skills needed:
+
+• Degree in computer science or a similar field Advanced coding skills in Python (preferred) or Java, with solid understanding of software engineering principles
+
+•
+
+Experience with backend frameworks (FastAPI, Flask, Django) and microservice architectures.
+
+• Familiarity with containerization and orchestration tools (Docker, Kubernetes, GitHub Actions, MLFlow) • Experience implementing CI/CD and MLOps pipelines in cloud environments (Azure ML, Databricks, AWS)
+
+• Hands-on experience with data ETL, APIs and model deployment workflows
+
+• Knowledge of distributed systems and data platforms for big data
+
+•
+
+Understanding of Agile, SAFe methodologies and collaborative engineering practices
+
+Fluent English and a proactive, problem solving mindset
+
+Nice to have (not a must):
+
+• Experience with multi-agent or generative Al frameworks (e.g., LangChain, CrewAI)
+
+•
+
+·
+
+Familiarity with SAP AI Core, SAP BTP
+
+Experience with agile frameworks (e.g., Scrum,
+
+SAFe) and project management tools (e.g., Jira)
+
+For more information - please apply for this job or send your CV directly to cristiana@cavendish professionals.com
+
+Cavendish (Recruitment) Professionals Ltd are proud to be an equal opportunity employer and we believe that inclusivity begins with the candidate experience. All qualified applicants will receive consideration for employment regardless of, gender, race, age, sexual orientation, religion, or belief.
+
+Riasztás beállítása hasonló állásokhoz
+
+Senior Al Engineer, Budapest, Hungary Ki
+
+Toborzással kapcsolatos betekintés zárolásának feloldása itt: Cavendish
+
+in
+
+Egyszerű jelentkezés
+
+Mentés

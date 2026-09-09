@@ -1,0 +1,51 @@
+10:04 O
+
+← Q data science
+
+Te vagy az ideális jelölt, ha:
+
+• Rendelkezel legalább 5 év szoftverfejlesztési tapasztalattal Al-fókusszal (NLP, LLM, RAG). • Magabiztosan programozol Pythonban (clean code, típusos Python 3.11+, async/await, Pydantic).
+
+•
+
+Van gyakorlatod retrieval-architektúrákban (RAG, hibrid keresés, vektor adatbázisok).
+
+• Jártas vagy a tesztelésben és
+
+kódminőség-biztosításban (pytest, mocking,
+
+quality gate).
+
+• Tapasztalt vagy konténerizált környezetekben (Docker).
+
+• Dolgoztál már éles termékkörnyezetbe kerülő
+
+•
+
+szoftvereken, termékszemlélettel.
+
+• Ismered az iteratív fejlesztési kereteket
+
+(CRISP-DM, SDLC).
+
+• Képes vagy automatizált kiértékelési pipeline-ok, benchmark rendszerek tervezésére.
+
+• Aktív B2+ angol nyelvtudással rendelkezel. • Gyorsan tanulsz, jól alkalmazkodsz és erős analitikus gondolkodással rendelkezel. Proaktívan, felelősségteljesen és hatékonyan dolgozol, önállóan és csapatban is.
+
+A pályázásod során előnyt jelenthet, amennyiben:
+
+• AWS vagy Azure OpenAl tapasztalat.
+
+• MCP (Model Context Protocol) és modern API szabványok ismerete.
+
+Mi az, amit mi biztosítunk?
+
+• Családbarát munkahelyet, kötetlen munkaidővel, rugalmas hozzáállással.
+
+• Stresszmentes környezetet, ahol nagy hangsúlyt kap a work-life balance.
+
+Jelentkezés
+
+Mentés
+
+16

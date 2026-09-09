@@ -1,0 +1,53 @@
+10:08.
+
+← Q data science
+
+What You'll Do
+
+15
+
+You'll be a core contributor to the engine behind our platform, working on systems that process massive, complex datasets and turn them into real-world impact.
+
+• Design and write clean, scalable Python code to solve challenging, real-world problems
+
+• Build and maintain APIs and data pipelines using FastAPI, SQLAlchemy, and Pandas
+
+•
+
+Support and integrate machine-learning
+
+workflows into production systems
+
+• Store, process, and optimize 2D, 3D, and GIS data at city scale
+
+• Collaborate closely with data scientists, ML engineers, and product teams
+
+What We're Looking For
+
+•
+
+Strong Python skills and solid algorithmic thinking
+
+• A team-first mindset and comfort working in a
+
+collaborative, fast-moving environment
+
+• Curiosity, ownership, and a problem-solving attitude
+
+Nice to Have
+
+Experience working with urban, geospatial, or spatial data
+
+• Familiarity with Docker, Kubernetes, and cloud platforms
+
+• Previous experience in a startup or scale-up environment
+
+Why Join Us
+
+• Make a direct impact on climate adaptation and the future of cities through technology that actually gets used
+
+•
+
+• Work on meaningful, real-world problems at the intersection of Al, sustainability, and urban tech Join a fast-growing, international team with real freedom to shape both the product and your role Learn, experiment, and grow with talented, curious (green-)tech experts who genuinely care about what they build
+
+•

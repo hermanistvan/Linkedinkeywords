@@ -1,0 +1,39 @@
+10:01
+
+X
+
+Senior Software Engineer - AI 4flow Budapest, Budapest, Hungary (Hybrid)
+
+•
+
+Why you belong at 4flow
+
+• You bring at least five years of experience in professional software development, ideally with a strong focus on integrating Al and machine learning into real-world applications.
+
+• Building on a bachelor's degree in computer science, software engineering, or a related field, you feel confident working with Python or Java, and you're equally comfortable using SQL and handling large datasets.
+
+• You have hands-on experience with established machine learning frameworks such as
+
+17
+
+TensorFlow, PyTorch, scikit-learn or Hugging Face Transformers and you understand data
+
+engineering, ETL processes and core ML algorithms well enough to translate them into reliable, scalable solutions.
+
+• Working with Docker, CI/CD pipelines, and cloud platforms like AWS, Azure, or GCP is already part of your daily toolkit.
+
+•
+
+On top of your technical strengths, you bring strong analytical thinking, clear communication skills, a collaborative approach and a proactive, self-driven mindset. I
+
+•f you've worked with frontend technologies like Angular, React or similar frameworks, that's an added bonus.
+
+What we offer
+
+|||
+
+O
+
+• SZÉD card and private health insurance.
+
+r

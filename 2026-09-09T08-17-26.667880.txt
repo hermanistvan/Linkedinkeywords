@@ -1,0 +1,51 @@
+10:27
+
+•
+
+← Q data science
+
+ود الله
+
+Where You Make An Impact
+
+•
+
+Design, build, and operate Al agents (single- and multi-agent) including tool use/function calling, orchestration, and state/memory management • Build and optimize RAG solutions (retrieval, chunking, re-ranking, citations/source grounding, document lifecycle management)
+
+• Implement guardrails and security controls: prompt-injection defenses, PII/DLP handling, policy enforcement, secrets management • Establish evaluation and testing for agents and GenAl components
+
+• Drive LLMOps/observability: logging/tracing, monitoring, feedback loops, A/B testing, cost/ token and latency optimization, rollback strategies • Administer and govern enterprise Al platforms. • Set up and maintain SSO/access control, role/ permission models, provisioning (joiner/mover/ leaver), auditing and reporting
+
+• Define and enforce Al governance standards (data classification, approved use cases, retention, compliance/security requirements) together with IT/Security/Legal
+
+• Integrate agents into business workflows via automation/orchestration tools: triggers, workflows, API connectors, error handling, monitoring, retries
+
+Because You Matter (example)
+
+• Competitive salary and benefits package.
+
+• Flexible working hours with a hybrid model require
+
+•
+
+60% office presence.
+
+Cafeteria with multiple options in the amount of gross 40,000 HUF
+
+• Private health insurance after 3 months' probation
+
+• Modern office location with ergonomic
+
+workspaces, and a collaborative atmosphere
+
+What Makes You Be The Perfect Fit
+
+• Degree in Computer Science, Data Science, Mathematics, Physics, or a related field
+
+• Software engineering skills (e.g., Python), API design/integration, testing, clean code
+
+• Proven experience in agent building (tool/function calling, orchestration patterns, stateful workflows) • Hands-on expertise in RAG & search, including citations/source-grounding logic
+
+Jelentkezés
+
+Mentés

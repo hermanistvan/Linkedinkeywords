@@ -1,0 +1,49 @@
+10:24
+
+← Q data science
+
+10
+
+Your Background
+
+You don't need to tick every box, but we're generally looking for:
+
+• Strong experience in software engineering, technical delivery, or technical leadership
+
+• Experience deploying ML systems into production, including serving, monitoring, and retraining
+
+• Experience leading or mentoring engineering squads
+
+• Hands-on experience building and training deep learning models in PyTorch
+
+• Familiarity with MLOps tooling such as MLflow and CI/CD workflows
+
+• Experience with AWS, Azure, or GCP
+
+• Experience with sequence models (e.g.
+
+transformers, RNNs) or generative models (e.g. diffusion, flow, or GANS) - applied to any domain; experience with spatiotemporal, time-series, or motion/trajectory data is a strong plus.
+
+• Experience balancing leadership responsibilities with active development
+
+• Strong stakeholder communication and delivery planning skills
+
+• Willingness to work on-site in our Alkmaar office
+
+Nice to Have (But Not Required)
+
+• Strong understanding of scalable systems, APIs, and cloud-native architectures
+
+•
+
+Understanding of real-time data systems or 3D graphics pipelines
+
+• Experience with Unity or game engines
+
+• Interest in football or other team sports
+
+Why Level Up Your Career at Beyond Sports
+
+Jelentkezés
+
+Mentés
